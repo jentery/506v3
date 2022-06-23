@@ -1,5 +1,5 @@
 Games and Interactive Fiction  
-English 506 | CSPT 500 | Fall 2022 at UVic  
+English 506 | CSPT 500/600 | Fall 2022 at UVic  
 Taught by Jentery Sayers (he / him; jentery@uvic.ca)   
 
 **This document is an incomplete draft.** It's licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
