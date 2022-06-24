@@ -43,7 +43,7 @@ My name is Jentery Sayers (he / him). I'm a settler scholar and associate profes
 
 No experience with games or media is expected for this seminar, and you won't need access to a gaming computer or console. You will need access to the internet and a computer, though. For your player story, you will also need to play at least one game or interactive fiction, and to document that process in some way. More on that in a second.  
 
-I am not asking you to acquire any books for this seminar, either. I will instead distribute a course reader comprised of screen-readable PDFs, which you may choose to print. If a PDF in that read is not accessible or searchable, then please let me know. I'll fix and redistribute it.
+I am not asking you to acquire any books for this seminar, either. I will instead distribute a course reader comprised of screen-readable PDFs, which you may choose to print. If a PDF in that course reader is not accessible or searchable, then please let me know. I'll fix and redistribute it.
 
 To recap, then, you don't need to buy any books or games for this seminar, but you will need access to: 
 * The internet, 
@@ -56,7 +56,7 @@ To recap, then, you don't need to buy any books or games for this seminar, but y
 
 A player story needs a game or fiction, so I created a [list](games.html) to help you pick one. I'm open to suggestions, too. They just need to be games I've played and studied a bit. Thanks for meeting me halfway. 
 
-I'll encourage to you start playing early in the term. This way you can gradually refine your research, accrue plenty of documentation, and share your work in progress with us. How you document your play, and how you compose a player story, will be up to you; however, I'll nudge you to try a few techniques before stick to one. Importantly, the techniques won't need to be high-tech. You can use audio or video, if you wish, or just text and images. I'll cover more of the particulars during the three workshops I've planned for the term. 
+I'll encourage to you start playing early in the term. This way you can gradually refine your research, gather plenty of documentation, and share your work in progress with us. How you document your play, and how you compose a player story, will be up to you; however, I'll nudge you to try a few techniques before you select one. Importantly, your player story techniques won't need to be high-tech. You can use audio or video, if you wish, or just text and images. I'll cover more of the particulars during the three player story workshops I've planned for the term. 
 
 The balance of this "Materials" section contains recommendations related to game studies. If you don't have the time for that, or you're simply not interested, then no worries. You can skip to ["Aims and Workload."](#aims-and-workload) Choose your own adventure?!?!
 
@@ -66,7 +66,7 @@ I recommend purchasing merrit k's [*Videogames for Humans*](https://www.instarbo
 
 Elsewhere, the course reader is comprised mostly of chapters from academic monographs, such as Mary Flanagan's *Critical Play*, Tara Fickle's *The Race Card*, Kishonna L. Gray's *Intersectional Tech*, Patrick Jagoda's *Experimental Games*, Christopher B. Patterson's *Open World Empire*, Amanda Phillips's *Gamer Trouble*, Bo Ruberg's *Video Games Have Always Been Queer*, and T.L. Taylor's *Watch Me Play*. If you find a chapter to be especially compelling, then I recommend acquiring the entire monograph to further your research. 
 
-If you are looking for a primer on writing games criticism, then try Ian Bogost's *How to Talk about Videogames*. There's also publications like: 
+If you are looking for a primer on writing games criticism, then try Ian Bogost's *How to Talk about Videogames*. There are also popular and academic publications like: 
 * [*Uppercut*](https://uppercutcrit.com/), "a games and media site devoted to punching up through high quality content that focuses on highlighting marginalized voices and great criticism."
 * [*Funland*](https://funland.itch.io/funland-issue-1), "an all-new digital games publication. Instead of merely being an exercise in nostalgia or aesthetics, it will blend elements of olde with coverage that better reflects our modern tone, scope and politics. In short: A queer GamePro."
 * [*First Person Scholar*](http://www.firstpersonscholar.com/) (also a podcast), featuring "timely, rigorous, and accessible criticism that challenges all players to engage in what Mary Flanagan calls *critical play*."
@@ -77,12 +77,12 @@ primarily covers video games that are created by independent developers or studi
 * [*Loading...: The Journal of the Canadian Game Studies Association*](https://journals.sfu.ca/loading/index.php/loading), "a forum for publishing original and interdisciplinary academic research on video games."
 * [*Well Played*](https://press.etc.cmu.edu/index.php/publication-tag/well-played/), "a forum for in-depth close readings of video games that parse out the various meanings to be found in the experience of playing a game."
 * [*Analog Game Studies*](https://analoggamestudies.org/), "a journal dedicated to the academic and popular study of games containing a substantial analog component."
-* [*Game Studies*](gamestudies.org/), "a non-profit, open-access, crossdisciplinary journal dedicated to games research, web-published several times a year; our primary focus is aesthetic, cultural and communicative aspects of computer games, but any previously unpublished article focused on games and gaming is welcome." 
+* [*Game Studies*](http://gamestudies.org/2202), "a non-profit, open-access, crossdisciplinary journal dedicated to games research, web-published several times a year; our primary focus is aesthetic, cultural and communicative aspects of computer games, but any previously unpublished article focused on games and gaming is welcome." 
 * *Games and Culture*, "an international journal that promotes innovative theoretical and empirical research about games and culture within interactive media."
 * *Journal of Gaming and Virtual Worlds*, which "explores the cultural effects of gaming and virtual worlds across platforms and genres, as their increasing popularity begins to affect culture as a whole."
 * *Critical Studies in Media Communication*, "a peer-reviewed publication of the National Communication Association. CSMC publishes original scholarship in mediated and mass communication from a cultural studies and/or critical perspective."
 
-If you're curious about the design side of games, then Anna Anthropy's *Rise of the Videogame Zinesters* is an excellent intro to not only experimental games but also many of the issues we'll engage this term. Katie Salen Tekinbaş and Eric Zimmerman's *Rules of Play* is a canonical game design book that you'll find, for example, on UVic English's "Book and Media Studies" PhD exam list. Anthropy also wrote *A Game Design Vocabulary* with Naomi Clark; it grounds game design in "verbs" and storytelling. Brenda Romero and Ian Schreiber's *Challenges for Game Designers* is excellent, too. It's filled with clever exercises, and I've used it in several of my prototyping classes. 
+If you're curious about the design side of games, then Anna Anthropy's *Rise of the Videogame Zinesters* is an excellent intro to not only experimental games but also many issues we'll engage this term. Katie Salen Tekinbaş and Eric Zimmerman's *Rules of Play* is a canonical game design book that you'll find, for example, on UVic English's "Book and Media Studies" PhD exam list. Anthropy also wrote *A Game Design Vocabulary* with Naomi Clark; it grounds game design in "verbs" and storytelling. Brenda Romero and Ian Schreiber's *Challenges for Game Designers* is excellent, too. It's filled with clever exercises, and I've used it in several of my prototyping classes. 
 
 ## Recommended Listening 
 
@@ -102,7 +102,7 @@ You can donate via Patreon where applicable.
 
 ## Recommended Literary Studies
 
-The "Player Stories" course material foregrounds media and cultural studies of games. This approach is distinct from a literary study of the same material. Since many, if not most, of you have backgrounds in English, below is a list of pertinent literary topics accompanied by some experts on them, with links to key publications. We might touch on these literary topics during seminar discussions, and you're more than welcome to pursue them as part of your research.  
+This seminar, like all seminars, is biased. It privileges media and cultural studies of games. This approach is distinct from a literary study of the same material. Since many, if not most, of you have backgrounds in English, below is a list of pertinent literary topics accompanied by some experts on them, with links to key publications. We might touch on these literary topics during seminar discussions, and you're more than welcome to pursue them as part of your player story.  
 * Digital fiction and software ([Noah Wardrip-Fruin](https://mitpress.mit.edu/books/expressive-processing)),
 * Electronic literature ([N. Katherine Hayles](https://undpress.nd.edu/9780268030858/electronic-literature/) and [Scott Rettberg](https://www.wiley.com/en-us/Electronic+Literature-p-9781509516773)),
 * "Ergodic" literature ([Espen J. Aarseth](https://www.press.jhu.edu/books/title/1398/cybertext)),
