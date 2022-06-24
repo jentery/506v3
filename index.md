@@ -11,8 +11,8 @@ Contents:
 
 * [About the Seminar](#about-the-seminar)
 * [What's a Player Story?](#whats-a-player-story)
+* [About Me](#about-me)
 * [Materials](#materials) 
-* [About Me](#about-me) 
 * [Aims and Workload](#aims-and-workload) 
 * [Schedule](#schedule)
 * [Policies](#policies) 
@@ -27,29 +27,42 @@ This seminar responds to such toxic culture with four questions, which we will a
 
 # What's a Player Story?
 
-There's no consensus on what "player story" means or implies in the context of games and interactive fiction. It functions pragmatically in [industry](https://blog.agilegamedevelopment.com/2020/04/player-stories.html) as an alternative to "user story," and it's used salaciously on [Wattpad](https://www.wattpad.com/stories/player) to denote a (sub)genre of fan fiction. Although I'm tempted to teach a course about the latter, we'll spin player stories in another direction, toward the horizon of media and cultural studies. A Let's Play video or live stream might be a player story according to that media and culture paradigm. Yet merritt k's text, *Videogames for Humans*, demonstrates why neither audio nor video is necessary. 
+There's no consensus on what "player story" means or implies in the context of games and interactive fiction. It functions pragmatically in [industry](https://blog.agilegamedevelopment.com/2020/04/player-stories.html) as an alternative to "user story," and it's used salaciously on [Wattpad](https://www.wattpad.com/stories/player) to denote a (sub)genre of fan fiction. Although I'm tempted to teach a course about the latter, we'll spin player stories in another direction, toward the horizon of media and cultural studies. A Let's Play video or live stream might be a player story according to that media and culture paradigm. Yet merritt k's book, [*Videogames for Humans*](https://www.instarbooks.com/books/videogames-for-humans.html), demonstrates why neither audio nor video is necessary. 
 
 What, then, of content and composition? What are player stories *about*? Must they unfold in real time, or might they be more reflective? How do players perform or present themselves in their stories? How do they navigate the historical, cultural, political, economic, aesthetic, technical, and/or personal dimensions of play? What, if anything, does fiction have to do with all this? Such questions reveal the motivations for this seminar, and experimenting with the praxis of player stories---and what they can *do* with respect to toxicity---will be our shared line of inquiry this term. You'll make your own by the end of it.
 
-Since your player story will be the final project, I will not dwell much on how to write journal articles or monographs in game studies. We will nevertheless read criticism in the field, and I'll ask you to engage it in various ways (e.g., through seminar discussion, in writing, and via your own player stories methodology). I will also ask you to address the roles of composition, documentation, attribution, accountability, accessibility, and embodied experience in research, all of which remain deeply relevant to scholarship in the humanities.  
+Since your player story will be the final project, I will not dwell much on how to write journal articles or monographs in game studies. We will nevertheless read criticism in the field, and I'll ask you to engage it in various ways (e.g., through seminar discussion, in writing, and via your own player stories methodology). I will also ask you to address the roles of documentation, attribution, accountability, accessibility, narrative, and embodied experience in research, all of which remain deeply relevant to scholarship in the humanities.  
 
 Many thanks to Melanie Oberg (University of Alberta), who introduced me to Let's Plays as part of her research and sparked my interest in player stories back in 2015-16. We'll read some of her work this term. 
 
+# About Me 
+
+My name is Jentery Sayers (he / him). I'm a settler scholar and associate professor of English and Cultural, Social, and Political Thought (CSPT). I direct the Praxis Studio for Comparative Media Studies, and I've been at UVic since 2011. I did my MA and PhD in English at the University of Washington, and I grew up in Richmond, Virginia, where I also got my BA and BS at Virginia Commonwealth University. I'm in the middle of writing a book about the sounds of "playable fiction." I teach media studies, cultural studies, and American literature at UVic. This is my eleventh graduate seminar here, but it's my first on player stories. 
+
 # Materials 
 
-No experience with games, media studies, or media production is expected for this seminar, and you won't need access to a gaming computer or console. You will need access to the internet and a computer, though. 
+No experience with games or media is expected for this seminar, and you won't need access to a gaming computer or console. You will need access to the internet and a computer, though. For your player story, you will also need to play at least one game or interactive fiction, and to document that process in some way. More on that in a second.  
 
-I am not asking you to acquire any books or games, either. I will instead distribute a course reader comprised of screen-readable PDFs, which you may choose to print. If a PDF in that read is not accessible or searchable, then please let me know. I'll fix and redistribute it.
+I am not asking you to acquire any books for this seminar, either. I will instead distribute a course reader comprised of screen-readable PDFs, which you may choose to print. If a PDF in that read is not accessible or searchable, then please let me know. I'll fix and redistribute it.
 
-To compose your player story, you will need to play at least one game or interactive fiction in this course.  
+To recap, then, you don't need to buy any books or games for this seminar, but you will need access to: 
+* The internet, 
+* A computer, 
+* The course reader, which I'll circulate in PDF, 
+* A game (see list below), and 
+* A way to document your experiences playing that game (also more below). 
 
 ## Pick a Game or Interactive Fiction
 
-Coming soon. 
+A player story needs a game or fiction, so I created a [list](games.html) to help you pick one. I'm open to suggestions, too. They just need to be games I've played and studied a bit. Thanks for meeting me halfway. 
 
-## Recommended Books 
+I'll encourage to you start playing early in the term. This way you can gradually refine your research, accrue plenty of documentation, and share your work in progress with us. How you document your play, and how you compose a player story, will be up to you; however, I'll nudge you to try a few techniques before stick to one. Importantly, the techniques won't need to be high-tech. You can use audio or video, if you wish, or just text and images. I'll cover more of the particulars during the three workshops I've planned for the term. 
 
-I recommend purchasing merrit k's [*Videogames for Humans*](https://www.instarbooks.com/books/videogames-for-humans.html), if you can. It's available in paperback and ebook, including playable versions of all the games featured in the book.
+The balance of this "Materials" section contains recommendations related to game studies. If you don't have the time for that, or you're simply not interested, then no worries. You can skip to ["Aims and Workload"](#aims-and-workload). Choose your own adventure?!?!
+
+## Recommended Reading 
+
+I recommend purchasing merrit k's [*Videogames for Humans*](https://www.instarbooks.com/books/videogames-for-humans.html), if you can. It's available as a paperback and ebook (PDF, EPUB, and MOBI), and with it you get playable versions of every game featured in the book. Neat! 
 
 Elsewhere, the course reader is comprised mostly of chapters from academic monographs, such as Mary Flanagan's *Critical Play*, Tara Fickle's *The Race Card*, Kishonna L. Gray's *Intersectional Tech*, Patrick Jagoda's *Experimental Games*, Christopher B. Patterson's *Open World Empire*, Amanda Phillips's *Gamer Trouble*, Bo Ruberg's *Video Games Have Always Been Queer*, and T.L. Taylor's *Watch Me Play*. If you find a chapter to be especially compelling, then I recommend acquiring the entire monograph to further your research. 
 
@@ -57,7 +70,7 @@ If you are looking for a primer on writing games criticism, then try Ian Bogost'
 
 If you're curious about the design side of games, then Anna Anthropy's *Rise of the Videogame Zinesters* is an excellent intro to experimental games and many of the issues we'll engage this term. Katie Salen Tekinbaş and Eric Zimmerman's *Rules of Play* is a canonical game design book that you'll find, for example, on UVic English's "Book and Media Studies" PhD exam list. Anthropy also wrote *A Game Design Vocabulary* with Naomi Clark; it grounds design in "verbs" and storytelling. Brenda Romero and Ian Schreiber's *Challenges for Game Designers* is excellent, too. It's filled with clever exercises, and I've used it in several of my prototyping classes. 
 
-## Recommended Podcasts 
+## Recommended Listening 
 
 I like podcasts. You? Here are some podcasts that land somewhere near or inside the zone of game studies:
 * [*The AIAS Game Maker's Notebook*](https://www.interactive.org/Interviews/the_game_makers_notebook.asp), which features "in-depth, one-on-one conversations between game makers." 
@@ -73,23 +86,19 @@ I like podcasts. You? Here are some podcasts that land somewhere near or inside 
 
 You can donate via Patreon where applicable. 
 
-## Literary Studies
+## Recommended Literary Studies
 
-The "Player Stories" course material foregrounds media and cultural studies of games and interactive fiction. This approach is distinct from a literary study of the same material. Since many, if not most, of you have backgrounds in English, below's a list of pertinent literary topics and some experts on them, with links to key works. We might touch on these topics,s and you're more than welcome to pursue them as part of your research.  
-* digital fiction and software ([Noah Wardrip-Fruin](https://mitpress.mit.edu/books/expressive-processing)).
-* electronic literature ([N. Katherine Hayles](https://undpress.nd.edu/9780268030858/electronic-literature/) and [Scott Rettberg](https://www.wiley.com/en-us/Electronic+Literature-p-9781509516773)).
-* "ergodic" literature ([Espen J. Aarseth](https://www.press.jhu.edu/books/title/1398/cybertext))
-* literary games ([Elizabeth W. Bruss](https://www-jstor-org.ezproxy.library.uvic.ca/stable/468444?seq=1) and [Astrid Ensslin](https://mitpress.mit.edu/books/literary-gaming))
-* narrative and narratology ([Janet Murray](https://mitpress.mit.edu/books/hamlet-holodeck) and [Marie-Laure Ryan](https://ohiostatepress.org/books/titles/9780814215081.html)).
-* theatre ([Brenda Laurel](https://www.oreilly.com/library/view/computers-as-theatre/9780133390889/) and [Gina Bloom](https://www.press.umich.edu/9831118/gaming_the_stage))
-* video games and storytelling ([Souvik Mukherjee](https://link.springer.com/book/10.1057/9781137525055)).
+The "Player Stories" course material foregrounds media and cultural studies of games. This approach is distinct from a literary study of the same material. Since many, if not most, of you have backgrounds in English, below is a list of pertinent literary topics accompanied by some experts on them, with links to key publications. We might touch on these literary topics during seminar discussions, and you're more than welcome to pursue them as part of your research.  
+* Digital fiction and software ([Noah Wardrip-Fruin](https://mitpress.mit.edu/books/expressive-processing)),
+* Electronic literature ([N. Katherine Hayles](https://undpress.nd.edu/9780268030858/electronic-literature/) and [Scott Rettberg](https://www.wiley.com/en-us/Electronic+Literature-p-9781509516773)),
+* "Ergodic" literature ([Espen J. Aarseth](https://www.press.jhu.edu/books/title/1398/cybertext)),
+* Literary games ([Elizabeth W. Bruss](https://www-jstor-org.ezproxy.library.uvic.ca/stable/468444?seq=1) and [Astrid Ensslin](https://mitpress.mit.edu/books/literary-gaming)),
+* Narrative and narratology ([Janet Murray](https://mitpress.mit.edu/books/hamlet-holodeck) and [Marie-Laure Ryan](https://ohiostatepress.org/books/titles/9780814215081.html)),
+* Theatre ([Brenda Laurel](https://www.oreilly.com/library/view/computers-as-theatre/9780133390889/) and [Gina Bloom](https://www.press.umich.edu/9831118/gaming_the_stage)), and
+* Video games and storytelling ([Souvik Mukherjee](https://link.springer.com/book/10.1057/9781137525055)).
 
 There are also curatorial projects such as: 
-* Hayles et al.'s [*Electronic Literature Collection*](https://collection.eliterature.org/).
-* Aaron A. Reed's [*50 Years of Text Games*](https://if50.substack.com/archive?sort=new).
-* Dene Grigar et al.'s [*The NEXT*](https://the-next.eliterature.org/).
+* Hayles et al.'s [*Electronic Literature Collection*](https://collection.eliterature.org/), 
+* Aaron A. Reed's [*50 Years of Text Games*](https://if50.substack.com/archive?sort=new), 
+* Dene Grigar et al.'s [*The NEXT*](https://the-next.eliterature.org/), and
 * Many many collections on [itch.io](https://itch.io/featured-games-feed?filter=collections).
-
-# About Me 
-
-My name is Jentery Sayers (he / him). I’m a settler scholar and associate professor of English and Cultural, Social, and Political Thought (CSPT). I direct the Praxis Studio for Comparative Media Studies, and I’ve been at UVic since 2011. I did my MA and PhD in English at the University of Washington, and I grew up in Richmond, Virginia, where I also got my BA and BS (at Virginia Commonwealth University). I'm in the middle of writing a book about the sounds of "playable fiction." I teach media studies, cultural studies, and American literature at UVic. This is my eleventh graduate seminar here, but it's my first on player stories. 
