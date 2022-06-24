@@ -49,7 +49,7 @@ To recap, then, you don't need to buy any books or games for this seminar, but y
 * The internet, 
 * A computer, 
 * The course reader, which I'll circulate in PDF, 
-* A game (see list below), and 
+* A game (see more below), and 
 * A way to document your experiences playing that game (also more below). 
 
 ## Pick a Game or Interactive Fiction
@@ -58,7 +58,7 @@ A player story needs a game or fiction, so I created a [list](games.html) to hel
 
 I'll encourage to you start playing early in the term. This way you can gradually refine your research, accrue plenty of documentation, and share your work in progress with us. How you document your play, and how you compose a player story, will be up to you; however, I'll nudge you to try a few techniques before stick to one. Importantly, the techniques won't need to be high-tech. You can use audio or video, if you wish, or just text and images. I'll cover more of the particulars during the three workshops I've planned for the term. 
 
-The balance of this "Materials" section contains recommendations related to game studies. If you don't have the time for that, or you're simply not interested, then no worries. You can skip to ["Aims and Workload"](#aims-and-workload). Choose your own adventure?!?!
+The balance of this "Materials" section contains recommendations related to game studies. If you don't have the time for that, or you're simply not interested, then no worries. You can skip to ["Aims and Workload."](#aims-and-workload) Choose your own adventure?!?!
 
 ## Recommended Reading 
 
@@ -66,13 +66,27 @@ I recommend purchasing merrit k's [*Videogames for Humans*](https://www.instarbo
 
 Elsewhere, the course reader is comprised mostly of chapters from academic monographs, such as Mary Flanagan's *Critical Play*, Tara Fickle's *The Race Card*, Kishonna L. Gray's *Intersectional Tech*, Patrick Jagoda's *Experimental Games*, Christopher B. Patterson's *Open World Empire*, Amanda Phillips's *Gamer Trouble*, Bo Ruberg's *Video Games Have Always Been Queer*, and T.L. Taylor's *Watch Me Play*. If you find a chapter to be especially compelling, then I recommend acquiring the entire monograph to further your research. 
 
-If you are looking for a primer on writing games criticism, then try Ian Bogost's *How to Talk about Videogames*. There's also publications like [*Uppercut*](https://uppercutcrit.com/), [*Funland*](https://funland.itch.io/funland-issue-1), [*First Person Scholar*](http://www.firstpersonscholar.com/) (also a podcast), [*Patch*](https://patchmagazine.co.uk/), and [*Unwinnable*](https://unwinnable.com/) as well as journals such as [*Ada*](https://adanewmedia.org/), [*Loading...*](https://journals.sfu.ca/loading/index.php/loading), [*Well Played*](https://press.etc.cmu.edu/index.php/publication-tag/well-played/), [*Analog Game Studies*](https://analoggamestudies.org/), *Games and Culture*, *Game Studies*, *Gaming and Virtual Worlds*, and *Critical Studies in Media Communication*.  
+If you are looking for a primer on writing games criticism, then try Ian Bogost's *How to Talk about Videogames*. There's also publications like: 
+* [*Uppercut*](https://uppercutcrit.com/), "a games and media site devoted to punching up through high quality content that focuses on highlighting marginalized voices and great criticism."
+* [*Funland*](https://funland.itch.io/funland-issue-1), "an all-new digital games publication. Instead of merely being an exercise in nostalgia or aesthetics, it will blend elements of olde with coverage that better reflects our modern tone, scope and politics. In short: A queer GamePro."
+* [*First Person Scholar*](http://www.firstpersonscholar.com/) (also a podcast), featuring "timely, rigorous, and accessible criticism that challenges all players to engage in what Mary Flanagan calls *critical play*."
+* [*Patch*](https://patchmagazine.co.uk/), "an independent news source which
+primarily covers video games that are created by independent developers or studios."
+* [*Unwinnable*](https://unwinnable.com/), "a website and digital magazine, founded in 2010 to provide a different kind of cultural criticism. We love to read about different perspectives, so we set out to collect a diverse group of contributors, amateur and veteran alike, to tell their stories."
+* [*Ada: A Journal of Gender, New Media, and Technology*](https://adanewmedia.org/), "an open-access peer reviewed journal featuring scholarship on gender, new media and technology."
+* [*Loading...: The Journal of the Canadian Game Studies Association*](https://journals.sfu.ca/loading/index.php/loading), "a forum for publishing original and interdisciplinary academic research on video games."
+* [*Well Played*](https://press.etc.cmu.edu/index.php/publication-tag/well-played/), "a forum for in-depth close readings of video games that parse out the various meanings to be found in the experience of playing a game."
+* [*Analog Game Studies*](https://analoggamestudies.org/), "a journal dedicated to the academic and popular study of games containing a substantial analog component."
+* [*Game Studies*](gamestudies.org/), "a non-profit, open-access, crossdisciplinary journal dedicated to games research, web-published several times a year; our primary focus is aesthetic, cultural and communicative aspects of computer games, but any previously unpublished article focused on games and gaming is welcome." 
+* *Games and Culture*, "an international journal that promotes innovative theoretical and empirical research about games and culture within interactive media."
+* *Journal of Gaming and Virtual Worlds*, which "explores the cultural effects of gaming and virtual worlds across platforms and genres, as their increasing popularity begins to affect culture as a whole."
+* *Critical Studies in Media Communication*, "a peer-reviewed publication of the National Communication Association. CSMC publishes original scholarship in mediated and mass communication from a cultural studies and/or critical perspective."
 
-If you're curious about the design side of games, then Anna Anthropy's *Rise of the Videogame Zinesters* is an excellent intro to experimental games and many of the issues we'll engage this term. Katie Salen Tekinbaş and Eric Zimmerman's *Rules of Play* is a canonical game design book that you'll find, for example, on UVic English's "Book and Media Studies" PhD exam list. Anthropy also wrote *A Game Design Vocabulary* with Naomi Clark; it grounds design in "verbs" and storytelling. Brenda Romero and Ian Schreiber's *Challenges for Game Designers* is excellent, too. It's filled with clever exercises, and I've used it in several of my prototyping classes. 
+If you're curious about the design side of games, then Anna Anthropy's *Rise of the Videogame Zinesters* is an excellent intro to not only experimental games but also many of the issues we'll engage this term. Katie Salen Tekinbaş and Eric Zimmerman's *Rules of Play* is a canonical game design book that you'll find, for example, on UVic English's "Book and Media Studies" PhD exam list. Anthropy also wrote *A Game Design Vocabulary* with Naomi Clark; it grounds game design in "verbs" and storytelling. Brenda Romero and Ian Schreiber's *Challenges for Game Designers* is excellent, too. It's filled with clever exercises, and I've used it in several of my prototyping classes. 
 
 ## Recommended Listening 
 
-I like podcasts. You? Here are some podcasts that land somewhere near or inside the zone of game studies:
+I like podcasts. You? Here are some podcasts that land somewhere in the zone of game studies:
 * [*The AIAS Game Maker's Notebook*](https://www.interactive.org/Interviews/the_game_makers_notebook.asp), which features "in-depth, one-on-one conversations between game makers." 
 * [*Channel F*](https://www.fanbyte.com/channel-f-fanbyte-podcast/), where "host merritt k now subjects her coworkers to twisted challenges in order to determine who lives and who dies. Also, video games!"
 * [*Critical Distance*](https://critical-distance.com/category/podcast/), "an interview series about game research supported by Critical Distance and the Digital Games Research Association."
