@@ -1,7 +1,7 @@
 Games and Interactive Fiction    
 English 506 | CSPT 500/600    
 Fall 2022 at the University of Victoria   
-Thursday, 9:30am - 12:20pm
+Thursday, 9:30am - 12:20pm   
 Taught by Jentery Sayers (he / him)    
 Office hours: Thursday, 12:30 - 2:30pm    
 jentery@uvic.ca
