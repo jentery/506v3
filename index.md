@@ -1,6 +1,7 @@
 Games and Interactive Fiction    
 English 506 | CSPT 500/600    
-Fall 2022 at the University of Victoria    
+Fall 2022 at the University of Victoria   
+Thursday, 9:30am - 12:20pm
 Taught by Jentery Sayers (he / him)    
 Office hours: Thursday, 12:30 - 2:30pm    
 jentery@uvic.ca
@@ -131,7 +132,7 @@ I've also designed three workshops on the praxis of making your own player story
 * Prompt 7 (draft by Nov. 24; due Dec. 1): Use 250 words to write an abstract for your player story. Identify the intended audience.  
 * Prompt 8 (due Dec. 1): Submit a draft of your player story in the form of a seminar demo or presentation. 
 
-I'll invite you to compose your player story across media: images and text, audio and text, or video, for instance. The final draft is due by December 15th, and I will circulate a detailed prompt for it on October 20th. By that December 15th due date, you'll also have a chance to outline any significant revisions (a "revisions statement") you'd make to Prompts 1-7, without having to actually revise them.
+I'll invite you to compose your player story across media: images and text, audio and text, or video, for instance. The final draft is due by December 15th, and I will circulate a detailed prompt for it on October 20th. By that December 15th due date, you'll also have a chance to outline any significant revisions (a "revisions statement") you'd make to your responses to Prompts 1-7, without having to actually revise them.
 
 Your player story, revisions statement, and responses to Prompts 1-8 comprise your seminar portfolio, which I will assess like so: 
 * Early work in progress (due Sept. 29; 10% of your final mark): Your responses to Prompts 1 and 2 as well as any notes or documentation you wish to include. 
@@ -141,3 +142,13 @@ Your player story, revisions statement, and responses to Prompts 1-8 comprise yo
 * Revisions statement (due Dec. 15; 10% of your final mark): 300-400 words outlining significant revisions you would make to your responses to Prompts 1-7. 
 
 I suggest dedicating 6 to 9 hours of study each week to this seminar, plus 3 hours for the weekly seminar meetings. Of course, 6 to 9 hours per week is only a guideline. You may find that you need more or less time depending on the activity, your preferences, and your own familiarity with the work and materials involved. 
+
+# Schedule  
+
+The seminar schedule is below. It's subject to change, and I will announce any changes 1-2 weeks in advance. I will *not* use changes to increase your workload. 
+
+You will find most assigned materials in the course reader. I link to them if they are *not* in the reader. 
+
+You'll also notice that I like to recommend related materials, which may also appear in the course reader, but *I in no way expect you to read or study what I recommend.* We can't read all the things, and I know you've a lot to juggle in a single term. I refer to related materials for the sake of scholarly integrity and in case you with to follow a particular trajectory across game studies. I may also mention these related materials during seminar discussions. If I fail to define a term they use or an argument they make, then please don't hesitate to tell me. I'll clarify. 
+
+One other thing to know about me before we proceed: *I'm a planner, I always over-plan, and I’ll opt for care in every instance.* If the workload becomes too much, or the seminar starts to struggle with scope creep, then we’ll cut material. I’ve planned for the maximum in advance, under the assumption that we won't get to everything. And that's totally fine. 
