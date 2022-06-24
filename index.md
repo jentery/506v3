@@ -43,7 +43,7 @@ My name is Jentery Sayers (he / him). I'm a settler scholar and associate profes
 
 No experience with games or media is expected for this seminar, and you won't need access to a gaming computer or console. You will need access to the internet and a computer, though. For your player story, you will also need to play at least one game or interactive fiction, and to document that process in some way. More on that in a second.  
 
-I am not asking you to acquire any books for this seminar, either. I will instead distribute a course reader comprised of screen-readable PDFs, which you may choose to print. If a PDF in that course reader is not accessible or searchable, then please let me know. I'll fix and redistribute it.
+I am not asking you to acquire any books for this seminar, either. I will instead distribute a course reader of screen-readable PDFs, which you may choose to print. If a PDF in that course reader is not accessible or searchable, then please let me know. I'll fix and redistribute it.
 
 To recap, then, you don't need to buy any books or games for this seminar, but you will need access to: 
 * The internet, 
@@ -64,7 +64,7 @@ The balance of this "Materials" section contains recommendations related to game
 
 I recommend purchasing merrit k's [*Videogames for Humans*](https://www.instarbooks.com/books/videogames-for-humans.html), if you can. It's available as a paperback and ebook (PDF, EPUB, and MOBI), and with it you get playable versions of every game featured in the book. Neat! 
 
-Elsewhere, the course reader is comprised mostly of chapters from academic monographs, such as Mary Flanagan's *Critical Play*, Tara Fickle's *The Race Card*, Kishonna L. Gray's *Intersectional Tech*, Patrick Jagoda's *Experimental Games*, Christopher B. Patterson's *Open World Empire*, Amanda Phillips's *Gamer Trouble*, Bo Ruberg's *Video Games Have Always Been Queer*, and T.L. Taylor's *Watch Me Play*. If you find a chapter to be especially compelling, then I recommend acquiring the entire monograph to further your research. 
+Elsewhere, the course reader is mostly chapters from academic monographs, such as Mary Flanagan's *Critical Play*, Tara Fickle's *The Race Card*, Kishonna L. Gray's *Intersectional Tech*, Patrick Jagoda's *Experimental Games*, Christopher B. Patterson's *Open World Empire*, Amanda Phillips's *Gamer Trouble*, Bo Ruberg's *Video Games Have Always Been Queer*, and T.L. Taylor's *Watch Me Play*. If you find a chapter to be especially compelling, then I recommend acquiring the entire monograph to further your research. 
 
 If you are looking for a primer on writing games criticism, then try Ian Bogost's *How to Talk about Videogames*. There are also popular and academic publications like: 
 * [*Uppercut*](https://uppercutcrit.com/), "a games and media site devoted to punching up through high quality content that focuses on highlighting marginalized voices and great criticism."
