@@ -116,3 +116,28 @@ There are also curatorial projects such as:
 * Aaron A. Reed's [*50 Years of Text Games*](https://if50.substack.com/archive?sort=new), 
 * Dene Grigar et al.'s [*The NEXT*](https://the-next.eliterature.org/), and
 * Many many collections on [itch.io](https://itch.io/featured-games-feed?filter=collections).
+
+# Aims and Workload
+
+My primary goal for this seminar is to create a space where you've ample time and resources to develop, refine, and share your own project (i.e., a player story). I've thus kept the reading load to 70 pages or less per week (and often only an article or chapter). 
+
+I've also designed three workshops on the praxis of making your own player story, and I cooked up eight prompts to scaffold or direct your inquiry from early September to early December. Here are those prompts, in brief:  
+* Prompt 1 (draft by Sept. 22; due Sept. 29): Use 250-300 words to describe a type of play, or a context for play, that most interests you.
+* Prompt 2 (due Sept. 29): Use 250-300 words to describe a type of game or fiction that most interests you. 
+* Prompt 3 (draft by Oct. 6; due Nov. 3): Play a game or fiction, preferably with someone else in the seminar. Experiment with three ways to document your performance or experience of play. Then use 250-300 words to describe your three approaches and provide examples along the way. 
+* Prompt 4 (draft by Oct. 13; due Nov. 3): It's time to pick a game for your player story! Use 250-400 words to describe your game, explain why you selected it, and complete a worksheet about it. 
+* Prompt 5 (due Nov. 3): Use 500-750 words to outline your player stories methodology, supported by a primary source (a game or fiction), another player story (a model or inspiration), and 3-5 secondary sources.
+* Prompt 6 (draft by Nov. 17; due Dec. 1): Use 500-750 words (plus images) or 7-10 minutes of audio / video to engage any text we've read through play. 
+* Prompt 7 (draft by Nov. 24; due Dec. 1): Use 250 words to write an abstract for your player story. Identify the intended audience.  
+* Prompt 8 (due Dec. 1): Submit a draft of your player story in the form of a seminar demo or presentation. 
+
+I'll invite you to compose your player story across media: image and text, audio and text, or video, for instance. The final draft is due by December 15th, and I will circulate a detailed prompt for it on October 20th. By that December 15th due date, you'll also have a chance to outline any significant revisions (a "revisions statement") you'd make to Prompts 1-7, without having to actually revise them.
+
+Your player story, revisions statement, and responses to Prompts 1-8 comprise your seminar portfolio, which I will assess like so: 
+* Early work in progress (due Sept. 29; 10% of your final mark): Your responses to Prompts 1 and 2 as well as any notes or documentation you wish to include. 
+* Mid-term work in progress (due Nov. 3; 20% of your final mark): Your responses to Prompts 3, 4, and 5 as well as any notes or documentation you wish to include. 
+* Late-term work in progress (due Dec. 1; 25% of your final mark): Your responses to Prompts 6, 7, and 8 as well as any notes or documentation you wish to include. 
+* Final project (due Dec. 15; 35% of your final mark): The final draft of your player story. 
+* Revisions statement (due Dec. 15; 10% of your final mark): 300-400 words outlining significant revisions you would make to your responses to Prompts 1-7. 
+
+I suggest dedicating 6 to 9 hours of study each week to this seminar, plus 3 hours for the weekly seminar meetings. Of course, 6 to 9 hours per week is only a guideline. You may find that you need more or less time depending on the activity, your preferences, and your own familiarity with the work and materials involved. 
