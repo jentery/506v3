@@ -10,6 +10,7 @@ jentery@uvic.ca
 
 Contents: 
 
+* [Syllabus in a Page](#syllabus-in-a-page)
 * [About the Seminar](#about-the-seminar)
 * [What's a Player Story?](#whats-a-player-story)
 * [About Me](#about-me)
@@ -19,6 +20,12 @@ Contents:
 * [Policies](#policies) 
 * [Territory Acknowledgement](#territory-acknowledgement)
 * [View this Document in PDF](#view-this-document-in-pdf)
+
+# Syllabus in a Page 
+
+In a rush? Overwhelmed by this document or the start of term? Need a cheat sheet to steward you through 506? 
+
+I've made a [one-page, tl;dr version of this syllabus](guide.html) for you. I'll print you a copy, too.  
 
 # About the Seminar
 
@@ -123,8 +130,8 @@ There are also curatorial projects such as:
 My primary goal for this seminar is to create a space where you've ample time and resources to develop, refine, and share your own project (i.e., a player story). I've thus kept the reading load to 70 pages or less (often only an article or chapter) per week. 
 
 I've also designed three workshops on the praxis of making your own player story, and I cooked up eight prompts to scaffold or direct your inquiry from early September to early December. Here are those prompts, in brief:  
-* **Prompt 1** (draft by Sept. 22; due Sept. 29): Use 250-300 words to describe a type of play, or a context for play, that most interests you.
-* **Prompt 2** (due Sept. 29): Use 250-300 words to describe a type of game or fiction that most interests you. 
+* **Prompt 1** (draft by Sept. 22; due Sept. 29): Use 250-300 words to describe a type of play, or a context for play, you might research for this seminar.
+* **Prompt 2** (due Sept. 29): Use 250-300 words to describe a type of game or fiction you might research for this seminar. 
 * **Prompt 3** (draft by Oct. 6; due Nov. 3): Play a game or fiction, preferably with someone else in the seminar. Experiment with three ways to document your performance or experience of play. Then use 250-300 words to describe your three approaches and provide examples along the way. 
 * **Prompt 4** (draft by Oct. 13; due Nov. 3): It's time to pick a game or fiction for your player story! Use 250-400 words to describe it, explain why you selected it, and complete a worksheet on it. 
 * **Prompt 5** (due Nov. 3): Use 500-750 words to outline your player stories methodology, supported by a primary source (a game or fiction), another player story (a model or inspiration), and 3-5 secondary sources.
@@ -189,3 +196,20 @@ I recommend Clint Hocking's "Ludonarrative Dissonance in *Bioshock*" (6 pages; 2
 *During our second meeting*, we'll discuss these five texts, carefully engaging them page by page to describe their lines of inquiry across play and games. We'll also consider the contexts of play and games rather than relying on strict or ahistorical definitions of them. 
 
 I recommend Matthew Thomas Payne and Nina B. Huntemann's "A Game Genie for Game Studies" (13 pages; from *How to Play Video Games* 2019; coming soon) and Nick Montfort's "Toward a Theory of Interactive Fiction" (34 pages; from *IF Theory Reader* 2011).
+
+## Week 3 (September 22nd): Play and Games, Part 2 
+
+*Before seminar*, please read: 
+
+* C.L.R. James's "'What Is Art?'" (16 pages; from *Beyond a Boundary* 1963), 
+* Bo Ruberg's "No Fun" (17 pages; from *QED: A Journal in GLBTQ Worldmaking* 2.2 2015; revised to be Chapter 6 in *Video Games Have Always Been Queer* 2019), 
+* Tara Fickle's "West of the Magic Circle" (20 pages; from *The Race Card* 2019), and 
+* Elizabeth A. LaPensée, Outi Laiti, and Maize Longboat's "Towards Sovereign Games" (16 pages; from *Games and Culture* 2022). 
+
+This is the most reading we'll do for a single week in the term. 
+
+*During our third meeting*, we'll give that page-by-page, careful engagement another go, this time with these four texts. Then we'll return to games terminology. I'll conclude by introducing you to Taylor's *Watch Me Play* and Gray's *Intersectional Tech*, which we'll discuss next week. 
+
+**Prompt 1**: Use 250-300 words to describe a type of play, or a context for play, you might research for this seminar. Please explain why it interests you and how it corresponds with at least one text we've read thus far. No worries. None of this is written in stone. You might change your mind as the term unfolds. The seminar is your audience for this response, and you're welcome to write informally. I advise spending an hour or less writing your response. (You'll submit this response on September 29th, but I suggest writing at least a rough draft for today's meeting.)
+
+I recommend Soraya Murray's "Video Games and Playable Media" (6 pages; from *Feminist Media Histories* 4.2 2018), Aaron Trammell's "Decolonizing Play" (9 pages; from *Critical Studies in Media Communication* 39.3 2022), Edmond Y. Chang's "Queergaming" (9 pages; from *Queer Game Studies* 2017), and Stephanie Boluk and Patrick LeMieux's "Breaking the Metagame" (16 pages; from *Metagaming*).
