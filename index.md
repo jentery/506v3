@@ -123,23 +123,23 @@ There are also curatorial projects such as:
 My primary goal for this seminar is to create a space where you've ample time and resources to develop, refine, and share your own project (i.e., a player story). I've thus kept the reading load to 70 pages or less (often only an article or chapter) per week. 
 
 I've also designed three workshops on the praxis of making your own player story, and I cooked up eight prompts to scaffold or direct your inquiry from early September to early December. Here are those prompts, in brief:  
-* Prompt 1 (draft by Sept. 22; due Sept. 29): Use 250-300 words to describe a type of play, or a context for play, that most interests you.
-* Prompt 2 (due Sept. 29): Use 250-300 words to describe a type of game or fiction that most interests you. 
-* Prompt 3 (draft by Oct. 6; due Nov. 3): Play a game or fiction, preferably with someone else in the seminar. Experiment with three ways to document your performance or experience of play. Then use 250-300 words to describe your three approaches and provide examples along the way. 
-* Prompt 4 (draft by Oct. 13; due Nov. 3): It's time to pick a game or fiction for your player story! Use 250-400 words to describe it, explain why you selected it, and complete a worksheet on it. 
-* Prompt 5 (due Nov. 3): Use 500-750 words to outline your player stories methodology, supported by a primary source (a game or fiction), another player story (a model or inspiration), and 3-5 secondary sources.
-* Prompt 6 (draft by Nov. 17; due Dec. 1): Use 500-750 words (plus images) or 7-10 minutes of audio / video to engage any text we've read through play. 
-* Prompt 7 (draft by Nov. 24; due Dec. 1): Use 250 words to write an abstract for your player story. Identify the intended audience.  
-* Prompt 8 (due Dec. 1): Submit a draft of your player story in the form of a seminar demo or presentation. 
+* **Prompt 1** (draft by Sept. 22; due Sept. 29): Use 250-300 words to describe a type of play, or a context for play, that most interests you.
+* **Prompt 2** (due Sept. 29): Use 250-300 words to describe a type of game or fiction that most interests you. 
+* **Prompt 3** (draft by Oct. 6; due Nov. 3): Play a game or fiction, preferably with someone else in the seminar. Experiment with three ways to document your performance or experience of play. Then use 250-300 words to describe your three approaches and provide examples along the way. 
+* **Prompt 4** (draft by Oct. 13; due Nov. 3): It's time to pick a game or fiction for your player story! Use 250-400 words to describe it, explain why you selected it, and complete a worksheet on it. 
+* **Prompt 5** (due Nov. 3): Use 500-750 words to outline your player stories methodology, supported by a primary source (a game or fiction), another player story (a model or inspiration), and 3-5 secondary sources.
+* **Prompt 6** (draft by Nov. 17; due Dec. 1): Use 500-750 words (plus images) or 7-10 minutes of audio / video to engage any text we've read through play. 
+* **Prompt 7** (draft by Nov. 24; due Dec. 1): Use 250 words to write an abstract for your player story. Identify the intended audience.  
+* **Prompt 8** (due Dec. 1): Submit a draft of your player story in the form of a seminar demo or presentation. 
 
 I'll invite you to compose your player story across media: images and text, audio and text, or video, for instance. The final draft is due by December 15th, and I will circulate a detailed prompt for it on October 20th. By that December 15th due date, you'll also have a chance to outline any significant revisions (a "revisions statement") you'd make to your responses to Prompts 1-7, without having to actually revise them.
 
 Your player story, revisions statement, and responses to Prompts 1-8 comprise your seminar portfolio, which I will assess like so: 
-* Early work in progress (due Sept. 29; 10% of your final mark): Your responses to Prompts 1 and 2 as well as any notes or documentation you wish to include. 
-* Mid-term work in progress (due Nov. 3; 20% of your final mark): Your responses to Prompts 3, 4, and 5 as well as any notes or documentation you wish to include. 
-* Late-term work in progress (due Dec. 1; 25% of your final mark): Your responses to Prompts 6, 7, and 8 as well as any notes or documentation you wish to include. 
-* Final project (due Dec. 15; 35% of your final mark): The final draft of your player story. 
-* Revisions statement (due Dec. 15; 10% of your final mark): 300-400 words outlining significant revisions you would make to your responses to Prompts 1-7. 
+* **Early work in progress** (due Sept. 29; 10% of your final mark): Your responses to Prompts 1 and 2 as well as any notes or documentation you wish to include. 
+* **Mid-term work in progress** (due Nov. 3; 20% of your final mark): Your responses to Prompts 3, 4, and 5 as well as any notes or documentation you wish to include. 
+* **Late-term work in progress** (due Dec. 1; 25% of your final mark): Your responses to Prompts 6, 7, and 8 as well as any notes or documentation you wish to include. 
+* **Final project** (due Dec. 15; 35% of your final mark): The final draft of your player story. 
+* **Revisions statement** (due Dec. 15; 10% of your final mark): 300-400 words outlining significant revisions you would make to your responses to Prompts 1-7. 
 
 I suggest dedicating 6 to 9 hours of study each week to this seminar, plus 3 hours for the weekly seminar meetings. Of course, 6 to 9 hours per week is only a guideline. You may find that you need more or less time depending on the activity, your preferences, and your own familiarity with the work and materials involved. 
 
@@ -155,23 +155,37 @@ One other thing to know about me before we proceed: *I'm a planner, I always ove
 
 ## Week 1 (September 8th): Introductions 
 
-*Before seminar*, please read Eric Hayot's "Video Games and the Novel" (10 pages; 2021 in *Daedalus* 150.1). 
+*Before seminar*, please read Eric Hayot's "Video Games and the Novel" (10 pages; in *Daedalus* 150.1 2021). 
 
-I selected this essay because it reflects how some literary critics might approach games and interactive fiction, and thus it may be a familiar starting point for those of us with English degrees. As you read, you might note where you agree, disagree, and need more elaboration or context from Hayot. What does the argument assume, ignore, and privilege? Note that Hayot's essay was published in an invitation-only, special issue of *Daedalus* on the novel as a literary form. Its conversational style and conventions differ from what you'll typically encounter in most peer-reviewed academic journals in the arts and humanities. 
+I selected this essay because it reflects how some literary critics might approach games and interactive fiction, and thus it may be a familiar starting point (???) for those of us with English degrees. As you read, you might note where you agree, disagree, and need more elaboration or context from Hayot. What does the argument assume, ignore, and privilege? Note that Hayot's essay was published in an invitation-only, special issue of *Daedalus* on the novel as a literary form. Its conversational style and conventions differ from what you'll typically encounter in most peer-reviewed academic journals in the arts and humanities. 
 
-*During our first meeting*, we'll introduce ourselves, review the plan for this term, and share our questions and concerns. We'll then discuss Hayot's essay, which I'll use to stage some debates about games (1990s to the present). We'll conclude by surveying some key terms in game studies, including:  
-* diegetic and nondiegetic action (Alexander Galloway), 
-* environmental storytelling (Henry Jenkins), 
-* expressive processing (Noah Wardrip-Fruin), 
-* mimesis (I'll rely on Walter Benjamin here), 
-* ludonarrative dissonance (Clint Hocking), 
-* mediated collaboration (Brenda Laurel), 
-* multiform story (Janet Murray), 
-* procedural rhetoric (Ian Bogost), 
-* some terms in this [Wikipedia glossary](https://en.wikipedia.org/wiki/Glossary_of_video_game_terms), 
-* some in this [dictionary](https://www.half-real.net/dictionary/) by Jesper Juul, and 
-* some in this [critical glossary](http://critical-gaming.squarespace.com/storage/Critical-Gaming_glossary_Richard_Terrell.pdf) by Richard Terrell (KirbyKid).
+*During our first meeting*, we'll introduce ourselves, review the plan for this term, and share our questions and concerns. We'll then discuss Hayot's essay, which I'll use to stage some debates about games (1970s to the present). We'll conclude by surveying some key terms in game studies, including:  
+* Diegetic and nondiegetic action (Alexander Galloway), 
+* Environmental storytelling (Henry Jenkins), 
+* Expressive processing (Noah Wardrip-Fruin), 
+* Ludonarrative dissonance (Clint Hocking),
+* Mediated collaboration (Brenda Laurel), 
+* Mimesis (I'll rely on Walter Benjamin here),
+* Multiform story (Janet Murray), 
+* Procedural rhetoric (Ian Bogost), 
+* Some terms in this [Wikipedia glossary](https://en.wikipedia.org/wiki/Glossary_of_video_game_terms), 
+* Some in this [dictionary](https://www.half-real.net/dictionary/) by Jesper Juul, and 
+* Some in this [critical glossary](http://critical-gaming.squarespace.com/storage/Critical-Gaming_glossary_Richard_Terrell.pdf) by Richard Terrell (KirbyKid).
 
-I hope this introduction to common terms is especially useful for those of you who've never taken a course on games and/or media. We'll return to it throughout the term to ensure all the words we're bandying are clear to everyone.
+I hope this introduction to terminology is especially useful for those of you who've never taken a course on games and/or media. We'll return to it throughout the term to ensure all the words we're bandying are clear to everyone.
 
-I recommend Clint Hocking's "Ludonarrative Dissonance in *Bioshock*" (6 pages; 2007, republished in *Well Played 1.0* 2010) and Kirk Hamilton, Maddy Myers, and Jason Schreier's "Story vs. Gameplay" (1 hour; 2022, *Triple Click* episode 110).
+I recommend Clint Hocking's "Ludonarrative Dissonance in *Bioshock*" (6 pages; 2007, republished in *Well Played 1.0* 2010) and Kirk Hamilton, Maddy Myers, and Jason Schreier's "Story vs. Gameplay" (1 hour; *Triple Click* episode 110, 2022).
+
+## Week 2 (September 15th): Play and Games, Part 1 
+
+*Before seminar*, please read: 
+
+* Brian Sutton-Smith's "Play and Ambiguity" (17 pages; from *The Ambiguity of Play* 2001), 
+* Mary Flanagan's "Introduction to Critical Play" (15 pages; from *Critical Play* 2009), 
+* Mia Consalvo's "Cheating" (6 pages; from *The Routledge Companion to Video Game Studies* 2014)
+* Grant Tavinor's "Fiction" (8 pages; from *The Routledge Companion to Video Game Studies* 2014), and
+* Alenda Y. Chang's "Digital Games" (16 pages; from *The Cambridge Companion to Literature and the Anthropocene* 2021). 
+
+*During our second meeting*, we'll discuss these five texts, carefully engaging them page by page to describe their lines of inquiry across play and games. We'll also consider the contexts of play and games rather than relying on strict or ahistorical definitions of them. 
+
+I recommend Matthew Thomas Payne and Nina B. Huntemann's "A Game Genie for Game Studies" (13 pages; from *How to Play Video Games* 2019; coming soon) and Nick Montfort's "Toward a Theory of Interactive Fiction" (34 pages; from *IF Theory Reader* 2011).
