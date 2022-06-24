@@ -1,7 +1,7 @@
 Games and Interactive Fiction    
 English 506 | CSPT 500/600    
-Fall 2022 at the University of Victoria   
-Thursday, 9:30am - 12:20pm   
+Fall 2022 at the University of Victoria  
+Thursday, 9:30am - 12:20pm     
 Taught by Jentery Sayers (he / him)    
 Office hours: Thursday, 12:30 - 2:30pm    
 jentery@uvic.ca
@@ -152,3 +152,26 @@ You will find most assigned materials in the course reader. I link to them if th
 You'll also notice that I like to recommend related materials, which may also appear in the course reader, but *I in no way expect you to read or study what I recommend.* We can't read all the things, and I know you've a lot to juggle in a single term. I refer to related materials for the sake of scholarly integrity and in case you with to follow a particular trajectory across game studies. I may also mention these related materials during seminar discussions. If I fail to define a term they use or an argument they make, then please don't hesitate to tell me. I'll clarify. 
 
 One other thing to know about me before we proceed: *I'm a planner, I always over-plan, and I’ll opt for care in every instance.* If the workload becomes too much, or the seminar starts to struggle with scope creep, then we’ll cut material. I’ve planned for the maximum in advance, under the assumption that we won't get to everything. And that's totally fine. 
+
+## Week 1 (September 8th): Introductions 
+
+*Before seminar*, please read Eric Hayot's "Video Games and the Novel" (10 pages; 2021 in *Daedalus* 150.1). 
+
+I selected this essay because it reflects how some literary critics might approach games and interactive fiction, and thus it may be a familiar starting point for those of us with English degrees. As you read, you might note where you agree, disagree, and need more elaboration or context from Hayot. What does the argument assume, ignore, and privilege? Note that Hayot's essay was published in an invitation-only, special issue of *Daedalus* on the novel as a literary form. Its conversational style and conventions differ from what you'll typically encounter in most peer-reviewed academic journals in the arts and humanities. 
+
+*During our first meeting*, we'll introduce ourselves, review the plan for this term, and share our questions and concerns. We'll then discuss Hayot's essay, which I'll use to stage some debates about games (1990s to the present). We'll conclude by surveying some key terms in game studies, including:  
+* diegetic and nondiegetic action (Alexander Galloway), 
+* environmental storytelling (Henry Jenkins), 
+* expressive processing (Noah Wardrip-Fruin), 
+* mimesis (I'll rely on Walter Benjamin here), 
+* ludonarrative dissonance (Clint Hocking), 
+* mediated collaboration (Brenda Laurel), 
+* multiform story (Janet Murray), 
+* procedural rhetoric (Ian Bogost), 
+* some terms in this [Wikipedia glossary](https://en.wikipedia.org/wiki/Glossary_of_video_game_terms), 
+* some in this [dictionary](https://www.half-real.net/dictionary/) by Jesper Juul, and 
+* some in this [critical glossary](http://critical-gaming.squarespace.com/storage/Critical-Gaming_glossary_Richard_Terrell.pdf) by Richard Terrell (KirbyKid).
+
+I hope this introduction to common terms is especially useful for those of you who've never taken a course on games and/or media. We'll return to it throughout the term to ensure all the words we're bandying are clear to everyone.
+
+I recommend Clint Hocking's "Ludonarrative Dissonance in *Bioshock*" (6 pages; 2007, republished in *Well Played 1.0* 2010) and Kirk Hamilton, Maddy Myers, and Jason Schreier's "Story vs. Gameplay" (1 hour; 2022, *Triple Click* episode 110).
