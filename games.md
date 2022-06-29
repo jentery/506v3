@@ -32,6 +32,7 @@
 * [*Galatea*](https://ifdb.org/viewgame?id=urxrv27t7qtu52lb)
 * [*Gone Home*](https://gonehome.com/)
 * [*Griftlands*](https://www.klei.com/games/griftlands)
+* *Gris*
 * [*Hades*](https://www.supergiantgames.com/games/hades/)
 * [*Hair Nah*](https://hairnah.com/)
 * [*The House in Fata Morgana*](https://mangagamer.org/fatamorgana/)
