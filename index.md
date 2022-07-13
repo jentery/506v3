@@ -10,7 +10,7 @@ Office hours: Thursday, 12:30 - 2:30pm
 
 Contents: 
 
-* [tl;dr Version of this Syllabus](#tldr-version-of-this-syllabus)
+* [tl;dr Version of this Outline](#tldr-version-of-this-outline)
 * [About the Seminar](#about-the-seminar)
 * [What's a Player Story?](#whats-a-player-story)
 * [About Me](#about-me)
@@ -21,8 +21,8 @@ Contents:
 * [Territory Acknowledgement](#territory-acknowledgement)
 * [View this Document in PDF](#view-this-document-in-pdf)
 
-# tl;dr Version of this Syllabus
+# tl;dr Version of this Outline
 
-In a rush? Overwhelmed by the start of term? Need a guide to steward you through this seminar? 
+In a rush? Overwhelmed by the start of term? Need a succinct guide to steward you through the seminar? 
 
-I made a [one-page, tl;dr version of this syllabus](guide.html) for you. I'll print you a [PDF copy](guide.pdf), too. The tl;dr is not intended to replace the syllabus, but I hope it's a useful reference in a pinch. 
+I made a [one-page, tl;dr version of this outline](guide.html) for you. I'll print you a [PDF copy](guide.pdf), too. This guide is not intended to replace the syllabus, but I hope it's an accessible reference in a pinch. 
