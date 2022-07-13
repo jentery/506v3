@@ -23,9 +23,9 @@ Contents:
 
 # tl;dr Version of this Outline
 
-In a rush? Overwhelmed by the start of term? Need a succinct guide to steward you through the seminar? 
+In a rush? Overwhelmed by the start of term? Need a succinct guide to steward your trek through the seminar? 
 
-I made a [one-page, tl;dr version of this outline](guide.html) for you. I'll print you a [PDF copy](guide.pdf), too. This guide is, of course, not intended to replace the syllabus, but I hope it's an accessible reference in a pinch. 
+I made a [one-page, tl;dr version of this outline](guide.html) for your reference. I'll print you a [PDF copy](guide.pdf), too. This guide is, of course, not intended to replace the syllabus, but I hope it's accessible in a pinch. 
 
 # About the Seminar
 
@@ -46,3 +46,25 @@ Many thanks to Melanie Oberg (University of Alberta), who introduced me to Let's
 # About Me 
 
 My name is Jentery Sayers (he / him). I'm a settler scholar and associate professor of English and Cultural, Social, and Political Thought (CSPT). I direct the Praxis Studio for Comparative Media Studies, and I've been at UVic since 2011. I did my MA and PhD in English at the University of Washington, and I grew up in Richmond, Virginia, where I also got my BA and BS at Virginia Commonwealth University. I'm in the middle of writing a book about the sounds of "playable fiction." I teach media, games, critical theory, and American literature at UVic. This is my eleventh graduate seminar here, but it's my first on player stories. 
+
+# Materials 
+
+No experience with games or media is expected for this seminar, and you won't need access to a gaming computer or console. You will need access to the internet and a computer, though. For your player story, you will also need to play at least one game or interactive fiction, and to document that process in some way. More on all that in a second.  
+
+I am not asking you to acquire any books for this seminar, either. I will instead direct you to materials in UVic Libraries and, alongside those directions, distribute a course reader of screen-readable PDFs that you may choose to print. If a PDF in the course reader is not accessible or searchable, then please let me know. I'll fix and redistribute it.
+
+To recap, then, you're not required to purchase anything for this seminar, but you will need access to: 
+* The internet, 
+* A computer, 
+* UVic Libraries, 
+* The course reader, which I'll circulate in PDF, 
+* A game or interactive fiction (see list of options below), and 
+* A way to document your experiences playing that game or fiction (also more below). 
+
+## Pick a Game or Interactive Fiction
+
+A player story is nothing without its primary source, so I created a [list of games and interactive fictions](games.html) to help you pick one. I'm open to suggestions, too. They just need to be works I've played and studied a bit. Thanks for meeting me halfway. 
+
+I'll encourage to you start playing early in the term. This way you can gradually refine your research, gather plenty of documentation, and share your work in progress. How you document your play, how you compose a player story, and what you ultimately say or argue will be up to you; however, I'll nudge you to try a few techniques before you select one. Importantly, your player story techniques won't need to be high-tech. You can use audio or video, if you wish, or just text and images. I'll cover more of the particulars during the three player story workshops I've planned for the term (see Weeks 6, 12, and 13). 
+
+The balance of this "Materials" section contains recommendations related to game studies. If you don't have the time for that, or you're simply not interested, then no worries. You can skip to ["Aims and Workload."](#aims-and-workload) Choose your own adventure?!?!
