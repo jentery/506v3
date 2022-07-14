@@ -119,7 +119,7 @@ One other thing to know about me before we proceed: *I'm a planner, I always ove
 
 What are the media of games? What are some notable tensions between play and story? Between mechanics and fiction?
 
-*During our first meeting*, we'll introduce ourselves (30 minutes), review this outline as well as the plan for this term (45 minutes), and share our questions and concerns. We'll then discuss these two works (by Flanagan and Salter; 75 minutes), which will help us to not only survey some common debates in game studies since the 1970s but also pinpoint and define several keywords in the field. We'll return to these debates and terms throughout the seminar to ensure the language we're using is relatively clear to us all, even if and when our individual approaches to the material differ. 
+*During our first meeting*, we'll introduce ourselves (30 minutes), review this outline as well as the plan for this term (45 minutes), and share our questions and concerns. We'll then discuss these two texts (by Flanagan and Salter; 75 minutes), which will help us to not only survey some common debates in game studies since the 1970s but also pinpoint and define several keywords in the field. We'll return to these debates and terms throughout the seminar to ensure the language we're using is relatively clear to us all, even if and when our individual approaches to the material differ. 
 
 Some related material: 
 * Ian Bogost's "Procedural Rhetoric" (64 pages; from *Persuasive Games: The Expressive Power of Videogames* 2007), 
@@ -134,6 +134,31 @@ Some related material:
 * Emily Short's [blog](https://emshort.blog/), 
 * Grant Tavinor's "Fiction" (8 pages; from *The Routledge Companion to Video Game Studies* 2014, edited by Mark J. P. Wolf and Bernard Perron), and 
 * Noah Wardrip-Fruin's "Expressive Processing" (9 pages; from *The Routledge Companion to Media Studies and Digital Humanities* 2018, edited by me)
+
+## Week 2 (September 15th): Play
+
+*Before seminar*, please read: 
+* Mia Consalvo's "Cheating" (6 pages; from *The Routledge Companion to Video Game Studies* 2014, edited by Mark J. P. Wolf and Bernard Perron), 
+* Tara Fickle's "West of the Magic Circle: The Orientalist Origins of Game Studies" (20 pages; from *The Race Card: From Gaming Technologies to Model Minorities* 2019), 
+* Kisha McPherson's "Are We Free to Go?: Anti-Black Racism and Its Impact on Black Play" (27 pages; in *American Journal of Play* 13.2/3 2021), and 
+* Christine O'Bonsawin's "From Black Power to Indigenous Activism: The Olympic Movement and the Marginalization of Oppressed Peoples (1968-2012)" (20 pages; in *Journal of Sport History* 42.2 2015). 
+
+How do racism, colonialism, and Orientalism shape, sustain, and preclude play? How do they not only define but also police what's fair? 
+
+*During our second meeting*, we'll discuss these four texts (145 minutes), carefully engaging them to follow their lines of inquiry. As we do, we'll consider the contexts, values, and cultural histories of play. I'll then take about five minutes to review Prompt 1, which is on the docket for next week.  
+
+Some related material: 
+* Editor Aubrey Anable's [*Poetics of Play*](http://ivc.lib.rochester.edu/introduction-issue-30-poetics-of-play/) (a special issue of *InVisible Culture* 2019), 
+* Brooke Belisle's "Immersion" (12 pages; from *Debugging Game History* 2016, edited by Henry Lowood and Raiford Guins), 
+* Walter Benjamin's "On the Mimetic Faculty" (3 pages; 1933, republished in *Reflections* 1986), 
+* Jay David Bolter and Richard Grusin's "Computer Games" (15 pages; from *Remediation: Understanding New Media* 1998), 
+* W.E.B. Du Bois's "The Problem of Amusement" (10 pages; in *The Southern Workman* 1897), 
+* Mary Flanagan's "Introduction to Critical Play" (15 pages; from *Critical Play: Radical Game Design* 2009), 
+* Editor TreaAndrea M. Russworm's [*Blackness and Play*](https://www.museumofplay.org/journalofplay/issues/volume-13-number-2-and-3/) (a special issue of *American Journal of Play* 2021), 
+* Brian Sutton-Smith's "Play and Ambiguity" (17 pages; from *The Ambiguity of Play* 2001), 
+* T.L. Taylor's "The Assemblage of Play" (9 pages; in *Games and Culture* 4.4 2009), 
+* Aaron Trammell's "Decolonizing Play" (9 pages; in *Critical Studies in Media Communication* 39.3 2022), and 
+* Emma Witkowski's "Cooperative Play" (8 pages; from *Debugging Game History* 2016). 
 
 # Policies 
 
