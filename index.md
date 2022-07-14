@@ -153,14 +153,14 @@ My primary goal for this seminar is to create an inclusive space where you've am
 I've designed three workshops on the praxis of making your own player story, and I cooked up eight prompts to scaffold or direct your inquiry from early September to early December. This way, you've occasions to attend to your methodology and reflect on your axiology (the values at play in your approaches, language, perceptions, and decisions). You'll also iteratively develop your player story (week by week) instead of composing it from scratch during the last week or so of the term. 
 
 Here are those eight prompts in brief. See the [schedule](#schedule) below for the particulars. Note that I encourage you to draft responses before the due date. Then, for the purposes of assessment, I collect them in batches of two or three. Most responses are meant to be short and focused, often only 250-500 words long.  
-* **Prompt 1** (draft by Sept. 22; response by Sept. 29): Use 250-300 words to describe a type of play, or a context for play, you might research for this seminar. 
-* **Prompt 2** (response by Sept. 29): Use 250-300 words to describe a type of game or interactive fiction you might research for this seminar.  
-* **Prompt 3** (draft by Oct. 6; response by Nov. 3): Play a game or fiction for at least two hours, preferably with someone else in the seminar. Experiment across different media with three distinct ways to document your performance or experience of play. Then use a total of 250-300 words to describe your three approaches and, in so doing, provide an example or two of each in action. 
-* **Prompt 4** (draft by Oct. 13; response by Nov. 3): Use 250-400 words to identify and describe the game or fiction you selected and then briefly explain why you selected it.
-* **Prompt 5** (draft by Oct. 27; response by Nov. 3): Use 500-750 words or 7-10 minutes of audio / video to engage any text you've read for this seminar.
-* **Prompt 6** (draft by Nov. 17; response by Dec. 1): Use 500-750 words or 7-10 minutes of audio / video to outline the methodology you've in mind for your player story. 
-* **Prompt 7** (draft by Nov. 24; response by Dec. 1): Use 250-300 words to write an abstract for your player story.  
-* **Prompt 8** (response by Dec. 1): Draft and gather some of your player story material to share or demo during seminar. You'll have about eight minutes to present using your preferred approach.
+* **Prompt 1** (draft by Sept. 22; submit by Sept. 29): Use 250-300 words to describe a type of play, or a context for play, you might research for this seminar. 
+* **Prompt 2** (submit by Sept. 29): Use 250-300 words to describe a type of game or interactive fiction you might research for this seminar.  
+* **Prompt 3** (draft by Oct. 6; submit by Nov. 3): Play a game or fiction for at least two hours, preferably with someone else in the seminar. Experiment across different media with three distinct ways to document your performance or experience of play. Then use a total of 250-300 words to describe your three approaches and, in so doing, provide an example or two of each in action. 
+* **Prompt 4** (draft by Oct. 13; submit by Nov. 3): Use 250-400 words to identify and describe the game or fiction you selected and then briefly explain why you selected it.
+* **Prompt 5** (draft by Oct. 27; submit by Nov. 3): Use 500-750 words or 7-10 minutes of audio / video to engage any text you've read for this seminar.
+* **Prompt 6** (draft by Nov. 17; submit by Dec. 1): Use 500-750 words or 7-10 minutes of audio / video to outline the methodology you've in mind for your player story. 
+* **Prompt 7** (draft by Nov. 24; submit by Dec. 1): Use 250-300 words to write an abstract for your player story.  
+* **Prompt 8** (submit by Dec. 1): Draft and gather some of your player story material to share or demo during seminar. You'll have about eight minutes to present using your preferred approach.
 
 I'll invite you to compose your player story across media: images and text, audio and text, or video, for instance. The final draft is due by December 15th, and I will circulate a detailed prompt for it on October 13th. By December 8th, you'll also have a chance to submit a "revisions statement," where you'll outline any significant revisions you *would* make to your responses to Prompts 1-7. (You won't have to actually make them, though.) 
 
