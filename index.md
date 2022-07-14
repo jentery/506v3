@@ -16,7 +16,7 @@ Contents:
 * [About Me](#about-me)
 * [Required Materials](#required-materials)
 * [Aims, Workload, and Prompts](#aims-workload-and-prompts) 
-* [Schedule](#schedule)]
+* [Schedule](#schedule)
 * [Policies](#policies) 
 * [Recommended Materials](#recommended-materials)
 * [Territory Acknowledgement](#territory-acknowledgement)
@@ -98,6 +98,18 @@ Your player story, revisions statement, and responses to Prompts 1-8 comprise yo
 I will use the Faculty of Graduate Studies' [official grading system](https://www.uvic.ca/calendar/future/grad/index.php#/policy/B13jeiMdE?bc=true&bcCurrent=07%20-%20Grading&bcGroup=Faculty%20Academic%20Regulations&bcItemType=policies) to assess your work. Please also note that I have a "no questions asked," one-week late submission policy for all work, excluding the final project, you'll conduct in this seminar. See the seminar [policies](#policies) for more on late submissions. 
 
 I suggest dedicating 5 to 9 hours of study each week to this seminar, plus 3 hours for the weekly seminar meetings. Of course, 5 to 9 hours per week is only a guideline. You may find that you need more or less time depending on the activity, your preferences, and your own familiarity with the material and work involved. 
+
+# Schedule  
+
+The seminar schedule is below. It's subject to change, and I will announce any changes 1-2 weeks in advance. I will never use schedule changes to increase your workload. 
+
+You will find almost all assigned materials either online via UVic Libraries or in the PDF course reader. I link to assigned materials when they are *not* available in the Libraries or reader. 
+
+Most weeks in the schedule include descriptions of what to do before seminar, what we'll do during seminar, and some questions to guide our inquiry that week. You'll also find detailed prompts in Weeks 3, 4, 5, 6, 8, 11, 12, and 13. 
+
+You'll notice that, many weeks, I point to related materials, but *I in no way expect you to read or study those related materials.* We can't read all the things, and I know you've a lot to juggle in a single term. I refer to related materials for the sake of scholarly integrity and in case you wish to follow a particular trajectory or topic across game studies. I will likely mention these related materials during seminar discussions, too. If I fail to define a term they use or effectively communicate an argument they make, then please don't hesitate to tell me. I'll clarify. 
+
+One other thing to know about me before we proceed: *I'm a planner, I always over-plan, and I’ll opt for care in every instance.* If the workload becomes too much, or the seminar starts to struggle with scope creep, then we’ll cut material. I’ve planned for the maximum in advance, under the assumption that we won't get to everything. And that's totally fine. 
 
 # Policies 
 
