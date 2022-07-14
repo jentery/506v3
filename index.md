@@ -111,6 +111,18 @@ You'll notice that, many weeks, I point to related materials, but *I in no way e
 
 One other thing to know about me before we proceed: *I'm a planner, I always over-plan, and I’ll opt for care in every instance.* If the workload becomes too much, or the seminar starts to struggle with scope creep, then we’ll cut material. I’ve planned for the maximum in advance, under the assumption that we won't get to everything. And that's totally fine. 
 
+## Week 1 (September 8th): Hello World! 
+
+*Before seminar*, please read: 
+* Mary Flanagan's "Games as a Medium" (8 pages; from *Debugging Game History* 2016, edited by Henry Lowood and Raiford Guins) and 
+* Anastasia Salter's "Building Interactive Stories" (10 pages; from *The Routledge Companion to Media Studies and Digital Humanities* 2018, edited by me).
+
+What are the media of games? What are some notable tensions between play and story? Between mechanics and fiction?
+
+*During our first meeting*, we'll introduce ourselves (30 minutes), review this outline and the plan for this term (45 minutes), and share our questions and concerns. We'll then discuss these two works (by Flanagan and Salter; 75 minutes), which will help us to not only survey some issues common in games and interactive fiction since the 1970s but also identify and define several keywords in game studies. We'll return to these issues and terms throughout the seminar to ensure the words and ideas we're bandying are relatively clear to us all, even if and when we don't agree and our approaches to the material differ. 
+
+Some related material: Ian Bogost's "Procedural Rhetoric" (64 pages; from *Persuasive Games: The Expressive Power of Videogames* 2007), Elizabeth W. Bruss's "The Game of Literature and Some Literary Games" (20 pages; from *New Literary History* 9.1 1977), Astrid Ensslin's "Between Ludicity and Literariness" (18 pages; from *Literary Gaming* 2014), Alexander Galloway's "Gamic Action: Four Moments" (38 pages; from *Gaming: Essays on Algorithmic Culture* 2006), N. Katherine Hayles's "Electronic Literature: What Is It?" (42 pages, from *Electronic Literature: New Horizons for the Literary* 2008), Henry Jenkins's "Game Design as Narrative Architecture" (16 pages; self-published in 2002; republished in *First Person: New Media as Story, Performance, and Game* 2004, edited by Noah Wardrip-Fruin and Pat Harrigan), Nick Montfort's "Toward a Theory of Interactive Fiction" (34 pages; from *IF Theory Reader* 2011), Souvik Mukherjee's "Video Games and Storytelling" (21 pages; from *Video Games and Storytelling: Reading Games and Playing Books* 2015), Janet Murray's "Harbingers of the Holodeck" (37 pages; from *Hamlet on the Holodeck* 1997), Emily Short's [blog](https://emshort.blog/), Grant Tavinor's "Fiction" (8 pages; from *The Routledge Companion to Video Game Studies* 2014, edited by Mark J. P. Wolf and Bernard Perron), and Noah Wardrip-Fruin's "Expressive Processing" (9 pages; from *The Routledge Companion to Media Studies and Digital Humanities* 2018, edited by me).
+
 # Policies 
 
 Coming soon. 
