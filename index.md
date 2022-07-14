@@ -48,7 +48,7 @@ Many thanks to Melanie Oberg (University of Alberta), who introduced me to Let's
 
 My name is Jentery Sayers (he / him). I'm a settler scholar and associate professor of English and Cultural, Social, and Political Thought (CSPT). I direct the Praxis Studio for Comparative Media Studies, and I've been at UVic since 2011. I did my MA and PhD in English at the University of Washington, and I grew up in Richmond, Virginia, where I also got my BA and BS at Virginia Commonwealth University. I'm in the middle of writing a book about the sounds of "playable fiction." I teach media, games, cultural criticism, and American literature at UVic. This is my eleventh graduate seminar here, but it's my first on player stories. 
 
-# Materials 
+# Required Materials 
 
 No experience with games or media is expected for this seminar, and you won't need access to a gaming computer or console. You will need access to the internet and a computer, though. For your final project, I will prompt you to play at least one game or interactive fiction, and to document and narrate that process in some way. More on that in a second.  
 
