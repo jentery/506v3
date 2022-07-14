@@ -14,10 +14,11 @@ Contents:
 * [About the Seminar](#about-the-seminar)
 * [What's a Player Story?](#whats-a-player-story)
 * [About Me](#about-me)
-* [Materials](#materials)
+* [Required Materials](#required-materials)
 * [Aims, Workload, and Prompts](#aims-workload-and-prompts) 
-* [Schedule](#schedule)
+* [Schedule](#schedule)]
 * [Policies](#policies) 
+* [Recommended Materials](#recommended-materials)
 * [Territory Acknowledgement](#territory-acknowledgement)
 * [View this Document in PDF](#view-this-document-in-pdf)
 
@@ -61,13 +62,50 @@ To recap, then, you're not required to purchase anything for this seminar, but y
 * A game or interactive fiction (see list of options below), and 
 * A way to document your experiences playing that game or fiction (also more below). 
 
+Finally, I invite you to visit the [recommended materials](#recommended-materials) section of this outline for lists of game studies books, journals, podcasts, and resources I suggest. 
+
 ## Pick a Game or Interactive Fiction
 
 A player story is nothing without its primary source, so I created a [list of games and interactive fictions](games.html) to help you pick one. I'm open to suggestions, too. They just need to be works I've played and studied a bit. Thanks for meeting me halfway. 
 
-I'll encourage to you start playing early in the term. This way you can gradually refine your research, gather plenty of documentation, and share your work in progress. How you document your play, how you define and compose a player story, and what you ultimately say or argue will be up to you; however, I'll nudge you to try a few techniques before you select one. Importantly, your player stories don't need to be high-tech. You can use audio or video, if you wish, or just text and images. I'll cover more of the particulars during the three player story workshops I've planned for the term (see Weeks 6, 12, and 13). 
+I'll encourage to you start playing early in the term. This way you can gradually refine your research, gather plenty of documentation, and share your work in progress. How you document your play, how you define and compose a player story, and what you ultimately say or argue will be up to you; however, I'll nudge you to try a few techniques before you select one. Importantly, your player stories don't need to be high-tech. You can use audio or video, if you wish, or just text and images. I'll cover more of the particulars during the three player story workshops I've planned for the term (see Weeks 6, 12, and 13).
 
-The balance of this "Materials" section contains recommendations related to game studies. If you don't have the time for that, or you're simply not interested, then no worries. You can skip to ["Aims and Workload."](#aims-workload-and-prompts) Choose your own adventure?!?!
+# Aims, Workload, and Prompts
+
+My primary goal for this seminar is to create an inclusive space where you've ample time and resources to produce, share, and refine your own research project (i.e., a player story). I've thus kept the reading load to 73 pages or less per week, and I've dedicated most of November and all of December to your projects. Related goals for the seminar include enriching your familiarity with not only game studies but also the experience of research as a mutable process with personal, cultural, aesthetic, and political dimensions. Your player story will function as a site where those dimensions are observable, if not palpable. 
+
+I've designed three workshops on the praxis of making your own player story, and I cooked up eight prompts to scaffold or direct your inquiry from early September to early December. This way, you've occasions to attend to your methodology and reflect on your axiology (the values at play in your approaches, language, perceptions, and decisions). You'll also iteratively develop your player story (week by week) instead of composing it from scratch during the last week or so of the term. 
+
+Here are those eight prompts in brief. See the [schedule](#schedule) below for the particulars. Note that I encourage you to draft responses before the due date. Then, for the purposes of assessment, I collect them in batches of two or three. Most responses are meant to be short and focused, often only 250-500 words long.  
+* **Prompt 1** (draft by Sept. 22; submit by Sept. 29): Use 250-300 words to describe a type of play, or a context for play, you might research for this seminar. 
+* **Prompt 2** (submit by Sept. 29): Use 250-300 words to describe a type of game or interactive fiction you might research for this seminar.  
+* **Prompt 3** (draft by Oct. 6; submit by Nov. 3): Play a game or fiction for at least two hours, preferably with someone else in the seminar. Experiment across different media with three distinct ways to document your performance or experience of play. Then use a total of 250-300 words to describe your three approaches and, in so doing, provide an example or two of each in action. 
+* **Prompt 4** (draft by Oct. 13; submit by Nov. 3): Use 250-400 words to identify and describe the game or fiction you selected and then briefly explain why you selected it.
+* **Prompt 5** (draft by Oct. 27; submit by Nov. 3): Use 500-750 words or 7-10 minutes of audio / video to engage any text you've read for this seminar.
+* **Prompt 6** (draft by Nov. 17; submit by Dec. 1): Use 500-750 words or 7-10 minutes of audio / video to outline the methodology you've in mind for your player story. 
+* **Prompt 7** (draft by Nov. 24; submit by Dec. 1): Use 250-300 words to write an abstract for your player story.  
+* **Prompt 8** (submit by Dec. 1): Draft and gather some of your player story material to share or demo during seminar. You'll have about eight minutes to present using your preferred approach.
+
+I'll invite you to compose your player story across media: images and text, audio and text, or video, for instance. The final draft is due by December 15th, and I will circulate a detailed prompt for it on October 13th. By December 8th, you'll also have a chance to submit a "revisions statement," where you'll outline any significant revisions you *would* make to your responses to Prompts 1-7. (You won't have to actually make them, though.) 
+
+Your player story, revisions statement, and responses to Prompts 1-8 comprise your seminar portfolio, which I will assess like so: 
+* **Early work in progress** (due Sept. 29; 10% of your final mark): Your responses to Prompts 1 and 2 as well as any notes or documentation you wish to include. 
+* **Mid-term work in progress** (due Nov. 3; 20% of your final mark): Your responses to Prompts 3, 4, and 5 as well as any notes or documentation you wish to include. 
+* **Late-term work in progress** (due Dec. 1; 25% of your final mark): Your responses to Prompts 6, 7, and 8 as well as any notes or documentation you wish to include. 
+* **Revisions statement** (due Dec. 15; 10% of your final mark): 300-500 words outlining the significant revisions you *would* make to your responses to Prompts 1-7.
+* **Final project** (due Dec. 15; 35% of your final mark): The final draft of your player story. 
+
+I will use the Faculty of Graduate Studies' [official grading system](https://www.uvic.ca/calendar/future/grad/index.php#/policy/B13jeiMdE?bc=true&bcCurrent=07%20-%20Grading&bcGroup=Faculty%20Academic%20Regulations&bcItemType=policies) to assess your work. Please also note that I have a "no questions asked," one-week late submission policy for all work, excluding the final project, you'll conduct in this seminar. See the seminar [policies](#policies) for more on late submissions. 
+
+I suggest dedicating 5 to 9 hours of study each week to this seminar, plus 3 hours for the weekly seminar meetings. Of course, 5 to 9 hours per week is only a guideline. You may find that you need more or less time depending on the activity, your preferences, and your own familiarity with the material and work involved. 
+
+# Policies 
+
+Coming soon. 
+
+# Recommended Materials 
+
+I realize this seminar may be your first experience with game studies in an academic context. The following three sections (["Recommended Reading, "](#recommended-reading), ["Recommended Listening"](#recommended-listening), and ["Recommended Resources"](#recommended-resources)) point you to materials that you might find useful along the way. I know these lists are long and might be overwhelming. If you're looking for something specific, perhaps related to your research, then let me know. I'll help you to narrow the scope. 
 
 ## Recommended Reading 
 
@@ -146,31 +184,8 @@ Perhaps you're looking for collections of games, Let's Plays, or interactive fic
 * Editor Mark J. P. Wolf's *Encyclopedia of Video Games: The Culture, Technology, and Art of Gaming* (Greenwood 2021); "this three-volume encyclopedia covers all things video games, including the games themselves, the companies that make them, and the people who play them."
 * Editors Mark J. P. Wolf and Bernard Perron's *The Routledge Companion to Video Game Studies* (Routledge 2016; available online via UVic Libraries), which "aims to address the ongoing theoretical and methodological development of game studies, providing students, scholars, and game designers with a definitive look at contemporary video game studies."
 
-# Aims, Workload, and Prompts
+# Territory Acknowledgement
 
-My primary goal for this seminar is to create an inclusive space where you've ample time and resources to produce, share, and refine your own research project (i.e., a player story). I've thus kept the reading load to 73 pages or less per week, and I've dedicated most of November and all of December to your projects. Related goals for the seminar include enriching your familiarity with not only game studies but also the experience of research as a mutable process with personal, cultural, aesthetic, and political dimensions. Your player story will function as a site where those dimensions are observable, if not palpable. 
+As a faculty member who lives and works as a guest on these lands, I acknowledge and respect the lək̓ʷəŋən peoples on whose traditional territory the University of Victoria stands, and the Songhees, Esquimalt, and W̱SÁNEĆ peoples whose historical relationships with the land continue to this day.
 
-I've designed three workshops on the praxis of making your own player story, and I cooked up eight prompts to scaffold or direct your inquiry from early September to early December. This way, you've occasions to attend to your methodology and reflect on your axiology (the values at play in your approaches, language, perceptions, and decisions). You'll also iteratively develop your player story (week by week) instead of composing it from scratch during the last week or so of the term. 
-
-Here are those eight prompts in brief. See the [schedule](#schedule) below for the particulars. Note that I encourage you to draft responses before the due date. Then, for the purposes of assessment, I collect them in batches of two or three. Most responses are meant to be short and focused, often only 250-500 words long.  
-* **Prompt 1** (draft by Sept. 22; submit by Sept. 29): Use 250-300 words to describe a type of play, or a context for play, you might research for this seminar. 
-* **Prompt 2** (submit by Sept. 29): Use 250-300 words to describe a type of game or interactive fiction you might research for this seminar.  
-* **Prompt 3** (draft by Oct. 6; submit by Nov. 3): Play a game or fiction for at least two hours, preferably with someone else in the seminar. Experiment across different media with three distinct ways to document your performance or experience of play. Then use a total of 250-300 words to describe your three approaches and, in so doing, provide an example or two of each in action. 
-* **Prompt 4** (draft by Oct. 13; submit by Nov. 3): Use 250-400 words to identify and describe the game or fiction you selected and then briefly explain why you selected it.
-* **Prompt 5** (draft by Oct. 27; submit by Nov. 3): Use 500-750 words or 7-10 minutes of audio / video to engage any text you've read for this seminar.
-* **Prompt 6** (draft by Nov. 17; submit by Dec. 1): Use 500-750 words or 7-10 minutes of audio / video to outline the methodology you've in mind for your player story. 
-* **Prompt 7** (draft by Nov. 24; submit by Dec. 1): Use 250-300 words to write an abstract for your player story.  
-* **Prompt 8** (submit by Dec. 1): Draft and gather some of your player story material to share or demo during seminar. You'll have about eight minutes to present using your preferred approach.
-
-I'll invite you to compose your player story across media: images and text, audio and text, or video, for instance. The final draft is due by December 15th, and I will circulate a detailed prompt for it on October 13th. By December 8th, you'll also have a chance to submit a "revisions statement," where you'll outline any significant revisions you *would* make to your responses to Prompts 1-7. (You won't have to actually make them, though.) 
-
-Your player story, revisions statement, and responses to Prompts 1-8 comprise your seminar portfolio, which I will assess like so: 
-* **Early work in progress** (due Sept. 29; 10% of your final mark): Your responses to Prompts 1 and 2 as well as any notes or documentation you wish to include. 
-* **Mid-term work in progress** (due Nov. 3; 20% of your final mark): Your responses to Prompts 3, 4, and 5 as well as any notes or documentation you wish to include. 
-* **Late-term work in progress** (due Dec. 1; 25% of your final mark): Your responses to Prompts 6, 7, and 8 as well as any notes or documentation you wish to include. 
-* **Revisions statement** (due Dec. 15; 10% of your final mark): 300-500 words outlining the significant revisions you *would* make to your responses to Prompts 1-7.
-* **Final project** (due Dec. 15; 35% of your final mark): The final draft of your player story. 
-
-I will use the Faculty of Graduate Studies' [official grading system](https://www.uvic.ca/calendar/future/grad/index.php#/policy/B13jeiMdE?bc=true&bcCurrent=07%20-%20Grading&bcGroup=Faculty%20Academic%20Regulations&bcItemType=policies) to assess your work. Please also note that I have a "no questions asked," one-week late submission policy for all work, excluding the final project, you'll conduct in this seminar. See the seminar [policies](#policies) for more on late submissions. 
-
-I suggest dedicating 5 to 9 hours of study each week to this seminar, plus 3 hours for the weekly seminar meetings. Of course, 5 to 9 hours per week is only a guideline. You may find that you need more or less time depending on the activity, your preferences, and your own familiarity with the material and work involved. 
+*This course outline for English 506, "Player Stories" (Fall 2022 at the University of Victoria), is licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).* 
