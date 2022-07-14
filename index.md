@@ -67,7 +67,7 @@ A player story is nothing without its primary source, so I created a [list of ga
 
 I'll encourage to you start playing early in the term. This way you can gradually refine your research, gather plenty of documentation, and share your work in progress. How you document your play, how you define and compose a player story, and what you ultimately say or argue will be up to you; however, I'll nudge you to try a few techniques before you select one. Importantly, your player stories don't need to be high-tech. You can use audio or video, if you wish, or just text and images. I'll cover more of the particulars during the three player story workshops I've planned for the term (see Weeks 6, 12, and 13). 
 
-The balance of this "Materials" section contains recommendations related to game studies. If you don't have the time for that, or you're simply not interested, then no worries. You can skip to ["Aims and Workload."](#aims-and-workload) Choose your own adventure?!?!
+The balance of this "Materials" section contains recommendations related to game studies. If you don't have the time for that, or you're simply not interested, then no worries. You can skip to ["Aims and Workload."](#aims-workload-and-prompts) Choose your own adventure?!?!
 
 ## Recommended Reading 
 
