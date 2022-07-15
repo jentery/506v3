@@ -158,7 +158,115 @@ Some related material:
 * Brian Sutton-Smith's "Play and Ambiguity" (17 pages; from *The Ambiguity of Play* 2001), 
 * T.L. Taylor's "The Assemblage of Play" (9 pages; in *Games and Culture* 4.4 2009), 
 * Aaron Trammell's "Decolonizing Play" (9 pages; in *Critical Studies in Media Communication* 39.3 2022), and 
-* Emma Witkowski's "Cooperative Play" (8 pages; from *Debugging Game History* 2016). 
+* Emma Witkowski's "Cooperative Play" (8 pages; from *Debugging Game History* 2016, edited by Henry Lowood and Raiford Guins). 
+
+## Week 3 (September 22nd): Games 
+
+*Before seminar*, please: 
+* Read "The Futures of Game Studies" (24 pages; in *The Velvet Light Trap* 81 2018), a dossier by Paul Booth, Shira Chess, Kishonna L. Gray, Carly A. Kocurek, Matthew Thomas Payne, TreaAndrea M. Russworm, and Adrienne Shaw;
+* Read Alenda Y. Chang's "Digital Games" (16 pages; from *The Cambridge Companion to Literature and the Anthropocene* 2021, edited by John Parham);
+* Read Elizabeth A. LaPensée, Outi Laiti, and Maize Longboat's "Towards Sovereign Games" (16 pages; in *Games and Culture* 2021); 
+* Read Bo Ruberg's "No Fun: The Queer Potential of Video Games that Annoy, Anger, Disappoint, Sadden, and Hurt" (17 pages; in *QED: A Journal in GLBTQ Worldmaking* 2.2 2015; revised for *Video Games Have Always Been Queer* 2019); and 
+* Draft a response to Prompt 1. 
+
+What do we learn from cultural approaches to games and world-building? From playing beyond the fun? 
+
+*During our third meeting*, we'll give that careful engagement another go, this time with these four texts (130 minutes). Then we'll return to games terminology to determine what requires clarification (5 minutes). I'll conclude by introducing you to Taylor's *Watch Me Play* and Gray's *Intersectional Tech* (10 minutes), which we'll discuss next week, and by reviewing Prompt 2, also for next week (5 minutes).
+
+*Prompt 1*: Use 250-300 words (excluding references) to describe a type of play, or a context for play, you might research for this seminar. Please explain why it interests you and how it corresponds with at least one text (required or recommended) we've read thus far. Your audience is other people in this seminar, including me, and you're welcome to write informally. Please include your primary and secondary sources in a references section after your description. I advise spending two hours or less writing your response. No worries. None of this is written in stone, and you might change your mind as the term unfolds. (You'll submit this response on September 29th, but I suggest writing at least a rough draft for today's meeting.)
+
+Some related material: 
+* Stephanie Boluk and Patrick LeMieux's "Breaking the Metagame: Feminist Spoilsports and Magic Circle Jerks" (16 pages; from *Metagaming: Playing, Competing, Spectating, Cheating, Trading, Making, and Breaking Videogames* 2017),
+* Edmond Y. Chang's "Queergaming" (9 pages; from *Queer Game Studies* 2017, edited by Bo Ruberg and Adrienne Shaw),
+* Mia Consalvo's "Confronting Toxic Gamer Culture: A Challenge for Feminist Game Studies Scholars" (6 pages; in *Ada: Journal of Gender, New Media and Technology* 1 2012), 
+* Tara Fickle and Christopher B. Patterson's "Diversity Is Not a Win-Condition" (10 pages; in *Critical Studies in Media Communication* 2022), 
+* C.L.R. James's "'What Is Art?'" (16 pages; from *Beyond a Boundary* 1963),
+* Meghna Jayanth's "Game Design in the Imperial Mode" (33 pages; keynote for Canadian Game Studies Conference May 2022), 
+* Soraya Murray's "Video Games and Playable Media" (6 pages; in *Feminist Media Histories* 4.2 2018), 
+* Matthew Thomas Payne and Nina B. Huntemann's "A Game Genie for Game Studies" (13 pages; from *How to Play Video Games* 2019 edited by Payne and Huntemann; coming soon), 
+* Amanda Phillips's "Game Studies for Great Justice" (11 pages; from *The Routledge Companion to Media Studies and Digital Humanities* 2018, edited by me), and 
+* John Sharp's "Independent Games" (10 pages; from *Debugging Game History* 2016, edited by Henry Lowood and Raiford Guins)
+
+## Week 4 (September 29th): Broadcasting Play
+
+*Before seminar*, please: 
+* Read Kishonna L. Gray's "#Me2, #Me4, Black Women, and Misogynoir: Transmediated Gaming Practices as Intersectional Counterpublics" (28 pages; from *Intersectional Tech: Black Users in Digital Gaming* 2020; coming soon),  
+* Read T.L. Taylor's "Twitch and the Work of Play" (21 pages; in *American Journal of Play* 11.1 2018; an excerpt of *Watch Me Play: Twitch and the Rise of Game Live Streaming* 2018),
+* Respond to Prompt 2, and 
+* Submit your early work in progress. 
+
+How are player stories made and managed in unequal conditions? How do they document or comment on the lived experiences of racism, sexism, ableism, and cisheteropatriarchy? How and for whom are they transformative?
+
+*During our fourth meeting*, we'll discuss these two texts (60 minutes) and then outline reasons why people (may want to) produce player stories that document, narrate, broadcast, analyze, contextualize, and/or reflect upon their play experiences (60 minutes). We'll conclude by compiling a list of streams, LPs, video essays, "real-time readings," and the like that may be relevant to your projects this term (25 minutes). I'll also take a second to cover Prompt 3, which is on the horizon (5 minutes). 
+
+*Prompt 2*: Use 250-300 words (excluding references) to describe a type of game or interactive fiction (e.g., a particular genre or style) you might research for this seminar. Please explain why it interests you and how it corresponds with at least one text (required or recommended) we've read thus far. Your audience is other people in this seminar, including me, and you're welcome to write informally. Please include your primary and secondary sources in a references section after the description. I advise spending two hours or less writing your response. Again, no worries. None of this is written in stone, and you might change your mind as the term unfolds. 
+
+**Please submit your early work in progress** (10% of your final mark). This submission should include: 
+* Your response to Prompt 1 (from Week 3), 
+* Your response to Prompt 2 (from this week), and 
+* Any notes or documentation you wish to include. 
+
+Some related material: 
+* Moya Bailey and Reina Gossett's "Analog Girls in Digital Worlds: Dismantling Binaries for Digital Humanists Who Research Social Media" (11 pages; from *The Routledge Companion to Media Studies and Digital Humanities* 2018, edited by me), 
+* Shira Chess and Adrienne Shaw's "A Conspiracy of Fishes, or, How We Learned to Stop Worrying about #GamerGate and Embrace Hegemonic Masculinity" (13 pages; in *Journal of Broadcasting and Electronic Media* 59.1 2015), 
+* Audre Lorde's "The Uses of Anger" (4 pages; in *Women's Studies Quarterly* 9.3 1981), 
+* Christian Sandvig's "The Internet as the Anti-Television: Distribution Infrastructure as Culture and Power" (17 pages; from *Signal Traffic: Critical Studies of Media Infrastructures* 2015, edited by Lisa Parks and Nicole Starosielski), and 
+* T.L. Taylor's "Ethnography as Play" (25 pages; in *American Journal of Play* 14.1 2021)
+
+## Week 5 (October 6th): Performing + Watching Play
+
+*Before seminar*, please:  
+* Read Josef Nguyen's ["Performing as Video Game Players in Let's Plays"](https://journal.transformativeworks.org/index.php/twc/article/view/698/615) (22 pages; in *Transformative Works and Cultures* 22 2016),  
+* Read Melanie Oberg's "The Video Video Game" (18 pages; in *Popular Culture Studies Journal* 9.2 2021), and 
+* Draft a response to Prompt 3. 
+
+What are the relationships between performance, affect, and power in a player story? How are player stories variously interpreted or decoded by audiences? 
+
+*During our fifth meeting*, we'll discuss these two texts (60 minutes) and then start preparing for next week's workshop (30 minutes). A visiting speaker will join us (45 minutes), and you'll also have an opportunity to share some of your thoughts on Prompts 1 and 2 (10 minutes). I'll respond to your early work in progress prior to this meeting, and we'll review Prompt 4 before we go (5 minutes). 
+
+Visiting speaker: TBD
+
+*Prompt 3*: Play one of the [recommended games or fictions](games.html) for at least two hours (including replay if need be), preferably with someone else in the seminar. As you do, try experimenting across different media with three distinct ways to document your performance or experience of play. Then use a total of 250-300 words (excluding references) to describe your three approaches and, in so doing, provide an example or two of each in action. (You can attach, insert, or embed audio, images, video, or text. Any text included in your examples does not count against your allotted 250-300 words.) Since you're collaborating with someone on this one, you are welcome to co-author your response. Please include your primary and secondary sources in a references section after the description and documentation. Aside from time spent playing the game or fiction, I advise spending two hours or less writing your response. Your audience is other people in this seminar, including me, and you are welcome to write informally. (You'll submit this response on November 3rd, but I suggest writing at least a draft for today's meeting.)
+
+Some related material: 
+* Mia Consalvo's "Kaceytron and Transgressive Play on Twitch.tv" (16 pages; from *Transgression in Games and Play* 2019, edited by Kristine Jørgensen and Faltin Karlsen), 
+* Dan Hagen's "Fair Use, Fair Play: Video Game Performances and 'Let's Plays' as Transformative Use" (30 pages; in *Washington Journal of Law, Technology, and Arts* 13.3 2018), 
+* Stuart Hall's "Encoding/Decoding" (11 pages; 1973, republished in *The Cultural Studies Reader* 1999, edited by Simon During), 
+* Hall's "Notes on Deconstructing 'The Popular'" (8 pages, 1981, republished in *Cultural Resistance Reader* 2002, edited by Stephen Duncombe), 
+* Adrienne Shaw's "Encoding and Decoding Affordances: Stuart Hall and Interactive Media Technologies" (11 pages; in *Media, Culture, and Society* 39.4 2017), and 
+* Ivan O. Taylor Jr.'s "Video Games, Fair Use, and The Internet: The Plight of the Let's Play" (25 pages; in *Illinois Journal of Law, Technology, and Policy* 2015)
+
+## Week 6 (October 13th): Player Stories Workshop, Part 1  
+
+*Before seminar*, please: 
+* Play Nina Freeman's *Mangia* (Twine version, 2014), 
+* Read "*Mangia* by Nina Freeman, Played by Lana Polansky" (44 pages; from *Videogames for Humans* 2015, edited by merritt k),
+* Read Austin Walker's "Me, on the Screen: Race in *Animal Crossing: New Leaf*" (12 pages; self-published in 2013 and republished in *The New Statesman* 2013), and
+* Draft a response to Prompt 4.   
+
+Content warning: Please note that the styles of these pieces, including their approaches to culture and personal experience, are distinct from the publications we've read thus far. *Mangia* and Polansky's playthrough address chronic medical conditions, eating disorders, and anxiety. Walker's approach to *Animal Crossing* in "Me, on the Screen" addresses racism, white supremacy, and racialized violence. During seminar, I will not call upon any of you to discuss your own experiences of these issues or expect you to somehow represent, or speak on behalf of, people who've shared similar experiences. 
+
+What's a player story, and how and why might you compose one? For whom? 
+
+*During our sixth meeting*, we'll hold a workshop on composing player stories. We'll look at examples (including Polansky's engagement with *Mangia*; 20 minutes) and then dedicate about two hours to addressing issues such as: 
+* Navigating attention economics, including "like and subscribe" platforms,  
+* Describing the games and interactive fictions you're playing (e.g., their verbs, characters, pacing, story beats, leveling, and engines), 
+* Getting permissions and attributing other people's work as part of your research, 
+* Making player stories with care for your audience's accessibility needs, 
+* Strategic uses of media, software, and narrative in player stories, including the personal, educational, and critical elements of play, and 
+* Axiology, reflexivity, affect, and accountability in player stories. 
+
+We'll revisit the [recommended resources](#recommended-resources) in this outline (10 minutes), and I'll also circulate the prompt for the player story that's due by December 15th.  
+
+*Prompt 4*: It's time to pick a game for your player story! Use 250-400 words (excluding references) to identify and describe your game and then briefly explain why you selected it. Why is the game interesting or relevant today, and why might it warrant a player story? You are welcome to co-author your response, especially if you decide to produce a player story with someone else in the seminar (no more than two people per story, please). Bring the name of the game (or even the game itself) to today's meeting, where you'll have an opportunity to produce draft material for this prompt. Please include your primary and secondary sources in a references section after your description. I advise spending two hours or less writing your response, which you might want to polish *after* our first workshop. Your audience is other people in this seminar, including me, but you may want to write a bit more academically for this one. (You'll submit the response on November 3rd.)
+
+Some related material: 
+* Andrea Braithwaite's "It's about Ethics in Journalism? Gamergaters and Geek Masculinity" (10 pages; in *Social Media + Society* October-December 2016),
+* Amanda C. Cote's "Strategies for Play: Finding Space and Exercising Active Audience Power" (20 pages; from *Gaming Sexism: Gender and Identity in the Era of Casual Video Games* 2020), 
+* Anna Gibbs's "After Affect" (19 pages; from *The Affect Theory Reader* 2010),
+* Brendan Keogh's "Across Worlds and Bodies" (32 pages; from *A Play of Bodies: How We Perceive Videogames* 2018), 
+* Anastasia Salter and Bridget Blodgett's "Actually, It's about Toxic Geek Masculinity ..." (16 pages; from *Toxic Geek Masculinity in Media Sexism, Trolling, and Identity Policing* 2017), and 
+* Kurt Dean Squire's "Well Played as a Research Method" (10 pages; from *Well Played Retrospective* 2021, edited by Drew Davidson et al.). 
 
 # Policies 
 
@@ -166,7 +274,7 @@ Coming soon.
 
 # Recommended Materials 
 
-I realize this seminar may be your first experience with game studies in an academic context. The following three sections (["Recommended Reading, "](#recommended-reading), ["Recommended Listening"](#recommended-listening), and ["Recommended Resources"](#recommended-resources)) point you to materials that you might find useful along the way. I know these lists are long and might be overwhelming. If you're looking for something specific, perhaps related to your research, then let me know. I'll help you to narrow the scope. 
+I realize this seminar may be your first experience with game studies in an academic context. The following three sections (["Recommended Reading, "](#recommended-reading) ["Recommended Listening,"](#recommended-listening) and ["Recommended Resources"](#recommended-resources)) point you to materials that you might find useful along the way. I know these lists are long and might be overwhelming. If you're looking for something specific, perhaps related to your research, then let me know. I'll help you to narrow the scope. 
 
 ## Recommended Reading 
 
