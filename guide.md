@@ -2,7 +2,7 @@ tl;dr Version of Games and Interactive Fiction
 English 506 | CSPT 500/600 at UVic    
 lək̓ʷəŋən and W̱SÁNEĆ Territories      
 Taught by Jentery Sayers (he / him)   
-View this document in [PDF](guide.pdf)
+View this document in [PDF](guide.pdf).
 
 The point of this seminar is for you to document and narrate your experience playing a game or interactive fiction using a methodology of your own design. We'll call it a "player story."
 
