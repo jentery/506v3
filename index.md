@@ -4,7 +4,8 @@ Fall 2022 at the University of Victoria
 Thursday, 9:30am - 12:20pm     
 Taught by Jentery Sayers (he / him)    
 Office hours: Thursday, 12:30 - 2:30pm    
-[jentery@uvic.ca](mailto:jentery@uvic.ca)
+[jentery@uvic.ca](mailto:jentery@uvic.ca)   
+View this document in [PDF](playerStories2022.pdf).
 
 **This document is an incomplete draft.** It's licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
 
