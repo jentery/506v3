@@ -67,7 +67,7 @@ To recap, then, you're not required to purchase anything for this seminar, yet y
 * A game or interactive fiction (see the list below), and 
 * A way to document your experiences playing that game or fiction (also more below). 
 
-Finally, I invite you to visit the ["Related Materials"](#related-materials) section of this outline for lists of game studies books, journals, podcasts, and resources I suggest if you find yourself to be keen on the field. 
+Beyond that, I invite you to visit the ["Related Materials"](#related-materials) section of this outline for lists of game studies books, journals, podcasts, and resources I suggest if you find yourself to be keen on the field. 
 
 ## Pick a Game or Interactive Fiction
 
@@ -103,3 +103,21 @@ Your player story, revisions statement, and responses to Prompts 1-8 comprise yo
 I will use the Faculty of Graduate Studies' [official grading system](https://www.uvic.ca/calendar/future/grad/index.php#/policy/B13jeiMdE?bc=true&bcCurrent=07%20-%20Grading&bcGroup=Faculty%20Academic%20Regulations&bcItemType=policies) to assess your work. Please also note that I have a "no questions asked," one-week late policy for all submissions, excluding the final project. See the seminar [policies](#policies) for more on late submissions and related penalties. 
 
 I suggest dedicating *5 to 9 hours of study each week to this seminar, plus 3 hours for the weekly seminar meetings*. Of course, 5 to 9 hours per week is only a guideline. You may find that you need more or less time depending on the activity, your preferences, and your own familiarity with the material and work involved. 
+
+# Schedule  
+
+The seminar schedule is below. It's subject to change, and I will announce any changes 1-2 weeks in advance. I will never use schedule changes to increase your workload. 
+
+You will find nearly all assigned materials either online via UVic Libraries or in the PDF course reader. I link to assigned materials when they are *not* available in the Libraries or reader. 
+
+Most weeks in the schedule include descriptions of what to do before seminar, what we'll do during seminar, and some questions to guide our inquiry that week. You'll also find detailed prompts in Weeks 3, 4, 5, 6, 8, 11, 12, and 13. Please read the prompts carefully and send any questions or concerns my way. I realize any given prompt can always be better. I'll revise it.  
+
+You'll notice that, many weeks, I point to further reading. I in no way expect you to read it. We can't read all the things, and I know you've a lot to juggle in a single term. I include further reading for the sake of scholarly integrity and in case you wish to follow a particular trajectory or topic across game studies. I will likely mention aspects of the further reading during seminar discussions, too. Feel free to tell me when I fail to effectively communicate those aspects. I'll clarify. 
+
+The same goes for moments in the schedule when I write, "Check out (games mentioned in the assigned reading)." If you cannot or do not wish to learn more about them or play them, then no worries. I mention them only for the sake of keeping track of our primary sources as we go.  
+
+Importantly, the material in this seminar frequently engages or reflects complex and difficult issues such as racism, sexism, colonialism, cisheteropatriarchy, white supremacy, ableism, homophobia, transphobia, hegemony, death, violence, toxic masculinity, fatphobia, xenophobia, mental health, anxiety, and lived experiences of harassment and oppression. We might also find some of the material, including many games and works of interactive fiction, to be problematic at times. I will conclude each seminar meeting with a brief overview of where content warnings might apply to the following week's assigned materials, and during seminar I will never call individually on you to share your experiences of such issues or to somehow represent other people with similar experiences. If you find that I am approaching any of these issues inadequately or ignorantly, then please don't hesitate to tell me or correct me, and I will learn from my mistakes. If you'd rather not speak with me directly about or during such moments, then I recommend sharing your concerns or corrections with Stephen Ross, who is currently the graduate adviser in English. 
+
+Finally, a thing to know about me before we proceed: *I'm a planner, I always over-plan, and I’ll opt for care in every instance.* If the workload becomes too much, or the seminar starts to struggle with scope creep, then we’ll cut material. I’ve planned for the maximum in advance, under the assumption that we won't get to everything. And that's totally fine. 
+
+(Many thanks to Julie Funk for their feedback on aspects of this schedule.)
