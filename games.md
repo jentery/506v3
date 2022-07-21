@@ -3,15 +3,15 @@ English 506 | CSPT 500/600 at UVic
 lək̓ʷəŋən and W̱SÁNEĆ Territories      
 Taught by Jentery Sayers (he / him)  
 
-Here's a list of 150 or so games and interactive fictions I suggest for your player stories this term. I also published it as [a GG| list](https://ggapp.io/sfam/lists/playlist-6ag87zsj) if you prefer navigating by cover art instead of text. (Note that some works of interactive fiction on this list do not appear in GG|.) 
+Here's a list of 150 or so games and interactive fictions I suggest for your player stories this term. I also published it as [a GG list](https://ggapp.io/sfam/lists/playlist-6ag87zsj) if you prefer navigating by cover art instead of text. (Note that some works of interactive fiction on this list do not appear in GG, thus the GG list is shorter than this one.) 
 
-This list is also biased: aside from relying on material with which I'm relatively familiar, it leans toward games with narrative elements. You won't find many puzzle or sports games, for example. 
+The list is biased: aside from relying on material with which I'm relatively familiar, it leans toward games with narrative elements. You won't find many puzzle or sports games, for example. 
 
-When a game is part of a series, I list only one game in that series and include a remark such as "any of them."
+When I recommend a series of games (such as *The Legend of Zelda* or *Metal Gear Solid*), I list only one game in that series and then include a remark such as "any of them." I don't expect you to cover an entire series in a single term; however, newer games in a series will likely refer in some way to the ones that preceded them. There's also the matter of lore.  
 
 If you'd like content warnings or "emotional spoilers" for a certain work, then try [Does the Dog Die?](https://www.doesthedogdie.com/)
 
-I'm open to suggestions if none of what's below interests you or you came to the seminar with a particular game or interactive fiction in mind. It just needs to be a work I've played and studied a bit. Thanks for meeting me halfway. 
+I'm open to suggestions if none of what's below interests you or you came to the seminar with a particular game or interactive fiction in mind. It just needs to be something I've played and studied a bit. Thanks for meeting me halfway. 
 
 And, of course, don't hesitate to ask if you'd like me to narrow the list based on your interests, a type of game or play, your technology needs, or the like. 
 
