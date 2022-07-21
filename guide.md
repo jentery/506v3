@@ -1,4 +1,4 @@
-tl;dr Version of Games and Interactive Fiction       
+**tl;dr Version of Games and Interactive Fiction**       
 English 506 | CSPT 500/600 at UVic    
 lək̓ʷəŋən and W̱SÁNEĆ Territories      
 Taught by Jentery Sayers (he / him)   
