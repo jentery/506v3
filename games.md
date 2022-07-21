@@ -7,9 +7,13 @@ Here's a list of 150 or so games and interactive fictions I suggest for your pla
 
 This list is also biased: aside from relying on material with which I'm relatively familiar, it leans toward games with narrative elements. You won't find many puzzle or sports games, for example. 
 
+When a game is part of a series, I list only one game in that series and include a remark such as "any of them."
+
 If you'd like content warnings or "emotional spoilers" for a certain work, then try [Does the Dog Die?](https://www.doesthedogdie.com/)
 
 I'm open to suggestions if none of what's below interests you or you came to the seminar with a particular game or interactive fiction in mind. It just needs to be a work I've played and studied a bit. Thanks for meeting me halfway. 
+
+And, of course, don't hesitate to ask if you'd like me to narrow the list based on your interests, a type of game or play, your technology needs, or the like. 
 
 * [*AI Dungeon*](https://aidungeon.io/): "a text-based adventure-story game you direct (and star in) while the AI brings it to life" 
 * [*Alien: Isolation*](https://ggapp.io/games/2Zs8Ph/alien-isolation): "Discover the true meaning of fear in *Alien: Isolation*, a survival horror set in an atmosphere of constant dread and mortal danger."
