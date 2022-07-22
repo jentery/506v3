@@ -3,13 +3,13 @@ English 506 | CSPT 500/600 at UVic
 lək̓ʷəŋən and W̱SÁNEĆ Territories      
 Taught by Jentery Sayers (he / him)  
 
-Here's a list of 150 or so games and interactive fictions I suggest for your player stories this term. I also published it as [a GG list](https://ggapp.io/sfam/lists/playlist-6ag87zsj) if you prefer navigating by cover art instead of text. (Note that some works of interactive fiction on this list do not appear in GG, thus the GG list is shorter than this one.) 
+Here's a list of about 150 games and interactive fictions I suggest for your player stories this term. I also published it as [a GG list](https://ggapp.io/sfam/lists/playlist-6ag87zsj) if you prefer navigating by cover art instead of text. (Note that some works of interactive fiction do not appear in GG, thus the GG list is shorter than this one.) 
 
 Links usually point to either the [GG app](https://ggapp.io/) or [IFDB](https://ifdb.org/).
 
 The list is biased: aside from relying on material with which I'm relatively familiar, it leans toward games with narrative elements. You won't find many puzzle or sports games, for example. 
 
-When I recommend a series of games (such as *The Legend of Zelda* or *Metal Gear Solid*), I list only one game in that series and then include a remark such as "any of them." I don't expect you to cover an entire series in a single term; however, newer games in a series will likely refer in some way to the ones that preceded them. There's also the matter of lore.  
+When I recommend a series of games (such as *The Legend of Zelda* or *Metal Gear Solid*), I list only one game in that series and then include a remark such as "any of them." I don't expect you to cover an entire series in a single term; however, newer games in a series will likely refer in some way to the ones preceding them. There's also the matter of lore.  
 
 If you'd like content warnings or "emotional spoilers" for a certain work, then try [Does the Dog Die?](https://www.doesthedogdie.com/)
 
