@@ -1,12 +1,12 @@
-**tl;dr Version of the Course Outline**   
+**tl;dr Version of the Course Outline**     
 English 506 | CSPT 500/600 at UVic    
 lək̓ʷəŋən and W̱SÁNEĆ Territories      
 Taught by Jentery Sayers (he / him)   
-View this document in [PDF](guide.pdf).
+View this in [PDF](guide.pdf)
 
 The point of this seminar is for you to document and narrate your experience playing a game or interactive fiction using a methodology of your own design. We'll call it a "player story."
 
-You don't need to purchase anything for this course, but you will need a [game or fiction](games.html) to play. Everything else is in UVic Libraries or the course reader. (See me for a copy.) I’ve kept the reading to 75 pages or less per week to help you gradually develop your own player stories and conduct research for them throughout the term. We’ll also dedicate most of November and all of December to your player stories.
+You don't need to purchase anything for this course, but you will need a [game or fiction](games.html) to play. Everything else is in UVic Libraries or the course reader. (See me for a copy.) I've kept the reading to 75 pages or less per week to help you gradually develop your own player stories and conduct research for them throughout the term. We'll also dedicate most of November and all of December to your player stories. 
 
 * **Sept. 8**: Read Flanagan and Salter. We'll introduce ourselves and review some games terminology. 
 * **Sept. 15**: Read Consalvo, Fickle, McPherson, and O'Bonsawin. 
