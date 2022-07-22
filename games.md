@@ -15,7 +15,7 @@ If you'd like content warnings or "emotional spoilers" for a certain work, then 
 
 I'm open to suggestions if none of what's below interests you or you came to the seminar with a particular game or interactive fiction in mind. It just needs to be something I've played and studied a bit. Thanks for meeting me halfway. 
 
-And, of course, don't hesitate to ask if you'd like me to narrow the list based on your interests, a type of game or play, your technology needs, or the like. 
+And, of course, don't hesitate to ask if you want me to narrow the list based on your interests, a type of game or play, your technology needs, or . . .  
 
 * [*AI Dungeon*](https://ggapp.io/games/O2lIO1/ai-dungeon-2): "Imagine an infinitely generated world that you could explore endlessly, continually finding entirely new content and adventures. What if you could also choose any action you can think of instead of being limited by the imagination of the developers who created the game? Unlike virtually every other game in existence, you are not limited by the imagination of the developer in what you can do. Any thing you can express in language can be your action and the AI dungeon master will decide how the world responds to your actions." 
 * [*Alien: Isolation*](https://ggapp.io/games/2Zs8Ph/alien-isolation): "Discover the true meaning of fear in *Alien: Isolation*, a survival horror set in an atmosphere of constant dread and mortal danger."
