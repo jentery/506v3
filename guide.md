@@ -6,7 +6,7 @@ View this document in [PDF](guide.pdf).
 
 The point of this seminar is for you to document and narrate your experience playing a game or interactive fiction using a methodology of your own design. We'll call it a "player story."
 
-You don't need to purchase anything for this course, but you will need a [game or fiction](games.html) to play. Everything else is in UVic Libraries or the course reader. (See me for a copy.) I've kept the reading to 75 pages or less per week. 
+You don't need to purchase anything for this course, but you will need a [game or fiction](games.html) to play. Everything else is in UVic Libraries or the course reader. (See me for a copy.) I’ve kept the reading to 75 pages or less per week to help you gradually develop your own player story and conduct research for it throughout the term. 
 
 * **Sept. 8**: Read Flanagan and Salter. We'll introduce ourselves and review some games terminology. 
 * **Sept. 15**: Read Consalvo, Fickle, McPherson, and O'Bonsawin. 
