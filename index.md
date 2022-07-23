@@ -72,9 +72,11 @@ Beyond that, I invite you to visit the ["Related Materials"](#related-materials)
 
 # Pick a Game or Interactive Fiction
 
-A player story needs a primary source, so I created a [list of roughly 150 games and interactive fictions](games.html) to help you choose one. In fact, choosing one is an assignment for Week 6 (October 13th). I'm open to suggestions if nothing on the list interests you or you came to the seminar with a particular game or interactive fiction in mind. The game or fiction you select just needs to be something I have played and studied a bit (or I could play and study this term). Thanks for meeting me halfway. Perhaps most important, please don't hesitate to ask if you want me to narrow the list based on your interests, a type of game or play, your technology needs, or . . . I realize the list is pretty long, if not a little extra. 
+A player story needs a primary source, so I created a [list of roughly 150 games and interactive fictions](games.html) (also a [GG list](https://ggapp.io/sfam/lists/playlist-6ag87zsj)) to help you choose one. In fact, choosing one is an assignment for Week 6 (October 13th). I'm open to suggestions if nothing on the list interests you or you came to the seminar with a particular game or interactive fiction in mind. The game or fiction you select just needs to be something I have played and studied a bit (or I could play and study this term). Thanks for meeting me halfway. 
 
-I'll encourage to you start playing early in the term. This way you can refine your research, gather plenty of documentation, replay the game or fiction where necessary, and share your work in progress. How you document your play, how you define and compose a player story, and what you ultimately say or argue will be up to you; however, I'll nudge you to try a few techniques before you select one for your project. Importantly, your player stories don't need to be high-tech. You can use audio or video, if you wish, or just text and images. I'll cover more of the player story particulars during the three workshops I've planned for the term (see Weeks 6, 12, and 13). For now, let's talk about the aims, workload, and prompts for the seminar. 
+Perhaps most important, please don't hesitate to ask if you want me to narrow the list based on your interests, a type of game or play, your technology needs, or . . . I realize the list is pretty long, if not a little extra. 
+
+I'll encourage to you start playing early in the term. This way you can refine your research, gather plenty of documentation, replay the game or fiction where necessary, and share your work in progress. How you document your play, how you define and compose a player story, and what you ultimately say or argue will be up to you; however, I'll nudge you to try a few techniques before you select one for your project. Notably, your player stories don't need to be high-tech. You can use audio or video, if you wish, or just text and images. I'll cover more of the player story particulars during the three workshops I've planned for the term (see Weeks 6, 12, and 13). For now, let's talk about the aims, workload, and prompts for the seminar. 
 
 # Aims, Workload, and Prompts
 
@@ -122,3 +124,28 @@ Importantly, material in this seminar frequently engages or reflects issues such
 Finally, a thing to know about me before we proceed: *I'm a planner, I always over-plan, and I’ll opt for care in every instance.* If the workload becomes too much, or the seminar starts to struggle with scope creep, then we’ll cut material. I’ve planned for the maximum in advance, under the assumption that we won't get to everything. And that's totally fine. 
 
 (Many thanks to Julie Funk for their feedback on aspects of this schedule.)
+
+## Week 1 (September 8th): Hello World! 
+
+*Before seminar*, please: 
+* Read Mary Flanagan's "Games as a Medium" (8 pages; from *Debugging Game History* 2016, edited by Henry Lowood and Raiford Guins),  
+* Read Anastasia Salter's "Building Interactive Stories" (10 pages; from *The Routledge Companion to Media Studies and Digital Humanities* 2018, edited by me), and 
+* Check out *Pac-Man*, *Dungeons & Dragons*, *Monkey Island*, *BioShock*, *Gone Home*, Telltale's *The Walking Dead*, *my body — a Wunderkammer*, *With Those We Love Alive*, and/or Dave Morris's adaptation of Shelley's *Frankenstein* (all mentioned in the assigned reading), if you'd like. 
+
+What are the media of games? What are some notable tensions between play and story? Between mechanics and fiction? What are the meaningful differences between a game's narrative and a player's story? 
+
+*During our first meeting*, we'll introduce ourselves (20 minutes), review this outline as well as the plan for this term (45 minutes), and share our questions and concerns. We'll then discuss these two texts (by Flanagan and Salter; 85 minutes), which will help us to not only survey some common debates in game studies but also highlight and define several keywords in the field. We'll return to these debates and keywords throughout the seminar to ensure the language we're using is relatively clear to us all, even when our individual approaches to the material may differ. 
+
+Some related material (not required or expected; just more context if you'd like it): 
+* Ian Bogost's "Procedural Rhetoric" (64 pages; from *Persuasive Games: The Expressive Power of Videogames* 2007), 
+* Elizabeth W. Bruss's "The Game of Literature and Some Literary Games" (20 pages; from *New Literary History* 9.1 1977), 
+* Astrid Ensslin's "Between Ludicity and Literariness" (18 pages; from *Literary Gaming* 2014), 
+* Alexander Galloway's "Gamic Action: Four Moments" (38 pages; from *Gaming: Essays on Algorithmic Culture* 2006), 
+* N. Katherine Hayles's "Electronic Literature: What Is It?" (42 pages, from *Electronic Literature: New Horizons for the Literary* 2008), 
+* Henry Jenkins's "Game Design as Narrative Architecture" (16 pages; self-published in 2002; republished in *First Person: New Media as Story, Performance, and Game* 2004, edited by Noah Wardrip-Fruin and Pat Harrigan),
+* Nick Montfort's "Toward a Theory of Interactive Fiction" (34 pages; from *IF Theory Reader* 2011, edited by Kevin Jackson-Mead and J. Robinson Wheeler), 
+* Souvik Mukherjee's "Video Games and Storytelling" (21 pages; from *Video Games and Storytelling: Reading Games and Playing Books* 2015), 
+* Janet Murray's "Harbingers of the Holodeck" (37 pages; from *Hamlet on the Holodeck* 1997), 
+* Emily Short's [blog](https://emshort.blog/), 
+* Grant Tavinor's "Fiction" (8 pages; from *The Routledge Companion to Video Game Studies* 2014, edited by Mark J. P. Wolf and Bernard Perron), and 
+* Noah Wardrip-Fruin's "Expressive Processing" (9 pages; from *The Routledge Companion to Media Studies and Digital Humanities* 2018, edited by me)
