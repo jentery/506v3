@@ -6,7 +6,7 @@ Thursday, 9:30am - 12:20pm
 Taught by Jentery Sayers (he / him)    
 Office hours: Thursday, 12:30 - 2:30pm    
 [jentery@uvic.ca](mailto:jentery@uvic.ca)   
-View this document in [PDF](playerStories2022.pdf).
+View this document in PDF (coming soon). 
 
 **This course outline is incomplete.** It's licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
 
@@ -117,7 +117,7 @@ Most weeks in the schedule include descriptions of what to do before seminar, wh
 
 You'll notice that, many weeks, I point to further reading. I in no way expect you to read it. We can't read all the things, and I know you've a lot to juggle in a single term. I include further reading for the sake of scholarly integrity and in case you wish to follow a particular trajectory or topic across game studies. I will likely mention aspects of the further reading during seminar discussions, too. Feel free to tell me when I fail to effectively communicate those aspects. I'll clarify. 
 
-The same goes for moments in the schedule when I write, "Optional: check out (games mentioned in the assigned reading)." If you cannot or do not wish to check them out, then no worries. I mention them only for the sake of tracking our primary sources as we go. For that reason, I might occasionally show clips of those games and fictions during seminar.  
+The same goes for moments in the schedule when I write, "Optional: check out (games mentioned in the assigned reading)." If you cannot or do not wish to check them out (e.g., Google them, watch them, or play them), then no worries. I mention them only for the sake of tracking our primary sources as we go. For that reason, I might occasionally show clips of those games and fictions during seminar.  
 
 Importantly, material in this seminar frequently engages or reflects issues such as racism, sexism, colonialism, cisheteropatriarchy, white supremacy, ableism, homophobia, transphobia, hegemony, death, violence, toxic masculinity, fatphobia, xenophobia, mental health, anxiety, and lived experiences of harassment and oppression. We might also find many games and interactive fictions to be at times problematic. I will thus conclude each seminar meeting with a brief overview of where content warnings might apply to the following week's assigned materials, and during seminar I will never call individually on you to share your experiences of such issues or to somehow represent other people with similar experiences. If you find that I am approaching any of these issues inadequately or ignorantly, then please don't hesitate to tell me or correct me, and I will learn from my mistakes. If you'd rather not speak with me directly about or during such moments, then I recommend sharing your concerns or corrections with Stephen Ross, who is currently the graduate adviser in English. 
 
@@ -268,7 +268,8 @@ Further reading (not required or expected; just more context if you'd like it):
 
 What's a player story? How might you compose one? Why? And for whom? 
 
-*During our sixth meeting*, we'll hold a workshop on composing player stories. We'll look at examples (including Polansky's engagement with *Mangia*; 20 minutes) and then dedicate about two hours to addressing issues such as:   
+*During our sixth meeting*, we'll hold a workshop on composing player stories. We'll look at examples (including Polansky's engagement with *Mangia*; 20 minutes) and then dedicate about two hours to: 
+* Discussing your responses to Prompts 1, 2, and 3, 
 * Describing the games and interactive fictions you're playing (e.g., their verbs, avatars, characters, dialogue, cameras, controls, gameplay loops, items, inventories, DKART [Terrell], ECOTAG [Hamilton], pacing, story beats, scenes, leveling, randomization, (extra)diegetic interfaces, art, audio, engines, minigames, and metagames), 
 * Describing how your games and fictions tell stories and involve players in that process, 
 * Getting permissions and attributing other people's work as part of your research, 
@@ -290,3 +291,27 @@ Further reading (not required or expected; just more context if you'd like it):
 * Patrick Klepek's "*Call of Duty* Devs Tell Us What It's Like to Make a Game in the Wake of a Mass Shooting" (8 pages; in *Waypoint: Games by Vice* 2022),
 * Anastasia Salter and Bridget Blodgett's "Actually, It's about Toxic Geek Masculinity ..." (16 pages; from *Toxic Geek Masculinity in Media Sexism, Trolling, and Identity Policing* 2017), and 
 * Kurt Dean Squire's "Well Played as a Research Method" (10 pages; from *Well Played Retrospective* 2021, edited by Drew Davidson et al.) 
+
+## Week 7 (October 20th): The Gamic Gaze and Player Two 
+
+*Before seminar*, please: 
+* Read Shira Chess's "Playing with Identity" (20 pages; from *Reader Player Two: Women Gamers and Designed Identity* 2017),  
+* Read Amanda Phillips's "Gender, Power, and the Gamic Gaze" (27 pages; from *Gamer Trouble: Feminist Confrontations in Digital Culture* 2020),
+* Start working on your player story if you can: play your game or fiction, research it, document it . . ., and 
+* Optional: Check out *Portal*, *Tomb Raider*, *Bayonetta*, *Kim Kardashian: Hollywood*, *Diner Dash*, *Candy Crush Saga*, and *Angry Birds* (all mentioned in the assigned reading). 
+
+How are player stories entwined with voyeurism, co-presence, and commiseration? How do they engage and experiment with designed identities? With the values at play in a game's default settings and assumptions about gender? 
+
+*During our seventh meeting*, we'll discuss these two texts (75 minutes) and start chatting about your player story methodologies (15 minutes). A visiting speaker will join us (45 minutes), and you'll also have an opportunity to share some of your responses to Prompt 4 (10 minutes), if you wish. We'll conclude by reviewing Prompt 5 (5 minutes). 
+
+Visiting speaker: TBD
+
+Further reading (not required or expected; just more context if you'd like it): 
+* Ashley M. L. Brown's "Videogames and Sex" (9 pages; from *The Routledge Companion to Media, Sex and Sexuality* 2017, edited by Clarissa Smith, Feona Attwood, and Brian McNair),
+* Michel Chion's "Phantom Audio-Vision" (15 pages; from *Audio-Vision: Sound on Screen* 1994), 
+* Mary Flanagan and Helen Nissenbaum's "Game Elements: The Language of Values" (39 pages; with Jonathan Belman; from *Values at Play in Digital Games* 2014),
+* Carly A. Kocurek's "Gaming's Gold Medalists: Twin Galaxies and the Rush to Competitive Gaming" (21 pages; from *Coin-Operated Americans: Rebooting Boyhood at the Video Game Arcade*),
+* Laura Mulvey's "Visual Pleasure and Narrative Cinema" (13 pages; in *Screen* 16.3 1975),
+* Anita Sarkeesian's ["Tropes vs. Women in Video Games"](https://feministfrequency.com/series/tropes-vs-women-in-video-games/) (20 videos; 2013-17),
+* Adrienne Shaw's "Does Anyone Really Identify with Lara Croft?: Unpacking Identification in Video Games" (41 pages; from *Gaming at the Edge: Sexuality and Gender at the Margins of Gamer Culture* 2014), and 
+* Nick Yee and Quantic Foundry's "Gamer Motivation Model" (9 pages; 2019) 
