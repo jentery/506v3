@@ -117,9 +117,9 @@ Most weeks in the schedule include descriptions of what to do before seminar, wh
 
 You'll notice that, many weeks, I point to further reading. I in no way expect you to read it. We can't read all the things, and I know you've a lot to juggle in a single term. I include further reading for the sake of scholarly integrity and in case you wish to follow a particular trajectory or topic across game studies. I will likely mention aspects of the further reading during seminar discussions, too. Feel free to tell me when I fail to effectively communicate those aspects. I'll clarify. 
 
-The same goes for moments in the schedule when I write, "Check out (games mentioned in the assigned reading)." If you cannot or do not wish to learn more about them or play them, then no worries. I mention them only for the sake of keeping track of our primary sources as we go, and I didn't assign them all for a reason.  
+The same goes for moments in the schedule when I write, "Check out (games mentioned in the assigned reading)." If you cannot or do not wish to check them out, then no worries. I mention them only for the sake of tracking our primary sources as we go. For that reason, I might occasionally show clips of them during seminar.  
 
-Importantly, material in this seminar frequently engages or reflects issues such as racism, sexism, colonialism, cisheteropatriarchy, white supremacy, ableism, homophobia, transphobia, hegemony, death, violence, toxic masculinity, fatphobia, xenophobia, mental health, anxiety, and lived experiences of harassment and oppression. We might also find many games and works of interactive fiction to be problematic at times. I will thus conclude each seminar meeting with a brief overview of where content warnings might apply to the following week's assigned materials, and during seminar I will never call individually on you to share your experiences of such issues or to somehow represent other people with similar experiences. If you find that I am approaching any of these issues inadequately or ignorantly, then please don't hesitate to tell me or correct me, and I will learn from my mistakes. If you'd rather not speak with me directly about or during such moments, then I recommend sharing your concerns or corrections with Stephen Ross, who is currently the graduate adviser in English. 
+Importantly, material in this seminar frequently engages or reflects issues such as racism, sexism, colonialism, cisheteropatriarchy, white supremacy, ableism, homophobia, transphobia, hegemony, death, violence, toxic masculinity, fatphobia, xenophobia, mental health, anxiety, and lived experiences of harassment and oppression. We might also find many games and interactive fictions to be at times problematic. I will thus conclude each seminar meeting with a brief overview of where content warnings might apply to the following week's assigned materials, and during seminar I will never call individually on you to share your experiences of such issues or to somehow represent other people with similar experiences. If you find that I am approaching any of these issues inadequately or ignorantly, then please don't hesitate to tell me or correct me, and I will learn from my mistakes. If you'd rather not speak with me directly about or during such moments, then I recommend sharing your concerns or corrections with Stephen Ross, who is currently the graduate adviser in English. 
 
 Finally, a thing to know about me before we proceed: *I'm a planner, I always over-plan, and I’ll opt for care in every instance.* If the workload becomes too much, or the seminar starts to struggle with scope creep, then we’ll cut material. I’ve planned for the maximum in advance, under the assumption that we won't get to everything. And that's totally fine. 
 
@@ -130,13 +130,13 @@ Finally, a thing to know about me before we proceed: *I'm a planner, I always ov
 *Before seminar*, please: 
 * Read Mary Flanagan's "Games as a Medium" (8 pages; from *Debugging Game History* 2016, edited by Henry Lowood and Raiford Guins),  
 * Read Anastasia Salter's "Building Interactive Stories" (10 pages; from *The Routledge Companion to Media Studies and Digital Humanities* 2018, edited by me), and 
-* Check out *Pac-Man*, *Dungeons & Dragons*, *Monkey Island*, *BioShock*, *Gone Home*, Telltale's *The Walking Dead*, *my body — a Wunderkammer*, *With Those We Love Alive*, and/or Dave Morris's adaptation of Shelley's *Frankenstein* (all mentioned in the assigned reading), if you'd like. 
+* Optional: check out *Pac-Man*, *Dungeons & Dragons*, *Monkey Island*, *BioShock*, *Gone Home*, Telltale's *The Walking Dead*, *my body — a Wunderkammer*, *With Those We Love Alive*, and/or Dave Morris's adaptation of Shelley's *Frankenstein* (all mentioned in the assigned reading).
 
 What are the media of games? What are some notable tensions between play and story? Between mechanics and fiction? What are the meaningful differences between a game's narrative and a player's story? 
 
 *During our first meeting*, we'll introduce ourselves (20 minutes), review this outline as well as the plan for this term (45 minutes), and share our questions and concerns. We'll then discuss these two texts (by Flanagan and Salter; 85 minutes), which will help us to not only survey some common debates in game studies but also highlight and define several keywords in the field. We'll return to these debates and keywords throughout the seminar to ensure the language we're using is relatively clear to us all, even when our individual approaches to the material may differ. 
 
-Some related material (not required or expected; just more context if you'd like it): 
+Further reading (not required or expected; just more context if you'd like it): 
 * Ian Bogost's "Procedural Rhetoric" (64 pages; from *Persuasive Games: The Expressive Power of Videogames* 2007), 
 * Elizabeth W. Bruss's "The Game of Literature and Some Literary Games" (20 pages; from *New Literary History* 9.1 1977), 
 * Astrid Ensslin's "Between Ludicity and Literariness" (18 pages; from *Literary Gaming* 2014), 
@@ -149,3 +149,29 @@ Some related material (not required or expected; just more context if you'd like
 * Emily Short's [blog](https://emshort.blog/), 
 * Grant Tavinor's "Fiction" (8 pages; from *The Routledge Companion to Video Game Studies* 2014, edited by Mark J. P. Wolf and Bernard Perron), and 
 * Noah Wardrip-Fruin's "Expressive Processing" (9 pages; from *The Routledge Companion to Media Studies and Digital Humanities* 2018, edited by me)
+
+## Week 2 (September 15th): Play
+
+*Before seminar*, please: 
+* Read Mia Consalvo's "Cheating" (6 pages; from *The Routledge Companion to Video Game Studies* 2014, edited by Mark J. P. Wolf and Bernard Perron), 
+* Read Tara Fickle's "West of the Magic Circle: The Orientalist Origins of Game Studies" (20 pages; from *The Race Card: From Gaming Technologies to Model Minorities* 2019), 
+* Read Kisha McPherson's "Are We Free to Go?: Anti-Black Racism and Its Impact on Black Play" (27 pages; in *American Journal of Play* 13.2/3 2021),  
+* Read Christine O'Bonsawin's "From Black Power to Indigenous Activism: The Olympic Movement and the Marginalization of Oppressed Peoples (1968-2012)" (20 pages; in *Journal of Sport History* 42.2 2015), and 
+* Optional: check out *Colossal Cave Adventure*, *Myst*, *DOOM*, *World of Warcraft*, *FarmVille*, and/or *Pokémon GO* (all mentioned in the above texts).  
+
+How do racism, colonialism, and Orientalism shape, sustain, and preclude play? How do they not only define but also police what's fair? Does play require a sport or game? 
+
+*During our second meeting*, we'll discuss these four texts (145 minutes), carefully engaging them to follow their lines of inquiry. As we do, we'll consider the contexts, values, and cultural histories of play (against the assertion that play is somehow apolitical or transcendent). I'll then take about five minutes to review Prompt 1, which is on the docket for next week.  
+
+Further reading (not required or expected; just more context if you'd like it):  
+* Editor Aubrey Anable's [*Poetics of Play*](http://ivc.lib.rochester.edu/introduction-issue-30-poetics-of-play/) (a special issue of *InVisible Culture* 2019), 
+* Brooke Belisle's "Immersion" (12 pages; from *Debugging Game History* 2016, edited by Henry Lowood and Raiford Guins), 
+* Walter Benjamin's "On the Mimetic Faculty" (3 pages; 1933, republished in *Reflections* 1986), 
+* W.E.B. Du Bois's "The Problem of Amusement" (10 pages; in *The Southern Workman* 1897), 
+* Mary Flanagan's "Introduction to Critical Play" (15 pages; from *Critical Play: Radical Game Design* 2009), 
+* Editor TreaAndrea M. Russworm's [*Blackness and Play*](https://www.museumofplay.org/journalofplay/issues/volume-13-number-2-and-3/) (a special issue of *American Journal of Play* 2021), 
+* Bernard Suits's "Words on Play" (15 pages; in *Journal of the Philosophy of Sport* 4.1 1977),
+* Brian Sutton-Smith's "Play and Ambiguity" (17 pages; from *The Ambiguity of Play* 2001), 
+* T.L. Taylor's "The Assemblage of Play" (9 pages; in *Games and Culture* 4.4 2009), 
+* Aaron Trammell's "Decolonizing Play" (9 pages; in *Critical Studies in Media Communication* 39.3 2022), and 
+* Emma Witkowski's "Cooperative Play" (8 pages; from *Debugging Game History* 2016, edited by Henry Lowood and Raiford Guins). 
