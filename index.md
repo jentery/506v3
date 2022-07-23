@@ -44,7 +44,7 @@ What, then, of content and composition? What are player stories *about*? What do
 
 Since your player story will be your final project, we will not dwell much on how to write journal articles or monographs in game studies. We will nevertheless read criticism in the field, and I'll ask you to engage it in various ways: during seminar discussions, in writing, through play, and via your methodology. I will also ask you to consider the roles of documentation, accountability, accessibility, affect, and narrative in research, each of which remains deeply relevant to scholarship across the humanities, not just in game studies.  
 
-Many thanks to Melanie Oberg (University of Alberta), who introduced me to Let's Plays as part of her graduate research and sparked my interest in player stories back in 2015-16. We'll read some of her work this term. 
+*Many thanks to Melanie Oberg (University of Alberta), who introduced me to Let's Plays as part of her graduate research and sparked my interest in player stories back in 2015-16. We'll read some of her work this term.*
 
 # About Me 
 
@@ -123,7 +123,7 @@ Importantly, material in this seminar frequently engages or reflects issues such
 
 Finally, a thing to know about me before we proceed: *I'm a planner, I always over-plan, and I’ll opt for care in every instance.* If the workload becomes too much, or the seminar starts to struggle with scope creep, then we’ll cut material. I’ve planned for the maximum in advance, under the assumption that we won't get to everything. And that's totally fine. 
 
-(Many thanks to Julie Funk for their feedback on aspects of this schedule.)
+*Many thanks to Julie Funk for their feedback on aspects of this schedule.*
 
 ## Week 1 (September 8th): Hello World! 
 
@@ -381,3 +381,88 @@ Further reading (not required or expected; just more context if you'd like it):
 ## Week 10 (November 10th): Not Playing 
 
 We don't meet today. It's Reading Break. 
+
+## Week 11 (November 17th): Let's Play 
+
+*Before seminar*, please: 
+* Gather material from research you've conducted thus far and determine what you might like to share during seminar. This material could be documentation, commentary, or even part of a game or fiction you wish to play or demo for us. 
+* Draft a response to Prompt 6. 
+
+What are we learning from each other's projects? From witnessing and reading other player stories? From observing and contributing to play sessions? 
+
+*During our tenth meeting*, we'll share work in progress (140 minutes). You can demo your player stories or your approaches to particular games and fictions. You'll also receive feedback on your player story methodologies. I'll return my comments on your mid-term work prior to this meeting, and we'll review what's on the table for Weeks 12 and 13 (10 minutes).  
+
+*Prompt 6*: Use 500-750 words or 7-10 minutes of audio / video (excluding references) to outline the methodology you've in mind for your player story. Your response should mention the game or interactive fiction you're studying, an issue or problem you're addressing, for whom you are addressing it, under what assumptions and in what context(s) you're engaging it, the sort of source material (primary and secondary) that's important to you, and how you plan to communicate your story, including the media (audio, image, video, and/or text) you're using to document and narrate the play experience. What exactly about the issue or problem, or what exactly about the game or fiction, lends itself to *a* player story? To *your* player story? As part of your methodolgy, please draw upon and cite at least three secondary sources (assigned or further reading) we've discussed in the first eleven weeks of this seminar. You might also speak to the personal and cultural dimensions of your methodology. Please include your primary and secondary sources in a references section. I advise spending four hours or less composing your response. Your audience is other people in this seminar, including me, and you're welcome to write or speak informally. (You'll submit this response on December 1st, but I suggest getting started this week.)
+
+## Week 12 (November 24th): Second Player Stories Workshop
+
+*Before seminar*, please: 
+* Continue working on your player story, 
+* Refine your response to Prompt 6, and 
+* Draft a response to Prompt 7.
+
+How do player stories function as documentation? How are or could they be archived? 
+
+*During our eleventh meeting*, we'll hold a workshop on player stories as documentation (140 minutes). We'll look at examples and address topics such as: 
+* Preserving games and player stories and also rendering them accessible,  
+* The status of player stories as both memory work and performance, 
+* The tensions between privileging either player stories or game engines as documentation, 
+* The question of editing and refining player stories when they also serve a documentary function, and
+* Why players may *not* want to archive or circulate their stories. 
+
+We'll revisit the [resources](#related-resources) I mention in this syllabus, and we'll return to the prompt for the player story that's due by December 15th (10 minutes).  
+
+*Prompt 7*: Use 250-300 words (excluding references) to write an abstract for your player story. You should identify your audience at some point. Some possible audiences include scholars of games, media, literature, or narrative; game designers or developers; educators; a particular player or fan community; or memory workers invested in preserving games and/or interactive fiction. (I recommend composing with a particular audience in mind.) Your abstract should communicate to your readers the who, what, when, where, and why of your player story, including issues of cultural significance or relevance. Consider the possibility that people may read your abstract *before* engaging your player story. Please include your primary and secondary sources in a references section after the abstract. I advise spending two hours or less composing your response to this prompt. You will probably want to write formally or academically; however, the abstract's style will likely be shaped by your intended audience's expectations and knowledge. (You'll submit this response on December 1st, but I suggest getting started this week.)
+
+Further reading (not required or expected; just more context if you'd like it): 
+* Pippin Barr's [*The Nothings Suite*](https://pippinbarr.com/the-nothings-suite/) (self-published in 2020-22), 
+* [GameFAQs](https://gamefaqs.gamespot.com/), 
+* Lindsay Grace's [*Black Game Studies*](https://blackgames.professorgrace.com/) (209 pages; with Latoya Peterson, Aaron Trammell, Allen Turner, and Boris Willis; published by Carnegie Mellon University and ETC Press 2019), 
+* Dene Grigar and Stuart Moulthrop's [*Pathfinders: Documenting the Experience of Early Digital Literature*](https://scalar.usc.edu/works/pathfinders/index) (published by Nouspace Publications 2015-18), 
+* Maize Longboat's ["*Terra Nova*: Enacting Videogame Development through Indigenous-Led Creation"](https://spectrum.library.concordia.ca/id/eprint/985763/) (thesis, supervised by Mia Consalvo and Jason Edward Lewis, at Concordia University 2019), 
+* Christian Keathley, Jason Mittell, and Catherine Grant's [*The Videographic Essay: Practice and Pedagogy*](http://videographicessay.org/works/videographic-essay/index) (Middlebury College and the U.S. National Endowment for the Humanities 2019), 
+* The [Let's Play Archive](https://lparchive.org/) (self-published and maintained by Baldurk, 2007-present), 
+* Henry Lowood's "Game Engines and Game History" (20 pages; in *Kinephanos: Journal of Media Studies and Popular Culture* 2014), 
+* James Newman's "(Not) Playing Games: Player-Produced Walkthroughs as Archival Documents of Digital Gameplay" (19 pages; in *The International Journal of Digital Curation* 2.6 2011), 
+* Editors Laine Nooney, Raiford Guins, and Henry Lowood's first issue of [*ROMchip*](https://romchip.org/index.php/romchip-journal/issue/view/july-2019) (2019), 
+* [Obsolete Computing and Media](https://ocam.library.uvic.ca/) at UVic, and 
+* The [Strong National Museum of Play](https://www.museumofplay.org/)
+
+## Week 13 (December 1st): Third Player Stories Workshop 
+
+*Before seminar*, please: 
+* Respond to Prompt 8,  
+* Draft your revisions statement, and
+* Submit your late-term work in progress.  
+
+What have you cooked up thus far? What sort of feedback would be useful to you right now? What criteria do you want people to use to contextualize, interpret, and even assess your player story? 
+
+*During our final meeting*, you will share your work in progress and get more feedback from your peers and me (90 minutes). We'll also hold a workshop on the transformative dimensions of player stories (40 minutes). We'll talk about: 
+* How player stories might feed back into gaming communities and cultures, 
+* How player stories address toxicity and might help people to "unlearn" it, 
+* How and on what grounds you'd want people to contextualize and assess your player stories, and
+* Where you want to go next with your draft material, or how you might tweak it before December 15th arrives.  
+
+You'll have time to complete course experience surveys, too (20 minutes). 
+
+*Prompt 8*: Draft and gather some of your player story material to share or demo during seminar. You can present briefly using your preferred approach. (In November, we'll determine the exact amount of time allotted to your presentation.) Feel free to use video, audio, images, or slides, if you wish. I advise spending four hours or less composing your response to this prompt. Your audience is other people in this seminar, including me, and you're welcome to present semi-formally (less formal than an academic conference but more formal than a chat among fellow students). 
+
+**Please submit your late-term work in progress** (25% of your final mark). This submission should include: 
+* Your response to Prompt 6 (from Week 11), 
+* Your response to Prompt 7 (from Week 12), 
+* Your response to Prompt 8 (from Week 13), including materials from your presentation, and 
+* Any notes or documentation you wish to include. 
+
+**Please also submit your revisions statement** (10% of your final mark): Use 300-500 words to outline significant revisions you *would* make to your responses to Prompts 1-7. Don't worry about line editing. Focus on substantive changes to your methodology and inquiry. How has your thinking changed? Your approach to games or interactive fiction? Your interests in particular issues or problems? What have you refined? Feel free to quote yourself or include samples of your work (as evidence) for the sake of specificity. (Quotes and samples don't contribute to the word count.) If you need more time for this response, then you are welcome to submit your revisions statement as late as December 8th.
+
+## Week 15 (December 15th): Final Project 
+
+Roll credits! Congrats on wrapping up the term and composing your own player story.
+
+**Please submit your final project** (35% of your final mark). This submission should include: 
+* The final draft of your player story and  
+* Any notes or documentation you wish to include. 
+
+See the prompt circulated on October 13th for more details. It includes information regarding word / minute counts, your player story format, your intended audience, documentation and references, and how your player story will be assessed. 
+
+I wish you a relaxing and rejuvenating winter break. 
