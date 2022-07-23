@@ -161,7 +161,7 @@ Further reading (not required or expected; just more context if you'd like it):
 
 How do racism, colonialism, and Orientalism shape, sustain, and preclude play? How do they not only define but also police what's fair? Does play require a sport or game? 
 
-*During our second meeting*, we'll discuss these four texts (145 minutes), carefully engaging them to follow their lines of inquiry. As we do, we'll consider the contexts, values, and cultural histories of play (against the assertion that play is somehow apolitical or transcendent). I'll then take about five minutes to review Prompt 1, which is on the docket for next week.  
+*During our second meeting*, we'll discuss these four texts (145 minutes), carefully engaging them to follow their lines of inquiry. As we do, we'll consider the contexts, values, and cultural histories of play (against the assertion that play is somehow apolitical or transcendent). I'll then take about five minutes to review not only Prompt 1, which is on the docket for next week, but also my "no questions asked" late policy for any work submitted within one week (five working days) of its due date.  
 
 Further reading (not required or expected; just more context if you'd like it):  
 * Editor Aubrey Anable's [*Poetics of Play*](http://ivc.lib.rochester.edu/introduction-issue-30-poetics-of-play/) (a special issue of *InVisible Culture* 2019), 
@@ -268,7 +268,7 @@ Further reading (not required or expected; just more context if you'd like it):
 
 What's a player story? How might you compose one? Why? And for whom? 
 
-*During our sixth meeting*, we'll hold a workshop on composing player stories. We'll look at examples (including Polansky's engagement with *Mangia*; 20 minutes) and then dedicate about two hours to: 
+*During our sixth meeting*, we'll hold a workshop on composing player stories and review the prompt for that assignment, which is due by December 15th. We'll look at examples (including Polansky's engagement with *Mangia*; 20 minutes) and then dedicate about two hours to: 
 * Discussing your responses to Prompts 1, 2, and 3, 
 * Describing the games and interactive fictions you're playing (e.g., their verbs, avatars, characters, dialogue, cameras, controls, gameplay loops, items, inventories, DKART [Terrell], ECOTAG [Hamilton], pacing, story beats, scenes, leveling, randomization, (extra)diegetic interfaces, art, audio, engines, minigames, and metagames), 
 * Describing how your games and fictions tell stories and involve players in that process, 
@@ -278,7 +278,7 @@ What's a player story? How might you compose one? Why? And for whom?
 * Strategic uses of media, software, and narrative in player stories, including the personal, educational, and critical elements of play, and 
 * Axiology, reflexivity, affect, and accountability in player stories. 
 
-We'll revisit the [related resources](#related-resources) in this outline (10 minutes), and I'll also circulate the prompt for your player story that's due by December 15th.  
+We'll also revisit the [related resources](#related-resources) in this outline, and I'll circulate a mechanism for your anonymous feedback on this course and its culture (10 minutes). 
 
 *Prompt 4*: It's time to pick a game or fiction for your player story! Use 300-500 words (excluding references) to identify and describe that game or fiction and then briefly explain why you selected it. Why is the game interesting or relevant today, and why might it warrant a player story? You are welcome to co-author your response, especially if you decide to produce a player story with someone else in the seminar (no more than two people per story, please). Bring the name of the game (or even the game itself) to today's meeting, where you'll have an opportunity to produce draft material for this prompt. Please include your primary and secondary sources in a references section. I advise spending three hours or less writing your response, which you might want to polish *after* today's workshop. Your audience is other people in this seminar, including me, but you may want to write a bit more academically for this one, as you may want to use some of the material for your player story. (You'll submit the response on November 3rd.)
 
@@ -455,7 +455,7 @@ You'll have time to complete course experience surveys, too (20 minutes).
 
 **Please also submit your revisions statement** (10% of your final mark): Use 300-500 words to outline significant revisions you *would* make to your responses to Prompts 1-7. Don't worry about line editing. Focus on substantive changes to your methodology and inquiry. How has your thinking changed? Your approach to games or interactive fiction? Your interests in particular issues or problems? What have you refined? Feel free to quote yourself or include samples of your work (as evidence) for the sake of specificity. (Quotes and samples don't contribute to the word count.) If you need more time for this response, then you are welcome to submit your revisions statement as late as December 8th.
 
-## Week 15 (December 15th): Final Project 
+## Week 15 (December 15th): Your Player Story 
 
 Roll credits! Congrats on wrapping up the term and composing your own player story.
 
@@ -466,3 +466,80 @@ Roll credits! Congrats on wrapping up the term and composing your own player sto
 See the prompt circulated on October 13th for more details. It includes information regarding word / minute counts, your player story format, your intended audience, documentation and references, and how your player story will be assessed. 
 
 I wish you a relaxing and rejuvenating winter break. 
+
+# Policies 
+
+Here are the policies for this seminar. If anything is unclear, ignorant, or mistaken, then please let me know. I'll correct it. 
+
+### Prerequisites 
+
+There are no prerequisites for this seminar, which is part of the English graduate program (MA and PhD) and Cultural, Social, and Political Thought concentration (MA and PhD). It's a special topics course (English 506, Studies in Literary Theory) within the Department of English. 
+  
+### Assessment and Feedback 
+
+The final project and late-term work in progress are required to pass this course. Failure to complete these two assignments will result in a failing N grade (calculated as a 0 for your GPA). 
+
+I will use the Faculty of Graduate Studies' [official grading system](https://www.uvic.ca/calendar/future/grad/index.php#/policy/B13jeiMdE?bc=true&bcCurrent=07%20-%20Grading&bcGroup=Faculty%20Academic%20Regulations&bcItemType=policies) to assess your work. I do not post marks publicly or outside my office, and I do not use plagiarism detection software.
+
+I will provide written feedback on each of your assignments, regardless of when you submit them: early work in progress (due Sept. 29), mid-term work in progress (due Nov. 3), late-term work in progress (due Dec. 1), revisions statement (due Dec. 1-8), and final project (due Dec. 15). If you ever want additional feedback, then feel free to ask me. I can provide it in person or via email. 
+
+Throughout the term, I'll request feedback (verbal and in writing) from you on how the seminar is going. I'll also ask you to complete Course Experience Surveys at the end of the term (during our last meeting). 
+
+### Late Submissions and Extensions
+
+I have a "no questions asked" late policy for any assignments (excluding the final project, due December 15th) submitted within one week (five working days) of its due date. I simply ask that you complete an online form, which I'll circulate during seminar, to apply that policy. Your response to the online form will help me to track work that's arriving a few days late. It'll also save you an email. Of course, I recommend submitting everything on time, but I know that life happens, and for late work I will never expect any sort of documentation from you. 
+
+I will deduct five points per working day for every assignment submitted more than one week (five working days) late. Please email me if you need more than a week's extension. Again, I will comment on all assigned work I receive from you during the term, regardless of when it's submitted.   
+
+### Communications 
+
+The best way to communicate with me is by email ([jentery@uvic.ca](mailto:jentery@uvic.ca)) or during office hours, which are Thursday, 12:30 - 2:30pm. I respond to email between 9am and 5pm, Monday through Friday, excluding holidays. 
+
+### Attendance, Participation, and Recordings
+
+I will assume you are attending each one of our twelve meetings this term. If you are unable to attend a particular meeting, then please email me in advance. You do not need to provide me with documentation for an excused absence, but a message from you will help me to plan and adjust as necessary. There are no participation marks or the like in this seminar. 
+
+With your permission, I may record audio of our sessions and circulate it via Brightspace. You will have the option to limit personal information shared in the recording. If you have other questions or concerns regarding class recording and privacy, then please contact [privacyinfo@uvic.ca](mailto:privacyinfo@uvic.ca).
+
+### Learning Climate  
+
+The University of Victoria is committed to promoting, providing, and protecting a positive, supportive, and safe working and learning environment for all its members. You and I are expected to adhere to [UVic's equity and human rights policies](https://www.uvic.ca/equity/). You should alert me immediately if you have any questions about these policies and their application, or if you have concerns about course proceedings or participants.
+
+### Academic Integrity  
+
+You and I are expected to adhere to [UVic's academic integrity policy](https://www.uvic.ca/current-students/home/academics/academic-integrity/index.php) and be aware of the policies for the evaluation of student work. Violations of the integrity policy will result in a failing grade for the given assignment and may additionally result in a failing grade for the course. By taking this course, you agree that all submitted assignments may be subject to an originality review. I do not use software to detect plagiarism in essays or any other assignments.
+
+### Online Conduct 
+
+The University of Victoria is committed to promoting critical academic discourse while providing a respectful and supportive learning environment. All members of the university community have the right to this experience and the responsibility to help create such an environment. The University will not tolerate racism, sexualized violence, or any form of discrimination, bullying, or harassment. 
+
+Please be advised that, by logging into UVic’s learning systems and interacting with online resources, you are engaging in a university activity. All interactions within this environment are subject to the university expectations and policies. Any concerns about student conduct, may be reviewed and responded to in accordance with the appropriate university policy. To report concerns about online student conduct, email [onlineconduct@uvic.ca](mailto:onlineconduct@uvic.ca).
+
+### Accessibility
+
+If you have a disability or health consideration that may require supports, please feel free to approach me and/or the [Centre for Accessible Learning (CAL)](https://www.uvic.ca/services/cal/) as soon as possible. CAL staff are available by appointment to assess specific needs, provide referrals, and arrange appropriate supports. I will never ask you to disclose a diagnosis to me, and I know that access needs are social, cultural, and structural issues that aren't always addressed, or adequately addressed, by institutions such as the academy. 
+
+Auto-generated transcription and captioning may be enabled in this course. Please be aware that automated transcription and captioning is at best 70-90% accurate and by nature will include error. This depends on the subject matter, speaker, audio quality, and the like. Words prone to error include specialized terminology and proper names. I ask that you refer to the audio feed for clarification of any errors. If you find transcription or captioning that is offensive, please contact me. If you require captions as part of academic supports, please contact me and/or CAL.
+
+### Diversity, Equity, and Inclusion 
+
+I aim to create an inclusive learning environment that attends to difference and honours each of you, including your experiences as well as the intersections of race, gender, disability, sexuality, religion, power, and class. I want to be a resource for you, and I am also still learning. If something is said in class (by anyone, including me) that makes you feel uncomfortable, then don't hesitate to talk with me. If you have a name and/or set of pronouns that differ from those that appear in your university records, then let me know and I'll correct the documents provided to me. If your performance in the class is being impeded by your experiences outside of class, then just keep me posted and we'll make adjustments. I also welcome any suggestions to improve the quality of the seminar and/or its culture and materials, and I will make available mechanisms for anonymous feedback since you may prefer them. If you'd rather speak with someone outside the seminar, then Stephen Ross (graduate adviser in the Department of English) is an excellent resource.  
+
+The following student groups may be relevant to your life as a student here at UVic: 
+* [The Native Students Union](https://www.uvicnsu.ca/home) "is a community group for Indigenous students at UVic. Our space in the SUB is open to self-identifying Indigenous students who want to work, study, lounge, have lunch, or connect with other students. We're also located in the First Peoples House. Our weekly meetings are an opportunity for students to connect, plan events, share resources, or work on any student-led initiatives on student wellness, culture, Indigenous resurgence, and decolonization." 
+* [The Students of Colour Collective](https://soccollective.com/) "is a group of self-identified Black, Indigenous and/or Persons of colour operating as an advocacy group out of the University of Victoria, located on Lekwungen Homelands. We are committed to cultural awareness, mental health, anti-racism, and social justice. SOCC welcomes and encourages all students who self identify as Black, Indigenous and/or Persons of colour at UVic to become active members."
+* [The Society for Students with a Disability (SSD)](https://uvicssd.ca/) "is a student advocacy group that promotes the full participation and inclusion of students identified with disabilities at the University of Victoria. The SSD provides a welcoming, safe, and supportive environment for all students identified with disabilities. The SSD advocates for individual accommodation and systemic changes to the University that will make post-secondary education more accessible and socially just."
+* [The Gender Empowerment Centre (GEM)](https://genderempowermentcentre.ca/) "is a collectively run, drop-in space on campus that provides resources through an intersectional feminist framework. GEM offers free access to a large variety of safer sex supplies, menstrual supplies (including FREE menstrual cups) pregnancy tests and emergency contraceptives. They provide health resources, peer support, as well as a lounge space to hang out, study, and meet others."
+* [UVic Pride](https://www.prideuvic.com/) "is an organization for all people who are queer, queer-positive, gender-variant and/or intersex. We strive to meet the needs of people who self-identify as queer (including but not limited to people who identify as Two Spirit, bisexual, lesbian, gay, asexual, demisexual, aromantic, and pansexual, as well as people who do not identify with these labels); trans people; those who are questioning their sexuality or gender; those who are struggling with concerns related to intersexuality; and supportive partners, friends, family members, and allies."
+
+*Language for this policy was drawn from the Harriet W. Sheridan Center for Teaching and Learning at Brown University, and from the work of Monica Linden, in particular.*
+
+### Basic Needs 
+
+I want you to thrive in this course and everywhere else. Please let me know as early as possible if you have any concerns or if you require any supports to succeed. I’ll do my best to help. If, for instance, you need to cover gaps in care, then please don't hesitate to bring your children to seminar meetings. Babies who are nursing are always welcome, as I do not want you to choose between feeding your child and continuing your education. 
+
+UVic takes student mental health very seriously, with a [website](https://www.uvic.ca/mentalhealth/) full of resources. They offer services such as assistance and referral to address students' personal, social, career, and study skills concerns. Services for students also include crisis and emergency mental health consultation and confidential assessment, counselling services (individual and small group), and referrals. Many of these programs are connected with Health Services, which you may contact by phone. 
+
+The [Student Services website](https://www.uvic.ca/studentaffairs/departments/student-services/index.php) lists several policies that you might want to know about and may make your life at UVic safer and easier. Only some of them are directly related to this seminar, but they're still important.
+
+*Language for this policy was drawn from the work of Richard Pickard at UVic.*
