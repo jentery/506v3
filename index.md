@@ -1,4 +1,4 @@
-Games and Interactive Fiction    
+**Games and Interactive Fiction**       
 English 506 | CSPT 500/600    
 Fall 2022 at the University of Victoria  
 lək̓ʷəŋən and W̱SÁNEĆ Territories    
@@ -17,6 +17,7 @@ Contents:
 * [What's a Player Story?](#whats-a-player-story)
 * [About Me](#about-me)
 * [Required Materials](#required-materials)
+* [Pick a Game or Interactive Fiction](#pick-a-game-or-interactive-fiction)
 * [Aims, Workload, and Prompts](#aims-workload-and-prompts) 
 * [Schedule](#schedule)
 * [Policies](#policies) 
@@ -69,9 +70,9 @@ To recap, then, you're not required to purchase anything for this seminar, yet y
 
 Beyond that, I invite you to visit the ["Related Materials"](#related-materials) section of this outline for lists of game studies books, journals, podcasts, and resources I suggest if you find yourself to be keen on the field. 
 
-## Pick a Game or Interactive Fiction
+# Pick a Game or Interactive Fiction
 
-A player story is nothing without its primary source, so I created a [list of games and interactive fictions](games.html) to help you pick one. I'm open to suggestions, too. They just need to be works I've played and studied a bit. Thanks for meeting me halfway. 
+A player story needs a primary source, so I created a [list of roughly 150 games and interactive fictions](games.html) to help you choose one. In fact, choosing one is an assignment for Week 6 (October 13th). I'm open to suggestions if nothing on the list interests you or you came to the seminar with a particular game or interactive fiction in mind. The game or fiction you select just needs to be something I have played and studied a bit (or I could play and study this term). Thanks for meeting me halfway. Perhaps most important, please don't hesitate to ask if you want me to narrow the list based on your interests, a type of game or play, your technology needs, or . . . I realize the list is pretty long, if not a little extra. 
 
 I'll encourage to you start playing early in the term. This way you can refine your research, gather plenty of documentation, replay the game or fiction where necessary, and share your work in progress. How you document your play, how you define and compose a player story, and what you ultimately say or argue will be up to you; however, I'll nudge you to try a few techniques before you select one for your project. Importantly, your player stories don't need to be high-tech. You can use audio or video, if you wish, or just text and images. I'll cover more of the player story particulars during the three workshops I've planned for the term (see Weeks 6, 12, and 13). For now, let's talk about the aims, workload, and prompts for the seminar. 
 
@@ -114,9 +115,9 @@ Most weeks in the schedule include descriptions of what to do before seminar, wh
 
 You'll notice that, many weeks, I point to further reading. I in no way expect you to read it. We can't read all the things, and I know you've a lot to juggle in a single term. I include further reading for the sake of scholarly integrity and in case you wish to follow a particular trajectory or topic across game studies. I will likely mention aspects of the further reading during seminar discussions, too. Feel free to tell me when I fail to effectively communicate those aspects. I'll clarify. 
 
-The same goes for moments in the schedule when I write, "Check out (games mentioned in the assigned reading)." If you cannot or do not wish to learn more about them or play them, then no worries. I mention them only for the sake of keeping track of our primary sources as we go.  
+The same goes for moments in the schedule when I write, "Check out (games mentioned in the assigned reading)." If you cannot or do not wish to learn more about them or play them, then no worries. I mention them only for the sake of keeping track of our primary sources as we go, and I didn't assign them all for a reason.  
 
-Importantly, the material in this seminar frequently engages or reflects complex and difficult issues such as racism, sexism, colonialism, cisheteropatriarchy, white supremacy, ableism, homophobia, transphobia, hegemony, death, violence, toxic masculinity, fatphobia, xenophobia, mental health, anxiety, and lived experiences of harassment and oppression. We might also find some of the material, including many games and works of interactive fiction, to be problematic at times. I will conclude each seminar meeting with a brief overview of where content warnings might apply to the following week's assigned materials, and during seminar I will never call individually on you to share your experiences of such issues or to somehow represent other people with similar experiences. If you find that I am approaching any of these issues inadequately or ignorantly, then please don't hesitate to tell me or correct me, and I will learn from my mistakes. If you'd rather not speak with me directly about or during such moments, then I recommend sharing your concerns or corrections with Stephen Ross, who is currently the graduate adviser in English. 
+Importantly, material in this seminar frequently engages or reflects issues such as racism, sexism, colonialism, cisheteropatriarchy, white supremacy, ableism, homophobia, transphobia, hegemony, death, violence, toxic masculinity, fatphobia, xenophobia, mental health, anxiety, and lived experiences of harassment and oppression. We might also find many games and works of interactive fiction to be problematic at times. I will thus conclude each seminar meeting with a brief overview of where content warnings might apply to the following week's assigned materials, and during seminar I will never call individually on you to share your experiences of such issues or to somehow represent other people with similar experiences. If you find that I am approaching any of these issues inadequately or ignorantly, then please don't hesitate to tell me or correct me, and I will learn from my mistakes. If you'd rather not speak with me directly about or during such moments, then I recommend sharing your concerns or corrections with Stephen Ross, who is currently the graduate adviser in English. 
 
 Finally, a thing to know about me before we proceed: *I'm a planner, I always over-plan, and I’ll opt for care in every instance.* If the workload becomes too much, or the seminar starts to struggle with scope creep, then we’ll cut material. I’ve planned for the maximum in advance, under the assumption that we won't get to everything. And that's totally fine. 
 
