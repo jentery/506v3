@@ -204,3 +204,30 @@ Further reading (not required or expected; just more context if you'd like it):
 * Matthew Thomas Payne and Nina B. Huntemann's "A Game Genie for Game Studies" (13 pages; from *How to Play Video Games* 2019 edited by Payne and Huntemann; coming soon), 
 * Amanda Phillips's "Game Studies for Great Justice" (11 pages; from *The Routledge Companion to Media Studies and Digital Humanities* 2018, edited by me), and 
 * John Sharp's "Independent Games" (10 pages; from *Debugging Game History* 2016, edited by Henry Lowood and Raiford Guins)
+
+## Week 4 (September 29th): Broadcasting Play
+
+*Before seminar*, please: 
+* Read Kishonna L. Gray's "#Me2, #Me4, Black Women, and Misogynoir: Transmediated Gaming Practices as Intersectional Counterpublics" (28 pages; from *Intersectional Tech: Black Users in Digital Gaming* 2020; coming soon),  
+* Read T.L. Taylor's "Twitch and the Work of Play" (21 pages; in *American Journal of Play* 11.1 2018; an excerpt of *Watch Me Play: Twitch and the Rise of Game Live Streaming* 2018),
+* Respond to Prompt 2, 
+* Submit your early work in progress, and 
+* Optional: check out *Assassin's Creed IV: Freedom Cry* and *Gears of War* (both mentioned in *Intersectional Tech*).  
+
+How are player stories made and managed in unequal conditions? How do they document and comment on exclusionary politics? How and for whom are they transformative?
+
+*During our fourth meeting*, we'll discuss these two texts (65 minutes) and then outline reasons why people (may want to) produce player stories that document, narrate, broadcast, analyze, contextualize, and/or reflect upon their play experiences (60 minutes). We'll conclude by compiling a list of streams, LPs, video essays, "real-time readings," and the like that may be relevant to your projects this term (20 minutes). I'll also take a second to cover Prompt 3, which is on the horizon (5 minutes). 
+
+*Prompt 2*: Use 250-300 words (excluding references) to describe a type of game or interactive fiction (e.g., a particular genre or style) you might research for this seminar. Please explain why it interests you and how it corresponds with at least one text (required or recommended) we've read thus far. Your audience is other people in this seminar, including me, and you're welcome to write informally. Please include your primary and secondary sources in a references section after the description. I advise spending two hours or less writing your response. Again, no worries. None of this is written in stone, and you might change your mind as the term unfolds. 
+
+**Please submit your early work in progress** (10% of your final mark). This submission should include: 
+* Your response to Prompt 1 (from Week 3), 
+* Your response to Prompt 2 (from this week), and 
+* Any notes or documentation you wish to include. 
+
+Further reading (not required or expected; just more context if you'd like it): 
+* Moya Bailey and Reina Gossett's "Analog Girls in Digital Worlds: Dismantling Binaries for Digital Humanists Who Research Social Media" (11 pages; from *The Routledge Companion to Media Studies and Digital Humanities* 2018, edited by me), 
+* Shira Chess and Adrienne Shaw's "A Conspiracy of Fishes, or, How We Learned to Stop Worrying about #GamerGate and Embrace Hegemonic Masculinity" (13 pages; in *Journal of Broadcasting and Electronic Media* 59.1 2015), 
+* Audre Lorde's "The Uses of Anger" (4 pages; in *Women's Studies Quarterly* 9.3 1981), 
+* Christian Sandvig's "The Internet as the Anti-Television: Distribution Infrastructure as Culture and Power" (17 pages; from *Signal Traffic: Critical Studies of Media Infrastructures* 2015, edited by Lisa Parks and Nicole Starosielski), and 
+* T.L. Taylor's "Ethnography as Play" (25 pages; in *American Journal of Play* 14.1 2021)
