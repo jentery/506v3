@@ -256,3 +256,37 @@ Further reading (not required or expected; just more context if you'd like it):
 * Brenda Laurel's "The Nature of the Beast" (35 pages; from *Computers as Theatre* 1991),  
 * Adrienne Shaw's "Encoding and Decoding Affordances: Stuart Hall and Interactive Media Technologies" (11 pages; in *Media, Culture, and Society* 39.4 2017), and 
 * Ivan O. Taylor Jr.'s "Video Games, Fair Use, and The Internet: The Plight of the Let's Play" (25 pages; in *Illinois Journal of Law, Technology, and Policy* 2015)
+
+## Week 6 (October 13th): First Player Stories Workshop  
+
+*Before seminar*, please: 
+* Play Nina Freeman's *Mangia* (Twine version, 2014), 
+* Read "*Mangia* by Nina Freeman, Played by Lana Polansky" (44 pages; from *Videogames for Humans* 2015, edited by merritt k),
+* Read Austin Walker's "Me, on the Screen: Race in *Animal Crossing: New Leaf*" (12 pages; self-published in 2013 and republished in *The New Statesman* 2013), 
+* Start responding to Prompt 4, and 
+* Optional: check out *Animal Crossing*, *Street Fighter*, *Final Fantasy*, *Star Wars: Knights of the Old Republic*, and *Mass Effect* (all mentioned in "Me, on the Screen").  
+
+What's a player story? How might you compose one? Why? And for whom? 
+
+*During our sixth meeting*, we'll hold a workshop on composing player stories. We'll look at examples (including Polansky's engagement with *Mangia*; 20 minutes) and then dedicate about two hours to addressing issues such as:   
+* Describing the games and interactive fictions you're playing (e.g., their verbs, avatars, characters, dialogue, cameras, controls, gameplay loops, items, inventories, DKART [Terrell], ECOTAG [Hamilton], pacing, story beats, scenes, leveling, randomization, (extra)diegetic interfaces, art, audio, engines, minigames, and metagames), 
+* Describing how your games and fictions tell stories and involve players in that process, 
+* Getting permissions and attributing other people's work as part of your research, 
+* Making player stories with care for your audience's accessibility needs,
+* Navigating attention economics, including "like and subscribe" platforms, 
+* Strategic uses of media, software, and narrative in player stories, including the personal, educational, and critical elements of play, and 
+* Axiology, reflexivity, affect, and accountability in player stories. 
+
+We'll revisit the [related resources](#related-resources) in this outline (10 minutes), and I'll also circulate the prompt for your player story that's due by December 15th.  
+
+*Prompt 4*: It's time to pick a game or fiction for your player story! Use 300-500 words (excluding references) to identify and describe that game or fiction and then briefly explain why you selected it. Why is the game interesting or relevant today, and why might it warrant a player story? You are welcome to co-author your response, especially if you decide to produce a player story with someone else in the seminar (no more than two people per story, please). Bring the name of the game (or even the game itself) to today's meeting, where you'll have an opportunity to produce draft material for this prompt. Please include your primary and secondary sources in a references section. I advise spending two hours or less writing your response, which you might want to polish *after* today's workshop. Your audience is other people in this seminar, including me, but you may want to write a bit more academically for this one. (You'll submit the response on November 3rd.)
+
+Further reading (not required or expected; just more context if you'd like it): 
+* Andrea Braithwaite's "It's about Ethics in Journalism? Gamergaters and Geek Masculinity" (10 pages; in *Social Media + Society* October-December 2016),
+* Naomi Clark's "Storytelling" (35 pages; from *A Game Design Vocabulary*, with Anna Anthropy, 2014), 
+* Amanda C. Cote's "Strategies for Play: Finding Space and Exercising Active Audience Power" (20 pages; from *Gaming Sexism: Gender and Identity in the Era of Casual Video Games* 2020), 
+* Anna Gibbs's "After Affect" (19 pages; from *The Affect Theory Reader* 2010),
+* Brendan Keogh's "Across Worlds and Bodies" (32 pages; from *A Play of Bodies: How We Perceive Videogames* 2018), 
+* Patrick Klepek's "*Call of Duty* Devs Tell Us What It's Like to Make a Game in the Wake of a Mass Shooting" (8 pages; in *Waypoint: Games by Vice* 2022),
+* Anastasia Salter and Bridget Blodgett's "Actually, It's about Toxic Geek Masculinity ..." (16 pages; from *Toxic Geek Masculinity in Media Sexism, Trolling, and Identity Policing* 2017), and 
+* Kurt Dean Squire's "Well Played as a Research Method" (10 pages; from *Well Played Retrospective* 2021, edited by Drew Davidson et al.) 
