@@ -6,9 +6,10 @@ Thursday, 9:30am - 12:20pm
 Taught by Jentery Sayers (he / him)    
 Office hours: Thursday, 12:30 - 2:30pm    
 [jentery@uvic.ca](mailto:jentery@uvic.ca)   
-View this document in PDF (coming soon).
 
 **This course outline is incomplete.** It's licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
+
+View this document in PDF (coming soon).
 
 Contents: 
 
@@ -416,7 +417,6 @@ We'll revisit the [resources](#related-resources) I mention in this syllabus, an
 
 Further reading (not required or expected; just more context if you'd like it): 
 * Pippin Barr's [*The Nothings Suite*](https://pippinbarr.com/the-nothings-suite/) (self-published in 2020-22), 
-* [GameFAQs](https://gamefaqs.gamespot.com/), 
 * Lindsay Grace's [*Black Game Studies*](https://blackgames.professorgrace.com/) (209 pages; with Latoya Peterson, Aaron Trammell, Allen Turner, and Boris Willis; published by Carnegie Mellon University and ETC Press 2019), 
 * Dene Grigar and Stuart Moulthrop's [*Pathfinders: Documenting the Experience of Early Digital Literature*](https://scalar.usc.edu/works/pathfinders/index) (published by Nouspace Publications 2015-18), 
 * Maize Longboat's ["*Terra Nova*: Enacting Videogame Development through Indigenous-Led Creation"](https://spectrum.library.concordia.ca/id/eprint/985763/) (thesis, supervised by Mia Consalvo and Jason Edward Lewis, at Concordia University 2019), 
