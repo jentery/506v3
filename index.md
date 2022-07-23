@@ -231,3 +231,28 @@ Further reading (not required or expected; just more context if you'd like it):
 * Audre Lorde's "The Uses of Anger" (4 pages; in *Women's Studies Quarterly* 9.3 1981), 
 * Christian Sandvig's "The Internet as the Anti-Television: Distribution Infrastructure as Culture and Power" (17 pages; from *Signal Traffic: Critical Studies of Media Infrastructures* 2015, edited by Lisa Parks and Nicole Starosielski), and 
 * T.L. Taylor's "Ethnography as Play" (25 pages; in *American Journal of Play* 14.1 2021)
+
+## Week 5 (October 6th): Performing + Watching Play
+
+*Before seminar*, please:  
+* Read Josef Nguyen's ["Performing as Video Game Players in Let's Plays"](https://journal.transformativeworks.org/index.php/twc/article/view/698/615) (22 pages; in *Transformative Works and Cultures* 22 2016),  
+* Read Melanie Oberg's "The Video Video Game" (18 pages; in *Popular Culture Studies Journal* 9.2 2021), 
+* Draft a response to Prompt 3, and 
+* Optional: check out *Amnesia: The Dark Descent*, *Amnesia: Rebirth*, *The Sims*, *Minecraft*, *Kirby's Dream Course*, and *Papers, Please* (all mentioned in the assigned reading).
+
+What's the relation between performance, affect, and power in a player story? How are player stories variously interpreted or decoded by audiences? 
+
+*During our fifth meeting*, we'll discuss these two texts (60 minutes) and then start preparing for next week's workshop (30 minutes). A visiting speaker will join us (45 minutes), and you'll also have an opportunity to share some of your thoughts on Prompts 1 and 2 (10 minutes). I'll comment on your early work in progress prior to this meeting, and we'll review Prompt 4 before we go (5 minutes). 
+
+Visiting speaker: TBD
+
+*Prompt 3*: Play one of the [recommended games or fictions](games.html) for at least two hours (including replay if need be), preferably with someone else in the seminar. As you do, try experimenting across different media with three distinct ways to document your performance or experience of play. Then use a total of 300-500 words (excluding references) to describe your three approaches and, in so doing, provide an example or two of each in action. (You can attach, insert, or embed audio, images, video, or text. Any text included in your examples does not count against your allotted 250-300 words.) Since you're collaborating with someone on this one, you are welcome to co-author your response. Please include your primary and secondary sources in a references section after the description and documentation. Aside from time spent playing the game or fiction, I advise spending two hours or less writing your response. Your audience is other people in this seminar, including me, and you are welcome to write informally. (You'll submit this response on November 3rd, but I suggest writing at least a draft for today's meeting.)
+
+Further reading (not required or expected; just more context if you'd like it): 
+* Mia Consalvo's "Kaceytron and Transgressive Play on Twitch.tv" (16 pages; from *Transgression in Games and Play* 2019, edited by Kristine Jørgensen and Faltin Karlsen), 
+* Dan Hagen's "Fair Use, Fair Play: Video Game Performances and 'Let's Plays' as Transformative Use" (30 pages; in *Washington Journal of Law, Technology, and Arts* 13.3 2018), 
+* Stuart Hall's "Encoding/Decoding" (11 pages; 1973, republished in *The Cultural Studies Reader* 1999, edited by Simon During), 
+* Hall's "Notes on Deconstructing 'The Popular'" (8 pages, 1981, republished in *Cultural Resistance Reader* 2002, edited by Stephen Duncombe), 
+* Brenda Laurel's "The Nature of the Beast" (35 pages; from *Computers as Theatre* 1991),  
+* Adrienne Shaw's "Encoding and Decoding Affordances: Stuart Hall and Interactive Media Technologies" (11 pages; in *Media, Culture, and Society* 39.4 2017), and 
+* Ivan O. Taylor Jr.'s "Video Games, Fair Use, and The Internet: The Plight of the Let's Play" (25 pages; in *Illinois Journal of Law, Technology, and Policy* 2015)
