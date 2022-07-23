@@ -105,7 +105,7 @@ Your player story, revisions statement, and responses to Prompts 1-8 comprise yo
 
 I will use the Faculty of Graduate Studies' [official grading system](https://www.uvic.ca/calendar/future/grad/index.php#/policy/B13jeiMdE?bc=true&bcCurrent=07%20-%20Grading&bcGroup=Faculty%20Academic%20Regulations&bcItemType=policies) to assess your work. Please also note that I have a "no questions asked," one-week late policy for all submissions, excluding the final project. See the seminar [policies](#policies) for more on late submissions and related penalties. 
 
-I suggest dedicating *5 to 9 hours of study each week to this seminar, plus 3 hours for the weekly seminar meetings*. Of course, 5 to 9 hours per week is only a guideline. You may find that you need more or less time depending on the activity, your preferences, and your own familiarity with the material and work involved. 
+I suggest dedicating *5 to 8 hours of study each week to this seminar, plus 3 hours for the weekly seminar meetings*. Of course, 5 to 8 hours per week is only a guideline. You may find that you need more or less time depending on the activity, your preferences, and your own familiarity with the material and work involved. 
 
 # Schedule  
 
@@ -117,7 +117,7 @@ Most weeks in the schedule include descriptions of what to do before seminar, wh
 
 You'll notice that, many weeks, I point to further reading. I in no way expect you to read it. We can't read all the things, and I know you've a lot to juggle in a single term. I include further reading for the sake of scholarly integrity and in case you wish to follow a particular trajectory or topic across game studies. I will likely mention aspects of the further reading during seminar discussions, too. Feel free to tell me when I fail to effectively communicate those aspects. I'll clarify. 
 
-The same goes for moments in the schedule when I write, "Check out (games mentioned in the assigned reading)." If you cannot or do not wish to check them out, then no worries. I mention them only for the sake of tracking our primary sources as we go. For that reason, I might occasionally show clips of them during seminar.  
+The same goes for moments in the schedule when I write, "Optional: check out (games mentioned in the assigned reading)." If you cannot or do not wish to check them out, then no worries. I mention them only for the sake of tracking our primary sources as we go. For that reason, I might occasionally show clips of those games and fictions during seminar.  
 
 Importantly, material in this seminar frequently engages or reflects issues such as racism, sexism, colonialism, cisheteropatriarchy, white supremacy, ableism, homophobia, transphobia, hegemony, death, violence, toxic masculinity, fatphobia, xenophobia, mental health, anxiety, and lived experiences of harassment and oppression. We might also find many games and interactive fictions to be at times problematic. I will thus conclude each seminar meeting with a brief overview of where content warnings might apply to the following week's assigned materials, and during seminar I will never call individually on you to share your experiences of such issues or to somehow represent other people with similar experiences. If you find that I am approaching any of these issues inadequately or ignorantly, then please don't hesitate to tell me or correct me, and I will learn from my mistakes. If you'd rather not speak with me directly about or during such moments, then I recommend sharing your concerns or corrections with Stephen Ross, who is currently the graduate adviser in English. 
 
@@ -157,7 +157,7 @@ Further reading (not required or expected; just more context if you'd like it):
 * Read Tara Fickle's "West of the Magic Circle: The Orientalist Origins of Game Studies" (20 pages; from *The Race Card: From Gaming Technologies to Model Minorities* 2019), 
 * Read Kisha McPherson's "Are We Free to Go?: Anti-Black Racism and Its Impact on Black Play" (27 pages; in *American Journal of Play* 13.2/3 2021),  
 * Read Christine O'Bonsawin's "From Black Power to Indigenous Activism: The Olympic Movement and the Marginalization of Oppressed Peoples (1968-2012)" (20 pages; in *Journal of Sport History* 42.2 2015), and 
-* Optional: check out *Colossal Cave Adventure*, *Myst*, *DOOM*, *World of Warcraft*, *FarmVille*, and/or *Pokémon GO* (all mentioned in the above texts).  
+* Optional: check out *Colossal Cave Adventure*, *Myst*, *DOOM*, *World of Warcraft*, *FarmVille*, and/or *Pokémon GO* (all mentioned in the assigned reading).  
 
 How do racism, colonialism, and Orientalism shape, sustain, and preclude play? How do they not only define but also police what's fair? Does play require a sport or game? 
 
@@ -175,3 +175,32 @@ Further reading (not required or expected; just more context if you'd like it):
 * T.L. Taylor's "The Assemblage of Play" (9 pages; in *Games and Culture* 4.4 2009), 
 * Aaron Trammell's "Decolonizing Play" (9 pages; in *Critical Studies in Media Communication* 39.3 2022), and 
 * Emma Witkowski's "Cooperative Play" (8 pages; from *Debugging Game History* 2016, edited by Henry Lowood and Raiford Guins). 
+
+## Week 3 (September 22nd): Games 
+
+*Before seminar*, please: 
+* Read "The Futures of Game Studies" (24 pages; in *The Velvet Light Trap* 81 2018), a dossier by Paul Booth, Shira Chess, Kishonna L. Gray, Carly A. Kocurek, Matthew Thomas Payne, TreaAndrea M. Russworm, and Adrienne Shaw;
+* Read Alenda Y. Chang's "Digital Games" (16 pages; from *The Cambridge Companion to Literature and the Anthropocene* 2021, edited by John Parham);
+* Read Elizabeth A. LaPensée, Outi Laiti, and Maize Longboat's "Towards Sovereign Games" (16 pages; in *Games and Culture* 2021); 
+* Read Bo Ruberg's "No Fun: The Queer Potential of Video Games that Annoy, Anger, Disappoint, Sadden, and Hurt" (17 pages; in *QED: A Journal in GLBTQ Worldmaking* 2.2 2015; revised for *Video Games Have Always Been Queer* 2019);  
+* Draft a response to Prompt 1; and,
+* Optional: check out *Kentucky Route Zero*, *Resident Evil*, *EverQuest*, *Phone Story*, *Submerged*, *Prey*, *Queers in Love at the End of the World*, *Mario Kart*, *Depression Quest*, *Mainichi*, *Super Hexagon*, *Terra Nova*, *Never Alone / Kisima Ingitchuna*, *Thunderbird Strike*, and/or *When Rivers Were Trails* (all mentioned in the assigned reading).
+
+What do we learn from cultural approaches to games and world-building? From playing beyond the fun? 
+
+*During our third meeting*, we'll give last week's careful engagement another go, this time with four new texts (130 minutes). Then we'll return to games terminology to determine what requires clarification (5 minutes). I'll conclude by introducing you to Taylor's *Watch Me Play* and Gray's *Intersectional Tech* (10 minutes), which we'll discuss next week, and by reviewing Prompt 2, also for next week (5 minutes).
+
+*Prompt 1*: Use 250-300 words (excluding references) to describe a type of play, or a context for play, you might research for this seminar. Please explain why it interests you and how it corresponds with at least one text (required or recommended) we've read thus far. Your audience is other people in this seminar, including me, and you're welcome to write informally. Please include your primary and secondary sources in a references section after your description. I advise spending two hours or less writing your response. No worries. None of this is written in stone, and you might change your mind as the term unfolds. (You'll submit this response on September 29th, but I suggest writing at least a rough draft for today's meeting.)
+
+Further reading (not required or expected; just more context if you'd like it): 
+* Jay David Bolter and Richard Grusin's "Computer Games" (15 pages; from *Remediation: Understanding New Media* 1998), 
+* Stephanie Boluk and Patrick LeMieux's "Breaking the Metagame: Feminist Spoilsports and Magic Circle Jerks" (16 pages; from *Metagaming: Playing, Competing, Spectating, Cheating, Trading, Making, and Breaking Videogames* 2017),
+* Edmond Y. Chang's "Love Is in the Air: Queer (Im)Possibility and Straightwashing in *FrontierVille* and *World of Warcraft*" (25 pages; in *QED: A Journal in GLBTQ Worldmaking* 2.2 2015), 
+* Mia Consalvo's "Confronting Toxic Gamer Culture: A Challenge for Feminist Game Studies Scholars" (6 pages; in *Ada: Journal of Gender, New Media and Technology* 1 2012), 
+* Tara Fickle and Christopher B. Patterson's "Diversity Is Not a Win-Condition" (10 pages; in *Critical Studies in Media Communication* 2022), 
+* C.L.R. James's "'What Is Art?'" (16 pages; from *Beyond a Boundary* 1963),
+* Meghna Jayanth's "Game Design in the Imperial Mode" (33 pages; keynote for Canadian Game Studies Conference May 2022), 
+* Soraya Murray's "Video Games and Playable Media" (6 pages; in *Feminist Media Histories* 4.2 2018), 
+* Matthew Thomas Payne and Nina B. Huntemann's "A Game Genie for Game Studies" (13 pages; from *How to Play Video Games* 2019 edited by Payne and Huntemann; coming soon), 
+* Amanda Phillips's "Game Studies for Great Justice" (11 pages; from *The Routledge Companion to Media Studies and Digital Humanities* 2018, edited by me), and 
+* John Sharp's "Independent Games" (10 pages; from *Debugging Game History* 2016, edited by Henry Lowood and Raiford Guins)
