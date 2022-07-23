@@ -348,3 +348,36 @@ Further reading (not required or expected; just more context if you'd like it):
 * Steven Shaviro's ["Introduction to Accelerationism"](https://manifold.umn.edu/read/no-speed-limit/section/1b09b41b-002e-4b2d-ade0-b7ee76e5e9cc) (from *No Speed Limit: Three Essays on Accelerationism* 2015), 
 * Natasha Dow Schüll's "Engineering Experience: The Productive Economy of Player-Centric Design" (26 pages; from *Addiction by Design: Machine Gambling in Las Vegas* 2012), and 
 * Jennifer Whitson and Martin French's "Productive Play: The Shift from Responsible Consumption to Responsible Production" (20 pages; in *Journal of Consumer Culture* 21.1 2021)
+
+## Week 9 (November 3rd): Global Games and Culturalization 
+
+*Before seminar*, please: 
+* Read Kate Edwards's "Culturalization" (6 pages; from *Debugging Game History* 2016), 
+* Read Christopher B. Patterson's "Global Game: Race \ Play / Intimacy" (32 pages; from *Open World Empire: Race, Erotics, and The Global Rise of Video Games* 2020), 
+* Submit your mid-term work in progress, and 
+* Optional: check out *Age of Empires II*, *Fallout 3*, *Forza Motorsports*, *Street Fighter II*, *Tekken*, *Soulcalibur II*, *League of Legends*, *Prince of Persia*, and/or *Overwatch* (all mentioned in the assigned reading).
+
+How is race experienced as play when games are treated as global commodities for global audiences? How do player stories perform or situate themselves in the buzz of global game development?  
+
+*During our ninth meeting*, we'll discuss these two texts (60 minutes) and continue chatting about your player story methodologies (15 minutes). A visiting speaker will join us (45 minutes), and you'll also have an opportunity to share some of your experiences playing games and interactive fiction thus far this term (10 minutes). We'll talk about Prompt 6 and our plan for Week 11, too, as well as the revisions statement that's due in December (20 minutes).  
+
+Visiting speaker: TBD
+
+**Please submit your mid-term work in progress** (20% of your final mark). This submission should include: 
+* Your response to Prompt 3 (from Week 5), 
+* Your response to Prompt 4 (from Week 6), 
+* Your response to Prompt 5 (from Week 8), and 
+* Any notes or documentation you wish to include. 
+
+Further reading (not required or expected; just more context if you'd like it): 
+* Jodi Byrd's ["What Remains: Colonial Racial Capitalism, Videogames, and an Empire in Play"](https://c4ejournal.net/2021/03/05/jodi-byrd-what-remains-colonial-racial-capitalism-videogames-and-an-empire-in-play-2021-c4ej-22/) (45 minutes; from *Ethics in Context* 2021) ([audio only](https://soundcloud.com/centre-for-ethics/jodi-byrd-what-remains-colonial-racial-capitalism-videogames-and-an-empire-in-play)), 
+* Dean Chan's "Playing with Race: The Ethics of Racialized Representations in E-Games" (7 pages; in *International Review of Information Ethics* 4 2005), 
+* Naomi Clark and merritt k's "Queering Human-Game Relations" (16 pages; in *First Person Scholar* 2015), 
+* Koichi Iwabuchi's "The 1990s--Japan's Return to Asia in the Age of Globalization" (22 pages; from *Recentering Globalization: Popular Culture and Japanese Transnationalism* 2002), 
+* Lisa Nakamura's "Head-Hunting on the Internet: Identity Tourism, Avatars, and Racial Passing in Textual and Graphic Chat Spaces" (30 pages; from *Cybertypes: Race, Ethnicity, and Identity on the Internet* 2002), 
+* Soraya Murray's "The World Is a Ghetto: Imagining the Global Metropolis in Playable Representation" (coming soon; 45 pages; from *On Video Games: The Visual Politics of Race, Gender and Space* 2018), and 
+* Susan Sontag's "Notes on Camp" (13 pages; in the *Partisan Review* 1964)
+
+## Week 10 (November 10th): Not Playing 
+
+We don't meet today. It's Reading Break. 
