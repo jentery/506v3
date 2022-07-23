@@ -6,7 +6,7 @@ Thursday, 9:30am - 12:20pm
 Taught by Jentery Sayers (he / him)    
 Office hours: Thursday, 12:30 - 2:30pm    
 [jentery@uvic.ca](mailto:jentery@uvic.ca)   
-View this document in PDF (coming soon). 
+View this document in PDF (coming soon).
 
 **This course outline is incomplete.** It's licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
 
@@ -157,7 +157,7 @@ Further reading (not required or expected; just more context if you'd like it):
 * Read Tara Fickle's "West of the Magic Circle: The Orientalist Origins of Game Studies" (20 pages; from *The Race Card: From Gaming Technologies to Model Minorities* 2019), 
 * Read Kisha McPherson's "Are We Free to Go?: Anti-Black Racism and Its Impact on Black Play" (27 pages; in *American Journal of Play* 13.2/3 2021),  
 * Read Christine O'Bonsawin's "From Black Power to Indigenous Activism: The Olympic Movement and the Marginalization of Oppressed Peoples (1968-2012)" (20 pages; in *Journal of Sport History* 42.2 2015), and 
-* Optional: check out *Colossal Cave Adventure*, *Myst*, *DOOM*, *World of Warcraft*, *FarmVille*, and/or *Pokémon GO* (all mentioned in the assigned reading).  
+* Optional: check out *Colossal Cave Adventure*, *Myst*, *DOOM*, *FarmVille*, and/or *Pokémon GO* (all mentioned in the assigned reading).  
 
 How do racism, colonialism, and Orientalism shape, sustain, and preclude play? How do they not only define but also police what's fair? Does play require a sport or game? 
 
@@ -212,7 +212,7 @@ Further reading (not required or expected; just more context if you'd like it):
 * Read T.L. Taylor's "Twitch and the Work of Play" (21 pages; in *American Journal of Play* 11.1 2018; an excerpt of *Watch Me Play: Twitch and the Rise of Game Live Streaming* 2018),
 * Respond to Prompt 2, 
 * Submit your early work in progress, and 
-* Optional: check out *Assassin's Creed IV: Freedom Cry* and *Gears of War* (both mentioned in *Intersectional Tech*).  
+* Optional: check out *Assassin's Creed IV: Freedom Cry* and/or *Gears of War* (both mentioned in *Intersectional Tech*).  
 
 How are player stories made and managed in unequal conditions? How do they document and comment on exclusionary politics? How and for whom are they transformative?
 
@@ -238,7 +238,7 @@ Further reading (not required or expected; just more context if you'd like it):
 * Read Josef Nguyen's ["Performing as Video Game Players in Let's Plays"](https://journal.transformativeworks.org/index.php/twc/article/view/698/615) (22 pages; in *Transformative Works and Cultures* 22 2016),  
 * Read Melanie Oberg's "The Video Video Game" (18 pages; in *Popular Culture Studies Journal* 9.2 2021), 
 * Draft a response to Prompt 3, and 
-* Optional: check out *Amnesia: The Dark Descent*, *Amnesia: Rebirth*, *The Sims*, *Minecraft*, *Kirby's Dream Course*, and *Papers, Please* (all mentioned in the assigned reading).
+* Optional: check out *Amnesia: The Dark Descent*, *Amnesia: Rebirth*, *The Sims*, *Minecraft*, *Kirby's Dream Course*, and/or *Papers, Please* (all mentioned in the assigned reading).
 
 What's the relation between performance, affect, and power in a player story? How are player stories variously interpreted or decoded by audiences? 
 
@@ -264,7 +264,7 @@ Further reading (not required or expected; just more context if you'd like it):
 * Read "*Mangia* by Nina Freeman, Played by Lana Polansky" (44 pages; from *Videogames for Humans* 2015, edited by merritt k),
 * Read Austin Walker's "Me, on the Screen: Race in *Animal Crossing: New Leaf*" (12 pages; self-published in 2013 and republished in *The New Statesman* 2013), 
 * Start responding to Prompt 4, and 
-* Optional: check out *Animal Crossing*, *Street Fighter*, *Final Fantasy*, *Star Wars: Knights of the Old Republic*, and *Mass Effect* (all mentioned in "Me, on the Screen").  
+* Optional: check out *Animal Crossing*, *Street Fighter*, *Final Fantasy*, *Star Wars: Knights of the Old Republic*, and/or *Mass Effect* (all mentioned in "Me, on the Screen").  
 
 What's a player story? How might you compose one? Why? And for whom? 
 
@@ -280,7 +280,7 @@ What's a player story? How might you compose one? Why? And for whom?
 
 We'll revisit the [related resources](#related-resources) in this outline (10 minutes), and I'll also circulate the prompt for your player story that's due by December 15th.  
 
-*Prompt 4*: It's time to pick a game or fiction for your player story! Use 300-500 words (excluding references) to identify and describe that game or fiction and then briefly explain why you selected it. Why is the game interesting or relevant today, and why might it warrant a player story? You are welcome to co-author your response, especially if you decide to produce a player story with someone else in the seminar (no more than two people per story, please). Bring the name of the game (or even the game itself) to today's meeting, where you'll have an opportunity to produce draft material for this prompt. Please include your primary and secondary sources in a references section. I advise spending two hours or less writing your response, which you might want to polish *after* today's workshop. Your audience is other people in this seminar, including me, but you may want to write a bit more academically for this one. (You'll submit the response on November 3rd.)
+*Prompt 4*: It's time to pick a game or fiction for your player story! Use 300-500 words (excluding references) to identify and describe that game or fiction and then briefly explain why you selected it. Why is the game interesting or relevant today, and why might it warrant a player story? You are welcome to co-author your response, especially if you decide to produce a player story with someone else in the seminar (no more than two people per story, please). Bring the name of the game (or even the game itself) to today's meeting, where you'll have an opportunity to produce draft material for this prompt. Please include your primary and secondary sources in a references section. I advise spending three hours or less writing your response, which you might want to polish *after* today's workshop. Your audience is other people in this seminar, including me, but you may want to write a bit more academically for this one, as you may want to use some of the material for your player story. (You'll submit the response on November 3rd.)
 
 Further reading (not required or expected; just more context if you'd like it): 
 * Andrea Braithwaite's "It's about Ethics in Journalism? Gamergaters and Geek Masculinity" (10 pages; in *Social Media + Society* October-December 2016),
@@ -298,9 +298,9 @@ Further reading (not required or expected; just more context if you'd like it):
 * Read Shira Chess's "Playing with Identity" (20 pages; from *Reader Player Two: Women Gamers and Designed Identity* 2017),  
 * Read Amanda Phillips's "Gender, Power, and the Gamic Gaze" (27 pages; from *Gamer Trouble: Feminist Confrontations in Digital Culture* 2020),
 * Start working on your player story if you can: play your game or fiction, research it, document it . . ., and 
-* Optional: Check out *Portal*, *Tomb Raider*, *Bayonetta*, *Kim Kardashian: Hollywood*, *Diner Dash*, *Candy Crush Saga*, and *Angry Birds* (all mentioned in the assigned reading). 
+* Optional: Check out *Portal*, *Tomb Raider*, *Bayonetta*, *Kim Kardashian: Hollywood*, *Diner Dash*, *Candy Crush Saga*, and/or *Angry Birds* (all mentioned in the assigned reading). 
 
-How are player stories entwined with voyeurism, co-presence, and commiseration? How do they engage and experiment with designed identities? With the values at play in a game's default settings and assumptions about gender? 
+How are player stories entwined with voyeurism, co-presence, and commiseration? How do they engage and experiment with designed identities? With the values at play in a game's default settings and their assumptions about gender? 
 
 *During our seventh meeting*, we'll discuss these two texts (75 minutes) and start chatting about your player story methodologies (15 minutes). A visiting speaker will join us (45 minutes), and you'll also have an opportunity to share some of your responses to Prompt 4 (10 minutes), if you wish. We'll conclude by reviewing Prompt 5 (5 minutes). 
 
@@ -315,3 +315,36 @@ Further reading (not required or expected; just more context if you'd like it):
 * Anita Sarkeesian's ["Tropes vs. Women in Video Games"](https://feministfrequency.com/series/tropes-vs-women-in-video-games/) (20 videos; 2013-17),
 * Adrienne Shaw's "Does Anyone Really Identify with Lara Croft?: Unpacking Identification in Video Games" (41 pages; from *Gaming at the Edge: Sexuality and Gender at the Margins of Gamer Culture* 2014), and 
 * Nick Yee and Quantic Foundry's "Gamer Motivation Model" (9 pages; 2019) 
+
+## Week 8 (October 27th): Playbour and Gamification 
+
+*Before seminar*, please: 
+* Read Patrick Jagoda's "Society of the Game" (40 pages; from *Experimental Games: Critique, Play, and Design in the Age of Gamification* 2020),  
+* Read Lisa Nakamura's "Don't Hate the Player, Hate the Game: The Racialization of Labor in *World of Warcraft*" (17 pages; in *Critical Studies in Media Communication* 26.2 2009), 
+* Draft a response to Prompt 5, and 
+* Optional: check out *Flower*, *Every Day the Same Dream*, *The Graveyard*, *Braid*, *The Stanley Parable*, *Undertale*, *Stardew Valley*, *Mortal Kombat*, *Problem Attic*, *Dys4ia*, *Civilization VI*, *God of War*, and/or *World of Warcaft* (all mentioned in the assigned reading).
+
+When do players "own" their avatars? Under what conditions do they become "workers without bodies"? Or entrepreneurs of themselves? To what effects on how stories are told? 
+
+*During our eighth meeting*, we'll discuss these two texts (60 minutes) and continue chatting about your player story methodologies (15 minutes). A visiting speaker will join us (45 minutes), and you'll also have an opportunity to share some of your experiences playing games and fiction thus far this term (25 minutes). We'll wrap up by attending to what's due next week (your mid-term work in progress) (5 minutes).
+
+Visiting speaker: TBD
+
+*Prompt 5*: Use 500-750 words or 7-10 minutes of audio / video (excluding references) to critically engage any secondary source (assigned or further reading) you've read during Weeks 1-9 of this seminar. (I know it's only Week 8 right now, but you can write about next week's material if you'd like.) Your engagement should be mostly descriptive: describe the text's approach to games and/or interactive fiction, the argument it is making, under what assumptions it is making that argument, and to what effects on your understanding of play, games, and/or player stories. Please include your primary and secondary sources in a references section either in or attached to your work. I advise selecting a text that will inform your player story methodology (see Week 11) and spending three hours or less composing your response. Your audience consists of other students who are also taking a university game studies course, and you should write academically for them. (You'll submit this response on November 3rd, but I suggest getting started this week.)
+
+Further reading (not required or expected; just more context if you'd like it): 
+* Aubrey Anable's "Casual Games, Time Management, and the Work of Affect" (18 pages; in *Ada: A Journal of Gender, New Media and Technology* 2 2013), 
+* Edward Castronova's "The Business of World-Making" (19 pages; from *Synthetic Worlds: The Business and Culture of Online Games* 2005), 
+* Aleena Chia's "The Metaverse, But Not the Way You Think: Game Engines and Automation beyond Game Development" (10 pages; in *Critical Studies in Media Communication* 2022), 
+* Christopher Douglas's "Multiculturalism in *World of Warcraft*" (19 pages; in *Electronic Book Review* 2010),
+* Nick Dyer-Witheford and Greig de Peuter's "Cognitive Capitalism: Electronic Arts" (34 pages; from *Games of Empire: Global Capitalism and Video Games* 2009), 
+* David Golumbia's "Games without Play" (26 pages; in *New Literary History* 40.1 2009), 
+* Ge Jin's [*Gold Farmers*](https://www.youtube.com/watch?v=q3cmCKjPLR8&t=8s) documentary, 
+* Daniel Joseph's "Battle Pass Capitalism" (16 pages; in *Journal of Consumer Culture* 21.1 2021), 
+* Julian Kücklich's "Precarious Playbour: Modders and the Digital Games Industry" (14 pages; in *The Fibreculture Journal* 5 2005),
+* Maurizio Lazzarato's "Neoliberalism in Action: Inequality, Insecurity and the Reconstitution of the Social" (25 pages; in *Theory, Culture and Society* 26.6 2009), 
+* Lisa Nakamura's ["Workers Without Bodies: Digital Labor, Race, and Gender"](https://www.youtube.com/watch?v=4-OkPRX2XVo) (25 minutes; at Brown University 2015), 
+* Hector Postigo's "The Socio-technical Architecture of Digital Labor: Converting Play into YouTube Money" (18 pages; in *New Media and Society* 18.2 2016), 
+* Steven Shaviro's ["Introduction to Accelerationism"](https://manifold.umn.edu/read/no-speed-limit/section/1b09b41b-002e-4b2d-ade0-b7ee76e5e9cc) (from *No Speed Limit: Three Essays on Accelerationism* 2015), 
+* Natasha Dow Schüll's "Engineering Experience: The Productive Economy of Player-Centric Design" (26 pages; from *Addiction by Design: Machine Gambling in Las Vegas* 2012), and 
+* Jennifer Whitson and Martin French's "Productive Play: The Shift from Responsible Consumption to Responsible Production" (20 pages; in *Journal of Consumer Culture* 21.1 2021)
