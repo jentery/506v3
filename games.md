@@ -3,19 +3,13 @@ English 506 | CSPT 500/600 at UVic
 lək̓ʷəŋən and W̱SÁNEĆ Territories      
 Taught by Jentery Sayers (he / him)  
 
-Here's a list of about 150 games and interactive fictions I suggest for your player stories this term. I also published it as [a GG list](https://ggapp.io/sfam/lists/playlist-6ag87zsj) if you prefer navigating by cover art instead of text. (Note that some works of interactive fiction do not appear in GG, thus the GG list is shorter than this one.) 
+Here's a list of about 150 games and interactive fictions I suggest for your player stories this term. I published it as [a GG list](https://ggapp.io/sfam/lists/playlist-6ag87zsj), too, if you're a GG user or prefer navigating by cover art instead of text. (Note that some works of interactive fiction do not appear in GG, thus the GG list is shorter than this one.) Links in the list usually point to either the [GG app](https://ggapp.io/) or [IFDB](https://ifdb.org/). If you'd like content warnings or "emotional spoilers" for a certain work, then try [*Does the Dog Die?*](https://www.doesthedogdie.com/)
 
-Links usually point to either the [GG app](https://ggapp.io/) or [IFDB](https://ifdb.org/).
+The list is obviously biased: aside from relying on material with which I'm relatively familiar, it leans toward games with narrative elements. You won't find many puzzle or sports games, for example. I don't list more than one game in a series. I instead recommend the series itself (say, *The Legend of Zelda*, *Metroid*, or *Metal Gear Solid*) and then follow that recommendation with remark such as "any of them." I don't expect you to cover an entire series of games in a single term; however, newer games in a series almost always refer to preceding ones. There's also the matter of lore and how it shapes the play and interpretation of games in a series.  
 
-The list is obviously biased: aside from relying on material with which I'm relatively familiar, it leans toward games with narrative elements. You won't find many puzzle or sports games, for example. 
+I'm open to suggestions if none of what's below interests you or you came to the seminar with a particular game or interactive fiction in mind. The game or fiction you select just needs to be something I have played and studied a bit (or I could play and study this term). Thanks for meeting me halfway. 
 
-When I recommend a series of games (such as *The Legend of Zelda* or *Metal Gear Solid*), I list only one game in that series and then include a remark such as "any of them." I don't expect you to cover an entire series in a single term; however, newer games in a series will probably refer in some way to the ones preceding them. There's also the matter of lore.  
-
-If you'd like content warnings or "emotional spoilers" for a certain work, then try [Does the Dog Die?](https://www.doesthedogdie.com/)
-
-I'm open to suggestions if none of what's below interests you or you came to the seminar with a particular game or interactive fiction in mind. It just needs to be something I've played and studied a bit. Thanks for meeting me halfway. 
-
-And, of course, don't hesitate to ask if you want me to narrow the list based on your interests, a type of game or play, your technology needs, or . . .  
+Perhaps most important, please don't hesitate to ask if you want me to narrow the list based on your interests, a type of game or play, your technology needs, or . . .  
 
 * [*AI Dungeon*](https://ggapp.io/games/O2lIO1/ai-dungeon-2): "Imagine an infinitely generated world that you could explore endlessly, continually finding entirely new content and adventures. What if you could also choose any action you can think of instead of being limited by the imagination of the developers who created the game? Unlike virtually every other game in existence, you are not limited by the imagination of the developer in what you can do. Any thing you can express in language can be your action and the AI dungeon master will decide how the world responds to your actions." 
 * [*Alien: Isolation*](https://ggapp.io/games/2Zs8Ph/alien-isolation): "Discover the true meaning of fear in *Alien: Isolation*, a survival horror set in an atmosphere of constant dread and mortal danger."
