@@ -489,7 +489,7 @@ Throughout the term, I'll request feedback (verbal and in writing) from you on h
 
 I have a "no questions asked" late policy for any assignments (excluding the final project, due December 15th) submitted within one week (five working days) of its due date. I simply ask that you complete an online form, which I'll circulate during seminar, to apply that policy. Your response to the online form will help me to track work that's arriving a few days late. It'll also save you an email. Of course, I recommend submitting everything on time, but I know that life happens, and for late work I will never expect any sort of documentation from you. 
 
-I will deduct five points per working day for every assignment submitted more than one week (five working days) late. Please email me if you need more than a week's extension. Again, I will comment on all assigned work I receive from you during the term, regardless of when it's submitted.   
+I will deduct three points per working day for every assignment submitted more than one week (five working days) late. Please email me if you need more than a week's extension. Again, I will comment on all assigned work I receive from you during the term, regardless of when it's submitted.   
 
 ### Communications 
 
