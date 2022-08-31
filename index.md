@@ -6,15 +6,14 @@ Thursday, 9:30am - 12:20pm
 Taught by Jentery Sayers (he / him)    
 Office hours: Thursday, 12:30 - 2:30pm    
 [jentery@uvic.ca](mailto:jentery@uvic.ca)   
-View this document in PDF (coming soon).
 
-**This course outline is incomplete.** It's licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
+*This syllabus is licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).*
 
-View this document in PDF (coming soon).
+View this document in [PDF](playerStoriesSyllabus2022Sayers.pdf)
 
 Contents: 
 
-* [tl;dr Version of this Outline](#tldr-version-of-this-outline)
+* [tl;dr Version of this Syllabus](#tldr-version-of-this-syllabus)
 * [About the Seminar](#about-the-seminar)
 * [What's a Player Story?](#whats-a-player-story)
 * [About Me](#about-me)
@@ -26,11 +25,11 @@ Contents:
 * [Related Materials](#related-materials)
 * [Territory Acknowledgement](#territory-acknowledgement)
 
-# tl;dr Version of this Outline
+# tl;dr Version of this Syllabus
 
-In a rush? Overwhelmed by the start of term? Need a guide to steward your trek through this graduate seminar? 
+In a rush? Overwhelmed by the start of term? Need a guide to steward your trek through this seminar?
 
-I made a one-page, [tl;dr version of this outline](guide.html) for you. I'll print you a [PDF copy](guide.pdf), too. This guide is not intended to replace the syllabus, but I hope it's convenient in a pinch. 
+I made a one-page, [tl;dr version of this incredibly long syllabus](guide.html) for you. I'll print you a [PDF copy](guide.pdf), too. This guide is not intended to replace the syllabus, but I hope it's convenient in a pinch. 
 
 # About the Seminar
 
