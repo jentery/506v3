@@ -81,7 +81,7 @@ I'll encourage to you start playing early in the term. This way you can refine y
 
 # Aims, Workload, and Prompts
 
-My primary goal for this seminar is to create an inclusive space where you've ample time and resources to design, produce, share, and refine your own research project (i.e., a player story about a game or fiction of your choice). I've thus kept the reading load to 73 pages or less per week, and I've dedicated most of November and all of December to your projects. Related goals for the seminar include enriching your familiarity with not only game studies but also the experience of research as a mutable process with personal and cultural dimensions. Your player story will function as a site where those dimensions are observable, if not palpable. 
+My primary goal for this seminar is to create an inclusive space where you've ample time and resources to design, produce, share, and refine your own research project (i.e., a player story about a game or fiction of your choice). I've thus kept the reading load to 75 pages or less per week, and I've dedicated most of November and all of December to your projects. Related goals for the seminar include enriching your familiarity with not only game studies but also the experience of research as a mutable process with personal and cultural dimensions. Your player story will function as a site where those dimensions are observable, if not palpable. 
 
 I've designed three workshops on the praxis of making your own player story, and I cooked up eight prompts to scaffold or direct your inquiry from early September to mid-December. This way, you've occasions to attend to your methodology and reflect on your axiology (the values at play in your approaches, language, perceptions, and decisions). You'll also iteratively develop your player story (week by week) instead of composing it from scratch during the last week or so of the term. I hope iteration will reduce your workload and render the seminar accessible for the sake of project-based inquiry.  
 
@@ -120,7 +120,7 @@ You'll notice that, many weeks, I point to further reading. I in no way expect y
 
 The same goes for moments in the schedule when I write, "Optional: check out (games mentioned in the assigned reading)." If you cannot or do not wish to check them out (e.g., Google them, watch them, or play them), then no worries. I mention them only for the sake of tracking our primary sources as we go. For that reason, I might occasionally show clips of those games and fictions during seminar.  
 
-Importantly, material in this seminar frequently engages or reflects issues such as racism, sexism, colonialism, cisheteropatriarchy, white supremacy, ableism, homophobia, transphobia, hegemony, death, violence, toxic masculinity, fatphobia, xenophobia, mental health, anxiety, and lived experiences of harassment and oppression. We might also find many games and interactive fictions to be at times problematic. I will thus conclude each seminar meeting with a brief overview of where content warnings might apply to the following week's assigned materials, and during seminar I will never call individually on you to share your experiences of such issues or to somehow represent other people with similar experiences. If you find that I am approaching any of these issues inadequately or ignorantly, then please don't hesitate to tell me or correct me, and I will learn from my mistakes. If you'd rather not speak with me directly about or during such moments, then I recommend sharing your concerns or corrections with Stephen Ross, who is currently the graduate adviser in English. 
+Importantly, material in this seminar frequently engages or reflects issues such as racism, sexism, colonialism, cisheteropatriarchy, white supremacy, ableism, homophobia, transphobia, hegemony, death, violence, toxic masculinity, fatphobia, xenophobia, mental health, anxiety, and lived experiences of harassment and oppression. We might also find many games and interactive fictions to be problematic at times. I will thus conclude each seminar meeting with a brief overview of where content warnings might apply to the following week's assigned materials, and during seminar I will never call individually on you to share your experiences of such issues or to somehow represent other people with similar experiences. If you find that I am approaching any of these issues inadequately or ignorantly, then please don't hesitate to tell me or correct me, and I will learn from my mistakes. If you'd rather not speak with me directly about or during such moments, then I recommend sharing your concerns or corrections with Stephen Ross, who is currently the graduate adviser in English. 
 
 Finally, a thing to know about me before we proceed: *I'm a planner, I always over-plan, and I’ll opt for care in every instance.* If the workload becomes too much, or the seminar starts to struggle with scope creep, then we’ll cut material. I’ve planned for the maximum in advance, under the assumption that we won't get to everything. And that's totally fine. 
 
@@ -302,7 +302,7 @@ Further reading (not required or expected; just more context if you'd like it):
 * Start working on your player story if you can: play your game or fiction, research it, document it . . ., and 
 * Optional: Check out *Portal*, *Tomb Raider*, *Bayonetta*, *Kim Kardashian: Hollywood*, *Diner Dash*, *Candy Crush Saga*, and/or *Angry Birds* (all mentioned in the assigned reading). 
 
-How are player stories entwined with voyeurism, co-presence, and commiseration? How do they engage and experiment with designed identities? With the values at play in a game's default settings and their assumptions about gender? 
+How are player stories entwined with voyeurism, co-presence, and commiseration? How do they engage and experiment with designed identities? With the values at play in a game's default settings and its assumptions about gender? 
 
 *During our seventh meeting*, we'll discuss these two texts (75 minutes) and start chatting about your player story methodologies (15 minutes). A visiting speaker (see below) will join us for 45 minutes, and you'll also have an opportunity to share some of your responses to Prompt 4 (10 minutes), if you wish. We'll conclude by reviewing Prompt 5 (5 minutes). 
 
@@ -330,7 +330,7 @@ When do players "own" their avatars? Under what conditions do they become "worke
 
 *During our eighth meeting*, we'll discuss these two texts (60 minutes) and continue chatting about your player story methodologies (15 minutes). A visiting speaker (see below) will join us for 45 minutes, and you'll also have an opportunity to share some of your experiences playing games and fiction thus far this term (25 minutes). We'll wrap up by attending to what's due next week (your mid-term work in progress) (5 minutes).
 
-Visiting speaker: [Amanda Phillips](https://gufaculty360.georgetown.edu/s/contact/00336000014SM4eAAG/amanda-phillips) (they/he/she; Associate Professor in the Department of English and Film and Media Studies at Georgetown University) will join us via Zoom at 9:45am.
+Visiting speaker: [Amanda Phillips](https://gufaculty360.georgetown.edu/s/contact/00336000014SM4eAAG/amanda-phillips) (they/he/she; Associate Professor in the Department of English and Film and Media Studies at Georgetown University) will join us via Zoom.
 
 *Prompt 5*: Use 500-750 words or 7-10 minutes of audio / video (excluding references) to critically engage any secondary source (assigned or further reading) you've read during Weeks 1-9 of this seminar. (I know it's only Week 8 right now, but you can write about next week's material if you'd like.) Your engagement should be mostly descriptive: describe the text's approach to games and/or interactive fiction, the argument it is making, under what assumptions it is making that argument, and to what effects on your understanding of play, games, and/or player stories. Please include your primary and secondary sources in a references section either in or attached to your work. I advise selecting a text that will inform your player story methodology (see Week 11) and spending three hours or less composing your response. Your audience consists of other students who are also taking a university game studies course, and you should write academically for them. (You'll submit this response on November 3rd, but I suggest getting started this week.)
 
@@ -364,7 +364,7 @@ How is race experienced as play when games are treated as global commodities for
 
 *During our ninth meeting*, we'll discuss these two texts (60 minutes) and continue chatting about your player story methodologies (15 minutes). A visiting speaker (see below) will join us for 45 minutes, and you'll also have an opportunity to share some of your experiences playing games and interactive fiction thus far this term (10 minutes). We'll talk about Prompt 6 and our plan for Week 11, too, as well as the revisions statement that's due in December (20 minutes).  
 
-Visiting speaker: [Leonard J. Paul](https://www.videogameaudio.com/) (Director of the School of Video Game Audio) will join us via Zoom at 9:45am. 
+Visiting speaker: [Leonard J. Paul](https://www.videogameaudio.com/) (Director of the School of Video Game Audio) will join us via Zoom. 
 
 **Please submit your mid-term work in progress** (20% of your final mark). This submission should include: 
 * Your response to Prompt 3 (from Week 5), 
@@ -551,7 +551,7 @@ The [Student Services website](https://www.uvic.ca/studentaffairs/departments/st
 
 # Related Materials 
 
-I realize this seminar may be your first experience with game studies in an academic context. The following three sections (["Related Reading, "](#related-reading) ["Related Listening,"](#related-listening) and ["Related Resources"](#related-resources)) point you to materials that you might find useful along the way. I know these lists are long and potentially overwhelming. If you're looking for something specific, perhaps related to your research, then let me know. I'll help you to refine the scope. 
+I realize this seminar may be your first experience with game studies in an academic context. The following three sections (["Related Reading,"](#related-reading) ["Related Listening,"](#related-listening) and ["Related Resources"](#related-resources)) point you to materials that you might find useful along the way. I know these lists are long and potentially overwhelming. If you're looking for something specific, perhaps related to your research, then let me know. I'll help you to refine the scope. 
 
 ## Related Reading 
 
@@ -559,7 +559,9 @@ I recommend purchasing merritt k's [*Videogames for Humans*](https://www.instarb
 
 Elsewhere, we'll be reading chapters from several academic monographs, such as Shira Chess's *Reader Player Two*, Tara Fickle's *The Race Card*, Kishonna L. Gray's *Intersectional Tech*, Patrick Jagoda's *Experimental Games*, Christopher B. Patterson's *Open World Empire*, Amanda Phillips's *Gamer Trouble*, Bo Ruberg's *Video Games Have Always Been Queer*, and T.L. Taylor's *Watch Me Play*. If you find a chapter to be especially compelling and relevant to your interests, then I recommend acquiring the entire monograph to further your research. 
 
-If you are looking for a primer on writing games criticism, then try Ian Bogost's *How to Talk about Videogames* (available online via UVic Libraries). There are also many popular and academic publications that engage games in some way. Among them are: 
+If you are looking for a primer on writing games criticism, then try Ian Bogost's *How to Talk about Videogames* (available online via UVic Libraries). It's not a "how to" book; however, it's written for a broad audience and demonstrates various ways to write about games. 
+
+There are also many popular and academic publications that engage games in some way. Among them are: 
 * [*Ada: A Journal of Gender, New Media, and Technology*](https://adanewmedia.org/), "an open-access peer reviewed journal featuring scholarship on gender, new media and technology."
 * [*American Journal of Play*](https://www.museumofplay.org/journalofplay/), which "features interviews, book reviews, and original peer-reviewed research for a wide readership of scholars, educators, policymakers, museum and industry professionals, healthcare workers, and those who seek to understand the importance and impact of play in our world."
 * [*Analog Game Studies*](https://analoggamestudies.org/), "a journal dedicated to the academic and popular study of games containing a substantial analog component."
