@@ -6,6 +6,7 @@ Thursday, 9:30am - 12:20pm
 Taught by Jentery Sayers (he / him)    
 Office hours: Thursday, 12:30 - 2:30pm    
 [jentery@uvic.ca](mailto:jentery@uvic.ca)   
+View this document in PDF (coming soon).
 
 **This course outline is incomplete.** It's licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
 
@@ -243,7 +244,7 @@ Further reading (not required or expected; just more context if you'd like it):
 
 What's the relation between performance, affect, and power in a player story? How are player stories variously interpreted or decoded by audiences? 
 
-*During our fifth meeting*, we'll discuss these two texts (60 minutes) and then start preparing for next week's workshop (30 minutes). A visiting speaker will join us (45 minutes), and you'll also have an opportunity to share some of your thoughts on Prompts 1 and 2 (10 minutes). I'll comment on your early work in progress prior to this meeting, and we'll review Prompt 4 before we go (5 minutes). 
+*During our fifth meeting*, we'll discuss these two texts (60 minutes) and then start preparing for next week's workshop (30 minutes). A visiting speaker (see below) will join us for 45 minutes, and you'll also have an opportunity to share some of your thoughts on Prompts 1 and 2 (10 minutes). I'll comment on your early work in progress prior to this meeting, and we'll review Prompt 4 before we go (5 minutes). 
 
 Visiting speaker: TBD
 
@@ -288,6 +289,7 @@ Further reading (not required or expected; just more context if you'd like it):
 * Naomi Clark's "Storytelling" (35 pages; from *A Game Design Vocabulary*, with Anna Anthropy, 2014), 
 * Amanda C. Cote's "Strategies for Play: Finding Space and Exercising Active Audience Power" (20 pages; from *Gaming Sexism: Gender and Identity in the Era of Casual Video Games* 2020), 
 * Anna Gibbs's "After Affect" (19 pages; from *The Affect Theory Reader* 2010),
+* Darshana Jayemanne's "The Nip and the Byte: Analog and Digital Performances in Videogames" (31 pages; from *Performativity in Art, Literature, and Videogames* 2017),
 * Brendan Keogh's "Across Worlds and Bodies" (32 pages; from *A Play of Bodies: How We Perceive Videogames* 2018), 
 * Patrick Klepek's "*Call of Duty* Devs Tell Us What It's Like to Make a Game in the Wake of a Mass Shooting" (8 pages; in *Waypoint: Games by Vice* 2022),
 * Anastasia Salter and Bridget Blodgett's "Actually, It's about Toxic Geek Masculinity ..." (16 pages; from *Toxic Geek Masculinity in Media Sexism, Trolling, and Identity Policing* 2017), and 
@@ -303,9 +305,9 @@ Further reading (not required or expected; just more context if you'd like it):
 
 How are player stories entwined with voyeurism, co-presence, and commiseration? How do they engage and experiment with designed identities? With the values at play in a game's default settings and their assumptions about gender? 
 
-*During our seventh meeting*, we'll discuss these two texts (75 minutes) and start chatting about your player story methodologies (15 minutes). A visiting speaker will join us (45 minutes), and you'll also have an opportunity to share some of your responses to Prompt 4 (10 minutes), if you wish. We'll conclude by reviewing Prompt 5 (5 minutes). 
+*During our seventh meeting*, we'll discuss these two texts (75 minutes) and start chatting about your player story methodologies (15 minutes). A visiting speaker (see below) will join us for 45 minutes, and you'll also have an opportunity to share some of your responses to Prompt 4 (10 minutes), if you wish. We'll conclude by reviewing Prompt 5 (5 minutes). 
 
-Visiting speaker: TBD
+Visiting speaker: [Whitney "Strix" Beltrán](https://en.wikipedia.org/wiki/Whitney_%22Strix%22_Beltr%C3%A1n) (Project Narrative Director at Hidden Path Entertainment) will join us via Zoom. 
 
 Further reading (not required or expected; just more context if you'd like it): 
 * Ashley M. L. Brown's "Videogames and Sex" (9 pages; from *The Routledge Companion to Media, Sex and Sexuality* 2017, edited by Clarissa Smith, Feona Attwood, and Brian McNair),
@@ -327,9 +329,9 @@ Further reading (not required or expected; just more context if you'd like it):
 
 When do players "own" their avatars? Under what conditions do they become "workers without bodies"? Or entrepreneurs of themselves? To what effects on how stories are told? 
 
-*During our eighth meeting*, we'll discuss these two texts (60 minutes) and continue chatting about your player story methodologies (15 minutes). A visiting speaker will join us (45 minutes), and you'll also have an opportunity to share some of your experiences playing games and fiction thus far this term (25 minutes). We'll wrap up by attending to what's due next week (your mid-term work in progress) (5 minutes).
+*During our eighth meeting*, we'll discuss these two texts (60 minutes) and continue chatting about your player story methodologies (15 minutes). A visiting speaker (see below) will join us for 45 minutes, and you'll also have an opportunity to share some of your experiences playing games and fiction thus far this term (25 minutes). We'll wrap up by attending to what's due next week (your mid-term work in progress) (5 minutes).
 
-Visiting speaker: TBD
+Visiting speaker: [Amanda Phillips](https://gufaculty360.georgetown.edu/s/contact/00336000014SM4eAAG/amanda-phillips) (they/he/she; Associate Professor in the Department of English and Film and Media Studies at Georgetown University) will join us via Zoom at 9:45am.
 
 *Prompt 5*: Use 500-750 words or 7-10 minutes of audio / video (excluding references) to critically engage any secondary source (assigned or further reading) you've read during Weeks 1-9 of this seminar. (I know it's only Week 8 right now, but you can write about next week's material if you'd like.) Your engagement should be mostly descriptive: describe the text's approach to games and/or interactive fiction, the argument it is making, under what assumptions it is making that argument, and to what effects on your understanding of play, games, and/or player stories. Please include your primary and secondary sources in a references section either in or attached to your work. I advise selecting a text that will inform your player story methodology (see Week 11) and spending three hours or less composing your response. Your audience consists of other students who are also taking a university game studies course, and you should write academically for them. (You'll submit this response on November 3rd, but I suggest getting started this week.)
 
@@ -347,7 +349,8 @@ Further reading (not required or expected; just more context if you'd like it):
 * Lisa Nakamura's ["Workers Without Bodies: Digital Labor, Race, and Gender"](https://www.youtube.com/watch?v=4-OkPRX2XVo) (25 minutes; at Brown University 2015), 
 * Hector Postigo's "The Socio-technical Architecture of Digital Labor: Converting Play into YouTube Money" (18 pages; in *New Media and Society* 18.2 2016), 
 * Steven Shaviro's ["Introduction to Accelerationism"](https://manifold.umn.edu/read/no-speed-limit/section/1b09b41b-002e-4b2d-ade0-b7ee76e5e9cc) (from *No Speed Limit: Three Essays on Accelerationism* 2015), 
-* Natasha Dow Schüll's "Engineering Experience: The Productive Economy of Player-Centric Design" (26 pages; from *Addiction by Design: Machine Gambling in Las Vegas* 2012), and 
+* Natasha Dow Schüll's "Engineering Experience: The Productive Economy of Player-Centric Design" (26 pages; from *Addiction by Design: Machine Gambling in Las Vegas* 2012),
+* [Vodeo Games](https://vodeo.games/about), and 
 * Jennifer Whitson and Martin French's "Productive Play: The Shift from Responsible Consumption to Responsible Production" (20 pages; in *Journal of Consumer Culture* 21.1 2021)
 
 ## Week 9 (November 3rd): Global Games and Culturalization 
@@ -360,9 +363,9 @@ Further reading (not required or expected; just more context if you'd like it):
 
 How is race experienced as play when games are treated as global commodities for global audiences? How do player stories perform or situate themselves in the buzz of global game development?  
 
-*During our ninth meeting*, we'll discuss these two texts (60 minutes) and continue chatting about your player story methodologies (15 minutes). A visiting speaker will join us (45 minutes), and you'll also have an opportunity to share some of your experiences playing games and interactive fiction thus far this term (10 minutes). We'll talk about Prompt 6 and our plan for Week 11, too, as well as the revisions statement that's due in December (20 minutes).  
+*During our ninth meeting*, we'll discuss these two texts (60 minutes) and continue chatting about your player story methodologies (15 minutes). A visiting speaker (see below) will join us for 45 minutes, and you'll also have an opportunity to share some of your experiences playing games and interactive fiction thus far this term (10 minutes). We'll talk about Prompt 6 and our plan for Week 11, too, as well as the revisions statement that's due in December (20 minutes).  
 
-Visiting speaker: TBD
+Visiting speaker: [Leonard J. Paul](https://www.videogameaudio.com/) (Director of the School of Video Game Audio) will join us via Zoom at 9:45am. 
 
 **Please submit your mid-term work in progress** (20% of your final mark). This submission should include: 
 * Your response to Prompt 3 (from Week 5), 
@@ -404,7 +407,7 @@ What are we learning from each other's projects? From witnessing and reading oth
 
 How do player stories function as documentation? How are or could they be archived? 
 
-*During our eleventh meeting*, we'll hold a workshop on player stories as documentation (140 minutes). We'll look at examples and address topics such as: 
+*During our eleventh meeting*, we'll hold a workshop in the Digital Scholarship Commons (UVic Libraries Room A308) on player stories as documentation (140 minutes). We'll look at examples and address topics such as: 
 * Preserving games and player stories and also rendering them accessible,  
 * The status of player stories as both memory work and performance, 
 * The tensions between privileging either player stories or game engines as documentation, 
@@ -413,15 +416,18 @@ How do player stories function as documentation? How are or could they be archiv
 
 We'll revisit the [resources](#related-resources) I mention in this syllabus, and we'll return to the prompt for the player story that's due by December 15th (10 minutes).  
 
+Visiting speaker: [J. Matthew Huculak](https://www.uvic.ca/library/help/librarians/huculak/index.php) (he / him; Head of Advanced Research Services and Digital Scholarship Librarian at UVic Libraries) will join us in the DSC.  
+
 *Prompt 7*: Use 250-300 words (excluding references) to write an abstract for your player story. You should identify your audience at some point. Some possible audiences include scholars of games, media, literature, or narrative; game designers or developers; educators; a particular player or fan community; or memory workers invested in preserving games and/or interactive fiction. (I recommend composing with a particular audience in mind.) Your abstract should communicate to your readers the who, what, when, where, and why of your player story, including issues of cultural significance or relevance. Consider the possibility that people may read your abstract *before* engaging your player story. Please include your primary and secondary sources in a references section after the abstract. I advise spending two hours or less composing your response to this prompt. You will probably want to write formally or academically; however, the abstract's style will likely be shaped by your intended audience's expectations and knowledge. (You'll submit this response on December 1st, but I suggest getting started this week.)
 
 Further reading (not required or expected; just more context if you'd like it): 
 * Pippin Barr's [*The Nothings Suite*](https://pippinbarr.com/the-nothings-suite/) (self-published in 2020-22), 
 * Lindsay Grace's [*Black Game Studies*](https://blackgames.professorgrace.com/) (209 pages; with Latoya Peterson, Aaron Trammell, Allen Turner, and Boris Willis; published by Carnegie Mellon University and ETC Press 2019), 
 * Dene Grigar and Stuart Moulthrop's [*Pathfinders: Documenting the Experience of Early Digital Literature*](https://scalar.usc.edu/works/pathfinders/index) (published by Nouspace Publications 2015-18), 
-* Maize Longboat's ["*Terra Nova*: Enacting Videogame Development through Indigenous-Led Creation"](https://spectrum.library.concordia.ca/id/eprint/985763/) (thesis, supervised by Mia Consalvo and Jason Edward Lewis, at Concordia University 2019), 
 * Christian Keathley, Jason Mittell, and Catherine Grant's [*The Videographic Essay: Practice and Pedagogy*](http://videographicessay.org/works/videographic-essay/index) (Middlebury College and the U.S. National Endowment for the Humanities 2019), 
+* Patrick Klepek's ["Video Game Guide Writers Help Keep the Lights On But Get No Respect"](https://www.vice.com/en/article/g5vy39/video-game-guides-writers-help-keep-the-lights-on-but-get-no-respect) (in *Waypoint: Games by Vice* 2022),
 * The [Let's Play Archive](https://lparchive.org/) (self-published and maintained by Baldurk, 2007-present), 
+* Maize Longboat's ["*Terra Nova*: Enacting Videogame Development through Indigenous-Led Creation"](https://spectrum.library.concordia.ca/id/eprint/985763/) (thesis, supervised by Mia Consalvo and Jason Edward Lewis, at Concordia University 2019), 
 * Henry Lowood's "Game Engines and Game History" (20 pages; in *Kinephanos: Journal of Media Studies and Popular Culture* 2014), 
 * James Newman's "(Not) Playing Games: Player-Produced Walkthroughs as Archival Documents of Digital Gameplay" (19 pages; in *The International Journal of Digital Curation* 2.6 2011), 
 * Editors Laine Nooney, Raiford Guins, and Henry Lowood's first issue of [*ROMchip*](https://romchip.org/index.php/romchip-journal/issue/view/july-2019) (2019), 
