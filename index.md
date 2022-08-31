@@ -1,4 +1,4 @@
-**Games and Interactive Fiction**       
+**A Seminar about Games and Interactive Fiction**       
 English 506 | CSPT 500/600    
 Fall 2022 at the University of Victoria  
 lək̓ʷəŋən and W̱SÁNEĆ Territories    
@@ -7,9 +7,9 @@ Taught by Jentery Sayers (he / him)
 Office hours: Thursday, 12:30 - 2:30pm    
 [jentery@uvic.ca](mailto:jentery@uvic.ca)   
 
-*This syllabus is licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).*
+View this document in [PDF](playerStoriesSyllabus2022Sayers.pdf).
 
-View this document in [PDF](playerStoriesSyllabus2022Sayers.pdf)
+*This syllabus is licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).*
 
 Contents: 
 
@@ -27,9 +27,9 @@ Contents:
 
 # tl;dr Version of this Syllabus
 
-In a rush? Overwhelmed by the start of term? Need a guide to steward your trek through this seminar?
+In a rush? Overwhelmed by the start of term? Need a guide to steward you through this seminar?
 
-I made a one-page, [tl;dr version of this incredibly long syllabus](guide.html) for you. I'll print you a [PDF copy](guide.pdf), too. This guide is not intended to replace the syllabus, but I hope it's convenient in a pinch. 
+I made a one-page, [tl;dr version of this syllabus](guide.html) for you. I'll print you a [PDF copy](guide.pdf), too. This guide is not intended to replace the syllabus, but I hope it's convenient in a pinch. 
 
 # About the Seminar
 
@@ -75,9 +75,9 @@ Beyond that, I invite you to visit the ["Related Materials"](#related-materials)
 
 A player story needs a primary source, so I created a [list of roughly 150 games and interactive fictions](games.html) (also a [GG list](https://ggapp.io/sfam/lists/playlist-6ag87zsj)) to help you choose one. In fact, choosing one is an assignment for Week 6 (October 13th). I'm open to suggestions if nothing on the list interests you or you came to the seminar with a particular game or interactive fiction in mind. The game or fiction you select just needs to be something I have played and studied a bit (or I could play and study this term). Thanks for meeting me halfway. 
 
-Perhaps most important, please don't hesitate to ask if you want me to narrow the list based on your interests, a type of game or play, your technology needs, or . . . I realize the list is pretty long, if not a little extra. 
+Please don't hesitate to ask if you want me to narrow the list based on your interests, a type of game or play, your technology needs, or . . . I realize the list is pretty long, if not a little extra. 
 
-I'll encourage to you start playing early in the term. This way you can refine your research, gather plenty of documentation, replay the game or fiction where necessary, and share your work in progress. How you document your play, how you define and compose a player story, and what you ultimately say or argue will be up to you; however, I'll nudge you to try a few techniques before you select one for your project. Notably, your player stories don't need to be high-tech. You can use audio or video, if you wish, or just text and images. I'll cover more of the player story particulars during the three workshops I've planned for the term (see Weeks 6, 12, and 13). For now, let's talk about the aims, workload, and prompts for the seminar. 
+I'll encourage to you start playing early in the term. This way you can refine your research, gather plenty of documentation, replay the game or fiction where necessary, and share your work in progress. How you document your play, how you define and compose a player story, and what you ultimately say or argue will be up to you; however, I'll nudge you to try a few techniques before you select one for your project. Your player stories don't need to be high-tech. You can use audio or video, if you wish, or just text and images. I'll cover more of the player story particulars during the three workshops I've planned for the term (see Weeks 6, 12, and 13). For now, let's talk about the aims, workload, and prompts for the seminar. 
 
 # Aims, Workload, and Prompts
 
