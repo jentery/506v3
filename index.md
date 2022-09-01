@@ -1,7 +1,7 @@
 **A Seminar about Games and Interactive Fiction**       
 English 506 | CSPT 500/600    
 Fall 2022 at the University of Victoria  
-lək̓ʷəŋən and W̱SÁNEĆ Territories    
+lək̓ʷəŋən and <u>W</u>SÁNEĆ Territories    
 Thursday, 9:30am - 12:20pm     
 Taught by Jentery Sayers (he / him)    
 Office hours: Thursday, 12:30 - 2:30pm    
@@ -49,7 +49,7 @@ Since your player story will be your final project, we will not dwell much on ho
 
 # About Me 
 
-My name is Jentery Sayers (he / him). I'm a settler scholar and associate professor of English and Cultural, Social, and Political Thought (CSPT). I direct the Praxis Studio for Comparative Media Studies, and I've been at UVic since 2011. I did my MA and PhD in English at the University of Washington, and I grew up in Richmond, Virginia, where I also got my BA and BS at Virginia Commonwealth University. I'm in the middle of writing a book about the sounds of "playable fiction." I teach media, games, cultural criticism, and American literature at UVic. This is my eleventh graduate seminar here, though it's my first on player stories. 
+My name is Jentery Sayers (he / him). I'm a settler scholar and associate professor of English and Cultural, Social, and Political Thought (CSPT). I direct the Praxis Studio for Comparative Media Studies, and I've been at UVic since 2011. I did my MA and PhD in English at the University of Washington, and I grew up in Richmond, Virginia, where I also got my BA and BS at Virginia Commonwealth University. I'm in the middle of writing a book about the sounds of "playable fiction." I teach media, games, cultural criticism, and American literature at UVic. This is my eleventh graduate seminar here, but it's my first on player stories. 
 
 # Required Materials 
 
@@ -59,7 +59,7 @@ You won't need access to a gaming computer or console; however, you will need ac
 
 I am not asking you to purchase any books for this seminar. I will instead direct you to materials in UVic Libraries and also distribute a course reader of screen-readable PDFs that you may choose to print. If a PDF in the course reader is not accessible or searchable, then please let me know. I'll fix and redistribute it.
 
-The following fair dealing statement applies to each PDF appearing in the course reader: "This copy was made pursuant to the Fair Dealing Guidelines of the University, library database licenses, and other university license and policies. The copy may only be used for the purpose of research, private study, criticism, review, news reporting, education, satire or parody. If the copy is used for the purpose of review, criticism or news reporting, the source and the name of the author must be mentioned. The use of this copy for any other purpose may require the permission of the copyright owner."
+The following fair dealing statement applies to each PDF appearing in the course reader: "This copy was made pursuant to the Fair Dealing Guidelines of the University, library database licenses, and other university licenses and policies. The copy may only be used for the purpose of research, private study, criticism, review, news reporting, education, satire or parody. If the copy is used for the purpose of review, criticism or news reporting, the source and the name of the author must be mentioned. The use of this copy for any other purpose may require the permission of the copyright owner."
 
 To recap, then, you're not required to purchase anything for this seminar, yet you will need access to: 
 * The internet, 
@@ -175,7 +175,7 @@ Further reading (not required or expected; just more context if you'd like it):
 * Brian Sutton-Smith's "Play and Ambiguity" (17 pages; from *The Ambiguity of Play* 2001), 
 * T.L. Taylor's "The Assemblage of Play" (9 pages; in *Games and Culture* 4.4 2009), 
 * Aaron Trammell's "Decolonizing Play" (9 pages; in *Critical Studies in Media Communication* 39.3 2022), and 
-* Emma Witkowski's "Cooperative Play" (8 pages; from *Debugging Game History* 2016, edited by Henry Lowood and Raiford Guins). 
+* Emma Witkowski's "Cooperative Play" (8 pages; from *Debugging Game History* 2016, edited by Henry Lowood and Raiford Guins)
 
 ## Week 3 (September 22nd): Games 
 
@@ -486,7 +486,7 @@ The final project and late-term work in progress are required to pass this cours
 
 I will use the Faculty of Graduate Studies' [official grading system](https://www.uvic.ca/calendar/future/grad/index.php#/policy/B13jeiMdE?bc=true&bcCurrent=07%20-%20Grading&bcGroup=Faculty%20Academic%20Regulations&bcItemType=policies) to assess your work. I do not post marks publicly or outside my office, and I do not use plagiarism detection software.
 
-I will provide written feedback on each of your assignments, regardless of when you submit them: early work in progress (due Sept. 29), mid-term work in progress (due Nov. 3), late-term work in progress (due Dec. 1), revisions statement (due Dec. 1-8), and final project (due Dec. 15). If you ever want additional feedback, then feel free to ask me. I can provide it in person or via email. 
+All assignments should be submitted via Brightspace. I will also use Brightspace to provide written feedback on each of your assignments, regardless of when you submit them: early work in progress (due Sept. 29), mid-term work in progress (due Nov. 3), late-term work in progress (due Dec. 1), revisions statement (due Dec. 1-8), and final project (due Dec. 15). If you ever want additional feedback, then feel free to ask me. I can provide it in person or via email. 
 
 Throughout the term, I'll request feedback (verbal and in writing) from you on how the seminar is going. I'll also ask you to complete Course Experience Surveys at the end of the term (during our last meeting). 
 
@@ -518,13 +518,13 @@ You and I are expected to adhere to [UVic's academic integrity policy](https://w
 
 The University of Victoria is committed to promoting critical academic discourse while providing a respectful and supportive learning environment. All members of the university community have the right to this experience and the responsibility to help create such an environment. The University will not tolerate racism, sexualized violence, or any form of discrimination, bullying, or harassment. 
 
-Please be advised that, by logging into UVic’s learning systems and interacting with online resources, you are engaging in a university activity. All interactions within this environment are subject to the university expectations and policies. Any concerns about student conduct, may be reviewed and responded to in accordance with the appropriate university policy. To report concerns about online student conduct, email [onlineconduct@uvic.ca](mailto:onlineconduct@uvic.ca).
+Please be advised that, by logging into UVic’s learning systems and interacting with online resources, you are engaging in a university activity. All interactions within this environment are subject to the university's expectations and policies. Any concerns about student conduct may be reviewed and responded to in accordance with the appropriate university policy. To report concerns about online student conduct, email [onlineconduct@uvic.ca](mailto:onlineconduct@uvic.ca).
 
 ### Accessibility
 
 If you have a disability or health consideration that may require supports, please feel free to approach me and/or the [Centre for Accessible Learning (CAL)](https://www.uvic.ca/services/cal/) as soon as possible. CAL staff are available by appointment to assess specific needs, provide referrals, and arrange appropriate supports. I will never ask you to disclose a diagnosis to me, and I know that access needs are social, cultural, and structural issues that aren't always addressed, or adequately addressed, by institutions such as the academy. 
 
-Auto-generated transcription and captioning may be enabled in this course. Please be aware that automated transcription and captioning is at best 70-90% accurate and by nature will include error. This depends on the subject matter, speaker, audio quality, and the like. Words prone to error include specialized terminology and proper names. I ask that you refer to the audio feed for clarification of any errors. If you find transcription or captioning that is offensive, please contact me. If you require captions as part of academic supports, please contact me and/or CAL.
+Auto-generated transcription and captioning may be enabled in this course. Please be aware that automated transcription and captioning is at best 70-90% accurate and by nature will include errors. This depends on the subject matter, speaker, audio quality, and the like. Words prone to error include specialized terminology and proper names. I ask that you refer to the audio feed for clarification of any errors. If you find transcription or captioning that is offensive, please contact me. If you require captions as part of academic supports, please contact me and/or CAL.
 
 ### Diversity, Equity, and Inclusion 
 
@@ -635,6 +635,6 @@ Perhaps you're looking for collections of games, Let's Plays, or interactive fic
 
 # Territory Acknowledgement
 
-As a faculty member who lives and works as a guest on these lands, I acknowledge and respect the lək̓ʷəŋən peoples on whose traditional territory the University of Victoria stands, and the Songhees, Esquimalt, and W̱SÁNEĆ peoples whose historical relationships with the land continue to this day.
+As a faculty member who lives and works as a guest on these lands, I acknowledge and respect the lək̓ʷəŋən peoples on whose traditional territory the University of Victoria stands, and the Songhees, Esquimalt, and <u>W</u>SÁNEĆ peoples whose historical relationships with the land continue to this day.
 
 *This course outline for English 506, "Player Stories" (Fall 2022 at the University of Victoria), is licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).* 
