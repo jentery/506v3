@@ -258,7 +258,7 @@ What's the relation between performance, affect, and power in a player story? Ho
 
 *During our fifth meeting*, we'll discuss these two texts (60 minutes) and then start preparing for next week's workshop (30 minutes). A visiting speaker (see below) will join us for 45 minutes, and you'll also have an opportunity to share some of your thoughts on Prompts 1 and 2 (10 minutes). I'll comment on your early work in progress prior to this meeting, and we'll review Prompt 4 before we go (5 minutes). 
 
-Visiting speaker: TBD
+Visiting speaker: [Maddy Myers](https://midimyers.com/) (she / her; Deputy Editor of Games at *Polygon*; co-host of *Triple Click* and *The Mutant Ages*) will join us via Zoom.
 
 *Prompt 3*: Play one of the [recommended games or fictions](games.html) for at least two hours (including replay if need be), preferably with someone else in the seminar. As you do, try experimenting across different media with three distinct ways to document your performance or experience of play. Then use a total of 300-500 words (excluding references) to describe your three approaches and, in so doing, provide an example or two of each in action. (You can attach, insert, or embed audio, images, video, or text. Any text included in your examples does not count against your allotted 250-300 words.) Since you're collaborating with someone on this one, you are welcome to co-author your response. Please include your primary and secondary sources in a references section after the description and documentation. Aside from time spent playing the game or fiction, I advise spending two hours or less writing your response. Your audience is other people in this seminar, including me, and you are welcome to write informally. (You'll submit this response on November 3rd, but I suggest writing at least a draft for today's meeting.)
 
@@ -386,7 +386,7 @@ How is race experienced as play when games are treated as global commodities for
 
 *During our ninth meeting*, we'll discuss these two texts (60 minutes) and continue chatting about your player story methodologies (15 minutes). A visiting speaker (see below) will join us for 45 minutes, and you'll also have an opportunity to share some of your experiences playing games and interactive fiction thus far this term (10 minutes). We'll talk about Prompt 6 and our plan for Week 11, too, as well as the revisions statement that's due in December (20 minutes).  
 
-Visiting speaker: [Leonard J. Paul](https://www.videogameaudio.com/) (Director of the School of Video Game Audio) will join us via Zoom. 
+Visiting speaker: [Leonard J. Paul](https://www.videogameaudio.com/) (he / him; Director of the School of Video Game Audio) will join us via Zoom. 
 
 **Please submit your mid-term work in progress** (20% of your final mark). This submission should include: 
 
